@@ -1,0 +1,95 @@
+# Publications of the TSOs on free connection capacity (Regulation (EU) 2019/943, Article 50(4a): per substation, updated at least monthly).
+# Read automatically by scripts/fetch_connection_capacity.py (GitHub action "Fetch connection capacity", weekly). Nothing here is typed in by hand
+# except the description of WHERE and HOW an operator publishes. A new operator = a new block under "sources", no code.
+
+directory:
+  # Capacitypedia (ENTSO-E and DSO Entity): one page per operator with the same fields. Read for every Core TSO -> data/processed/connection_publications.csv
+  base: "https://www.tsodsoplatform.eu/capacitypedia"
+  # country page of the directory -> JAO name of the TSO: words that identify its operator page. The operator pages are found on the country page, no address is guessed.
+  operators:
+    germany: {50HERTZ: ["50hertz"], AMPRION: ["amprion"], TENNETGMBH: ["tennet"], TRANSNETBW: ["transnetbw"]}
+    austria: {APG: ["apg", "austrian power grid"]}
+    belgium: {ELIA: ["elia"]}
+    czech-republic: {CEPS: ["ceps", "čeps"]}
+    france: {RTE: ["rte"]}
+    hungary: {MAVIR: ["mavir"]}
+    luxembourg: {CREOS: ["creos"]}
+    netherlands: {TENNETBV: ["tennet"]}
+    poland: {PSE: ["pse", "polskie sieci"]}
+    slovakia: {SEPS: ["seps"]}
+    slovenia: {ELES: ["eles"]}
+    # no country page in the directory (as of 11/2026): Croatia (HOPS), Romania (TRANSELECTRICA)
+  pause_seconds: 1.0
+
+sources:
+  # 50Hertz: PDF table, one row per substation. Switch-bay availability in words; MW classes as cell colours (read when the legend colours can be matched).
+  # Format checked on 25.11.2026 with the file of 24.08.2025. The file name carries the date, so the link is looked up on the page at every run.
+  - id: 50hertz
+    tso: 50HERTZ
+    adapter: pdf_status
+    page: "https://www.50hertz.com/de/Vertragspartner/Netzkunden/Netzanschluss"
+    link_pattern: "umspannwerke.{0,40}anschluss|anschlussperspektiv"
+    last_known_url: "https://www.50hertz.com/xspProxy/api/staticfiles/50hertz-client/dokumente/vertragspartner/netzkunden/netzanschluss/20250824_umspannwerke_anschlussperspektiven.pdf"
+    voltage_level: "380 kV"
+    # words of the publication -> status of the model. 'belegt' = all bays expected to be taken, 'überbucht' = requests exceed the bays, 'nicht überbucht' = bays not yet overbooked
+    status_map: {"nicht überbucht": available, "überbucht": limited, "belegt": none}
+    class_labels: ["> 2.000 MW", "1.500 – 2.000 MW", "1.000 – 1.500 MW", "500 – 1.000 MW", "< 500 MW"]
+    min_rows: 10
+    enabled: true
+
+  # TransnetBW: the page lists every substation with status, earliest year and MW classes as text ("Netzanschlusskarte").
+  # Format checked on 25.11.2026 (state 05/2026, assessment as of 01.04.2026: 52 substations).
+  - id: transnetbw
+    tso: TRANSNETBW
+    adapter: page_blocks
+    page: "https://www.transnetbw.de/de/transparenz/netzzugang-und-entgelt/netzanschlusskarte"
+    # 'mittelfristig' = connection possible from about 2032, 'langfristig' = from about 2035 at the earliest (counted as limited), 'nicht verfügbar' = none
+    status_map: {"mittelfristig verfügbar": available, "langfristig verfügbar": limited, "nicht verfügbar": none}
+    # names of the publication that the JAO network model spells differently (checked against the OpenStreetMap matching of the DLR dataset)
+    name_map: {"Engslatt": "Engstlatt", "Heidelberg-Süd": "Heidelberg", "Heidelberg-Neurott": "Neurott", "Karlsruhe-Ost": "Karlsruhe", "Bruchsal": "Bruchsal/Kaendelweg"}
+    min_rows: 20
+    enabled: true
+
+  # Amprion: PDF "Ergänzendes Dokument zu potenziellen Netzanschlussmöglichkeiten" = the substations where a connection is expected to be feasible (green on the map),
+  # one text row each: name, voltage, municipality, (n-0)/(n-1), earliest year, remark. The map itself (two categories: green, and red = "Anschlussmöglichkeit nicht gegeben")
+  # is not read; for substations the document does not list see parameter P_NotListed of the model. Format checked on 25.11.2026 (state April 2026: 10 substations).
+  - id: amprion
+    tso: AMPRION
+    adapter: pdf_rows
+    page: "https://www.amprion.net/Strommarkt/Netzkunden/Netzanschluss/Darstellung-der-potenziellen-Netzanschlussmoeglichkeiten-und-der-Kundenprojekte.html"
+    link_pattern: "Ergaenzendes-Dokument.{0,60}Netzanschluss"
+    last_known_url: "https://www.amprion.net/Dokumente/Strommarkt/Netzkunden/Netzanschlussregeln/07_Darstellung-der-Kundenprojekte-sowie-der-Schaltfeldverfuegbarkeit/Ergaenzendes-Dokument-zu-potenziellen-Netzanschlussmoeglichkeiten-04.2026.pdf"
+    row_pattern: '^(?P<name>.+?)\s+(?P<kv>\d{3})\s*kV\s+(?P<city>.+?)\s+\((?P<n>n-\d)\)\s+(?P<year>20\d{2})(?:\s+(?P<remark>.+))?$'
+    default_status: available
+    # remark of the operator -> status for feed-in, status for load
+    remark_rules:
+      - ["ausschließlich Lastanschl", none, available]
+      - ["Einspeisung.{0,40}reduziert", limited, available]
+    min_rows: 3
+    enabled: true
+
+  # TenneT (Germany): table "Standorte ... mit möglichen Netzanschlüssen" on the page below. The page turns away automatic requests (bot protection, 25.11.2026),
+  # so its table could not be inspected: the reader uses a browser and finds the columns by their header words. Not verified on the real page.
+  - id: tennet
+    tso: TENNETGMBH
+    adapter: table
+    page: "https://www.tennet.eu/de/strommarkt/kunden-deutschland/netzanschlussanfragen"
+    browser: true
+    table_match: "Umspannwerk|Standort"
+    default_status: available
+    min_rows: 3
+    verified: false
+    enabled: true
+
+  # Template for an operator that publishes a table (HTML page, CSV or Excel file) with one row per substation:
+  # - id: example
+  #   tso: APG
+  #   adapter: table            # html table on a page, or a csv / xlsx file
+  #   page: "https://..."       # page with the table, or page on which the file is linked
+  #   link_pattern: "kapazit.*\\.(csv|xlsx)"   # only if the table is a linked file
+  #   table_match: "Umspannwerk"                # a word of the header row (html tables)
+  #   columns: {substation: "Umspannwerk", feed_in: "Einspeisung", load: "Last", status: "Status", year: "Inbetriebnahme"}   # optional: header words, otherwise found automatically
+  #   default_status: available                 # if the table lists only sites where a connection is possible
+  #   browser: true                             # if the page needs a browser (scripts, bot protection)
+  #   min_rows: 5
+  #   enabled: true

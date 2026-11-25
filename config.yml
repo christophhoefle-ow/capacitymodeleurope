@@ -1,0 +1,64 @@
+# Central settings of the data pipeline.
+# Changes here affect all scripts and workflows - please change via pull request.
+
+jao:
+  # Base URL of the JAO Publication Tool API (Core region); see JAO API guide v1.0 (09/2026)
+  base_url: "https://publicationtool.jao.eu/core/api"
+  dataset: "finalComputation"
+  pause_seconds: 0.7          # polite access: one request after the other, short pause in between
+  timeout_seconds: 330        # JAO cancels requests after 5 minutes
+  max_retries: 4              # waiting times 10 s, 20 s, 40 s, 80 s
+  take: 100000                # upper limit per request (JAO notice of 05.11.2026)
+  require_monitoring_received: true   # fetch only once JAO reports "Received"
+
+region:
+  name: "Core CCR"
+  # JAO TSO name (as spelled in the JAO data) -> country (ISO 3166-1 alpha-2). 16 TSOs in 13 countries.
+  tsos:
+    50HERTZ: DE
+    AMPRION: DE
+    TENNETGMBH: DE
+    TRANSNETBW: DE
+    TENNETBV: NL
+    ELIA: BE
+    CREOS: LU
+    RTE: FR
+    APG: AT
+    CEPS: CZ
+    SEPS: SK
+    MAVIR: HU
+    PSE: PL
+    TRANSELECTRICA: RO
+    ELES: SI
+    HOPS: HR
+
+evaluation:
+  timezone: "Europe/Berlin"   # business day = midnight to midnight local time
+  scenario: "base_case"       # base_case = n-0 (no outage), worst_case = worst of all n-1 cases
+  util_high: 0.80             # from this utilisation an hour counts as "high"
+  util_overload: 1.00         # from this utilisation an hour counts as "overload"
+  lookback_days: 7            # number of past days checked for gaps
+
+paths:
+  daily_dir: "data/interim/daily"
+  fetch_log: "data/interim/fetch_log.csv"
+  processed_dir: "data/processed"
+
+sources:
+  # open datasets used to densify the network and to place substations (checked, not yet applied automatically)
+  core_osm:
+    zenodo_record: 13367535        # DLR-VE: Core-TSO substations, transformers and lines matched with OpenStreetMap (ODbL)
+    files: ["Georeferentiation_CORE-TSO_OSM.csv", "buses.csv", "lines.csv", "transformers.csv"]
+  tyndp:
+    cba_projects_url: "https://storage.googleapis.com/open-tyndp-data-store/2024/CBA_projects.zip"   # TYNDP 2024 projects (ENTSO-E, CC BY 4.0), open copy
+  geodata:
+    # exact substation positions: OpenStreetMap objects matched to the names of the JAO Static Grid Model (DLR-VE, ODbL). Address checked on 25.11.2026.
+    dlr_record: 13367535
+    dlr_file: "Georeferentiation_CORE-TSO_OSM.csv"
+    dlr_url: "https://zenodo.org/records/13367535/files/Georeferentiation_CORE-TSO_OSM.csv?download=1"
+    dlr_min_rows: 1000
+    # country borders: Natural Earth admin 0 countries (public domain); the first address that answers is used. Addresses not yet tested from a live run.
+    borders_urls:
+      - "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson"
+      - "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson"
+    borders_max_points: 4500
