@@ -1,0 +1,15 @@
+project_id,section,description,length_km,built_km,tso,state,construction_start,status_text,as_of
+BBPlG-03,A1,Netzverknüpfungspunkt Brunsbüttel – nördlich der B 431 Gemeinde Wewelsfleth,14,0,TenneT,Schleswig-Holstein,Q4 2025,Construction started,2026-11-25
+BBPlG-03,A2,Nördlich der B 431 Gemeinde Wewelsfleth – Schinkelweg Gemeinde Wischhafen (Elbe crossing),9,0,TenneT,"Niedersachsen, Schleswig-Holstein",Q3 2023,Construction started,2026-11-25
+BBPlG-03,A3,Schinkelweg Gemeinde Wischhafen – Landkreisgrenze Stade / Rotenburg (Wümme),44,2,TenneT,Niedersachsen,Q1 2025,Construction started,2026-11-25
+BBPlG-03,A4,Landkreisgrenze Stade / Rotenburg (Wümme) – B 75 südlich Gemeindegrenze Helvesiek / Scheeßel,38,38,TenneT,Niedersachsen,Q2 2024,Line completed (Q2 2026),2026-11-25
+BBPlG-03,B1,B 75 südlich Gemeindegrenze Helvesiek / Scheeßel – Grenze Heidekreis / Region Hannover,68,0,TenneT,Niedersachsen,Q3 2025,Construction started,2026-11-25
+BBPlG-03,B2,Grenze Heidekreis / Region Hannover – Grenze Region Hannover / Landkreis Hildesheim,66,5,TenneT,Niedersachsen,Q3 2024,Construction started,2026-11-25
+BBPlG-03,B3,Grenze Region Hannover / Landkreis Hildesheim – Edemissen / Strodthagen,55,0,TransnetBW,Niedersachsen,Q4 2024,Construction started,2026-11-25
+BBPlG-03,C1,Edemissen / Strodthagen – Landesgrenze Niedersachsen / Hessen,45,0,TransnetBW,Niedersachsen,Q1 2025,Construction started,2026-11-25
+BBPlG-03,C2,Landesgrenze Niedersachsen / Hessen – südlich Landesgrenze Hessen / Thüringen,66,0,TransnetBW,"Hessen, Thüringen",Q4 2024,Construction started,2026-11-25
+BBPlG-03,D1,Südlich Landesgrenze Hessen / Thüringen – südlich Landesgrenze Thüringen / Bayern,75,0,TransnetBW,"Bayern, Thüringen",Q1 2025,Construction started,2026-11-25
+BBPlG-03,D2,Südlich Landesgrenze Thüringen / Bayern – Landkreisgrenze Schweinfurt / Bad Kissingen,45,0,TransnetBW,Bayern,Q2 2025,Construction started,2026-11-25
+BBPlG-03,E1,Landkreisgrenze Schweinfurt / Bad Kissingen – Landesgrenze Bayern / Baden-Württemberg,70,0,TransnetBW,Bayern,Q1 2025,Construction started,2026-11-25
+BBPlG-03,E2,Landesgrenze Bayern / Baden-Württemberg – Bad Friedrichshall,80,27,TransnetBW,Baden-Württemberg,Q3 2024,Construction started,2026-11-25
+BBPlG-03,E3,Bad Friedrichshall – Netzverknüpfungspunkt Großgartach,18,0,TransnetBW,Baden-Württemberg,Q3 2023,Construction started,2026-11-25

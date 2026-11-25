@@ -1,0 +1,19 @@
+Schaltanlage Spannungsebene Stadt/Gemeinde Anschlussauslegung* Voraussichtlich frühestes
+Inbetriebnahmejahr** Anmerkungen
+Clusorth 380 kV Lingen (Ems) (n-1) 2035 Es sind ausschließlich Lastanschlüsse möglich.
+Esch 380 kV Pulheim (n-1) 2032
+Flör 380 kV Gronau (Westfalen) (n-0) 2032
+Herringhausen 380 kV Bohmte (n-0) 2035 Einspeisungen sind hier nur mit reduzierter Leistung möglich.
+Kötz 380 kV Bubesheim (n-1) 2035 Einspeisungen sind hier nur mit reduzierter Leistung möglich.
+Kühmoos 380 kV Rickenbach (n-0) 2035
+Rieselfeld 380 kV Waltrop (n-0) 2035 Einspeisungen sind hier nur mit reduzierter Leistung möglich.
+Meppen 380 kV Meppen (n-1) 2032 Es sind ausschließlich Lastanschlüsse möglich.
+Pöppinghausen 380 kV Castrop-Rauxel (n-0) 2033
+Wittenhorst 380 kV Hamminkeln (n-0) 2033
+Haftungsausschluss:
+Unverbindliche Ersteinschätzung potenzieller Netzanschlussmöglichkeiten
+* (n-0): ein Anschlussfeld vsl. realisierbar
+ (n-1): mindestens zwei Anschlussfelder vsl. realisierbar
+** Je Anlage wird das Jahr als Orientierungswert auf Basis des aktuellen Planungsstands
+ angegeben und Einflüsse anderer Projekte werden nicht berücksichtigt.
+Stand April 2026

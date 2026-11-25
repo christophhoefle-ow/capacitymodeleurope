@@ -1,0 +1,46 @@
+jao_key,jao_name,tso,util_max,suggested_sgm_key,suggested_sgm_name,similarity
+11T0-0000-0642-D,Merzen - Westerkappeln BRAGAU W,AMPRION,0.010826,11T0-0000-2414-H,Merzen - Westerkappeln BRAGAU O,0.97
+11T0-0000-2513-F,Asphard - Eichstetten C2 rt/sw,TRANSNETBW,0.132915,11T0-0000-1937-I,Asphard - Eichstetten rt/sw,0.95
+11T0-0000-2485-N,Kusenhorst - Polsum HALTRN W,AMPRION,0.252521,11T0-0000-2484-Q,Kusenhorst - Polsum HALTERN O,0.95
+11T0-0000-2190-C,Etzenricht - Mechlenreuth 479,TENNETGMBH,0.113677,11T0-0000-2273-6,Etzenricht - Mechlenreuth 437/479,0.94
+11T0-0000-2514-C,Eichstetten C2 - Kuehmoos ws,TRANSNETBW,0.187856,11TD400000573-L7,Eichstetten - Kuehmoos ws,0.94
+11T0-0000-2515-9,Helmstedt/O - Wolmirstedt 492,50HERTZ,0.342422,11T-D2-D8-000213,Helmstedt - Wolmirstedt 492-2,0.93
+11TD2L000000193R,Oberbachern - Oberbrunn 269,TENNETGMBH,0.179718,11TD2L000000194P,Oberbachern - Oberbrunn 270,0.93
+11T0-0000-2189-Q,Etzenricht - Mechlenreuth 478,TENNETGMBH,0.114038,11T0-0000-2273-6,Etzenricht - Mechlenreuth 437/479,0.9
+11T0-0000-2508-4,Oberjettingen C1 - Pulverdingen rt,TRANSNETBW,0.197525,11TD400000519-LD,Oberjettingen - Pulverdingen ws,0.89
+10T-AT-DE-00019T,Oberbrunn/Kruen - Silz 251,TENNETGMBH,0.090012,11T0-0000-1872-M,Y-Oberbrunn (-Kruen - Silz) 251,0.88
+11T0-0000-2507-7,Engstlatt - Oberjettingen C1 rt,TRANSNETBW,0.132906,11T0-0000-0097-8,Engstlatt - Oberjettingen ws,0.88
+NAME|Audorf/S - Handewitt HAND BL,Audorf/S - Handewitt HAND BL,TENNETGMBH,0.124938,11T0-0000-1517-9,Audorf/S - Handewitt blau,0.87
+11TD2L0000000544,Diele - Rhede - Doerpen West SCHWARZ,TENNETGMBH,0.205863,11T0-0000-1018-V,Y-Diele (-Rhede - Doerpen/W) schwarz,0.86
+11T0-0000-2609-X,Merzen - Wehrendorf NSACHS S,AMPRION,0.181629,11T0-0000-0641-G,Hanekenfaehr - Wehrendorf NSACHS S,0.81
+11TD8L538-535--K,Kostermansfeld - Lauchstaedt 538,50HERTZ,0.328139,11TD8L536------5,Klostermansfeld - Wolmirstedt 536,0.8
+11T0-0000-2504-G,Y-Wahle (-Helmstedt - Helmstedt Ost) 1,TENNETGMBH,0.21655,11T0-0000-2253-E,Y-Wahle (-Hattorf - Helmstedt) 1,0.8
+NAME|Ensdorf - Ensdorf TR 421,Ensdorf - Ensdorf TR 421,AMPRION,0.076705,11T0-0000-0606-H,TR Ensdorf TR 421,0.78
+11T0-0000-2413-K,Merzen - Wehrendorf NSACHS N,AMPRION,0.175221,11T0-0000-0641-G,Hanekenfaehr - Wehrendorf NSACHS S,0.77
+11TD2L000000050C,Conneforde - Y Huntorf GELB,TENNETGMBH,0.686486,11T0-0000-1677-H,Conneforde - Emden/O gelb,0.77
+11TD2L0000002180,Dollern - Mehringen 3,TENNETGMBH,0.207254,11T0-0000-2295-T,Landesbergen - Mehringen 3,0.77
+11TD2L000000149U,Landesbergen - Ovenstaedt,TENNETGMBH,0.312557,11T0-0000-2221-W,Y-Eickum (-Landesbergen - Ovenstaedt) 4/4,0.76
+11TD2L0000000714,Conneforde - Y Huntorf WEISS,TENNETGMBH,0.527542,11T0-0000-2397-I,Conneforde - Conneforde/O weiss,0.75
+11T0-0000-2266-1,Mehringen - Ovenstaedt 2,TENNETGMBH,0.319838,11T0-0000-2296-Q,Y-Mehringen (-Ovenstaedt - Eickum) 2/3,0.74
+11T0-0000-2407-C,Y-Helmstedt (-Wahle - Hattorf) 2,TENNETGMBH,0.209899,11T0-0000-2254-B,Y-Helmstedt (-Hattorf - Wahle) 1,0.72
+11TD2L000000219Z,Dollern - Mehringen 4,TENNETGMBH,0.207254,11T0-0000-2295-T,Landesbergen - Mehringen 3,0.72
+11T0-0000-2607-2,Hanekenfaehr - Merzen FREREN S,AMPRION,0.230892,11T0-0000-2250-N,Hanekenfaehr - Meppen BACCUM W,0.7
+11T0-0000-2480-1,Hanekenfaehr - Merzen FREREN N,AMPRION,0.171612,11T0-0000-2250-N,Hanekenfaehr - Meppen BACCUM W,0.7
+11T0-0000-2383-Y,Siedenbruenzow-Putlitz/Sued-Guestrow 512-514,50HERTZ,0.260393,11TD8L513-----16,Siedenbrünzow - Putlitz/Süd 513,0.69
+11T0-0000-0981-M,Conneforde/O - Unterweser ELWE GE/RT,TENNETGMBH,0.646465,11T0-0000-2299-H,Conneforde/O - Elsfleth/W gelb/rot,0.69
+11T0-0000-2503-J,Grafenrheinfeld - Kupferzell sw,TRANSNETBW,0.491292,11TD2L000000085U,Grafenrheinfeld - Oberhaid 423,0.69
+NAME|Muehlenberg - Osterath TOESEE W,Muehlenberg - Osterath TOESEE W,AMPRION,0.380042,11T0-0000-2549-M,Duelken - Osterath FICHTH W,0.69
+11T0-0000-2653-V,Isar - Ottenhofen - Pleinting 444/452,TENNETGMBH,0.032539,11TD2L000000123B,Isar - Ottenhofen 443,0.69
+11T0-0000-2406-F,Y-Wahle (-Helmstedt - Hattorf) 2,TENNETGMBH,0.201371,11TD2L0000002431,Wahle - Hattorf 2,0.69
+11TD8T403GUE12-P,Guestrow - Guestrow 403,50HERTZ,0.084615,11TD8L423------B,Görries - Güstrow 423,0.68
+11T0-0000-2385-S,Siedenbruenzow-Putlitz/Sued-Guestrow 512-514/2,50HERTZ,0.233104,11TD8L513-----16,Siedenbrünzow - Putlitz/Süd 513,0.68
+11T0-0000-2384-V,Siedenbruenzow-Putlitz/Sued-Guestrow 512-514/1,50HERTZ,0.0252,11TD8L513-----16,Siedenbrünzow - Putlitz/Süd 513,0.68
+NAME|Muehlenberg - Utfort LAUERS W,Muehlenberg - Utfort LAUERS W,AMPRION,0.492569,11T0-0000-0113-A,Uerdingen - Utfort UERDIN W,0.68
+11T0-0000-2555-U,Ottenhofen - Pleinting 446/451,TENNETGMBH,0.025206,11TD2L0000001265,Isar - Pleinting 451,0.64
+11T0-0000-2506-A,Y-Helmstedt Ost (-Wahle - Helmstedt) 1,TENNETGMBH,0.306973,11T0-0000-2253-E,Y-Wahle (-Hattorf - Helmstedt) 1,0.63
+11T0-0000-2505-D,Y-Helmstedt (-Wahle - Helmstedt Ost) 1,TENNETGMBH,0.150321,11T0-0000-2253-E,Y-Wahle (-Hattorf - Helmstedt) 1,0.63
+11T0-0000-2214-R,Guestrow-Parchim/Sued 434,50HERTZ,0.005041,,,0.0
+11TD2T000000119P,Luebeck Transformer 212,TENNETGMBH,0.035211,,,0.0
+11TD2T000000118R,Luebeck Transformer 211,TENNETGMBH,0.035587,,,0.0
+11TD2T000000171N,Siems Transformer 411,TENNETGMBH,0.026667,,,0.0
+NAME|Herrenwijk - Siems HWBC GE,Herrenwijk - Siems HWBC GE,TENNETGMBH,0.0,,,0.0

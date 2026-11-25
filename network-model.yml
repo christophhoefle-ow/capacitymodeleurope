@@ -1,0 +1,69 @@
+name: Update network model
+# Automatic: adopts a new release of the JAO Core Static Grid Model (published twice a year) without manual steps.
+# Monthly check; a new release is downloaded, read, validated and compared with the release in use. Only a plausible release replaces the old one.
+# In both cases an issue tells what happened. The workflow 'Build Excel model' starts by itself afterwards.
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Adopt the newest release again"
+        required: false
+        type: boolean
+        default: false
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Adopt a new release if there is one
+        id: sgm
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          set +e
+          if [ "$FORCE" = "true" ]; then python scripts/update_sgm.py --force; else python scripts/update_sgm.py; fi
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+      - name: Save changes
+        id: save
+        if: steps.sgm.outputs.code == '0'
+        run: |
+          python scripts/build_map.py --geojson data/processed/network_map.geojson
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/static data/processed data/manual
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Data: JAO Static Grid Model updated ($(tr -d '\n' < data/manual/sgm_release.txt))"
+            git pull --rebase
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Tell what happened (issue)
+        if: steps.save.outputs.changed == 'true' || steps.sgm.outputs.code != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CODE: ${{ steps.sgm.outputs.code }}
+        run: |
+          if [ "$CODE" = "0" ]; then TITLE="Network model updated automatically: $(tr -d '\n' < data/manual/sgm_release.txt)"; else TITLE="Network model: new release was not adopted"; fi
+          EXISTING=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number --jq length)
+          if [ "$EXISTING" = "0" ]; then
+            gh issue create --title "$TITLE" --body "$(cat data/manual/sgm_update_report.txt 2>/dev/null || echo 'See the log of the run.')
+
+          Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi
+          if [ "$CODE" != "0" ]; then exit 1; fi

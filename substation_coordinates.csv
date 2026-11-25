@@ -1,0 +1,1552 @@
+substation,latitude,longitude,accuracy,source
+Abramowice,51.786,21.0286,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Achene,50.2605,5.0554,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Achene Sncb,50.2605,5.0554,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Adamow,51.9996,17.7476,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Airvault,46.8241,-0.1251,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Alba Iulia,46.07,23.57,"anchor (approx., unchecked)",place of the same-named locality
+Albertirsa,47.25,19.6,"anchor (approx., unchecked)",place of the same-named locality
+Albertville,45.6619,6.4183,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Albrechtice,49.7857,18.5079,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Alegro Convertor Station,50.753,5.6673,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Alfstedt,53.5666,9.0688,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Algermissen,52.2782,9.9172,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Allinges,46.0087,6.4404,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Altbach,48.7191,9.3709,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Altdöbern,51.64,14.01,"anchor (approx., unchecked)",place of the same-named locality
+Altenfeld,50.5734,10.9915,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Altenkleusheim,51.0106,7.938,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Altentreptow/Nord,53.7366,13.3188,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Altentreptow/Süd,53.6236,13.1747,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Altheim,48.5857,12.2208,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Altlussheim,49.2935,8.5116,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Alytus,54.2985,22.0447,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Amelsbueren,51.8986,7.6071,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Andre Dumont,50.9393,5.4862,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Aniolow,50.8517,18.8012,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Anould,48.1848,6.9603,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Aoste,45.5492,6.0711,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Aqueducs (Les),48.5937,2.4295,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Arad,46.6121,21.2136,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Ardoise (L ),44.0864,4.7034,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Arefu,45.35,24.65,"anchor (approx., unchecked)",place of the same-named locality
+Arenc,43.322,5.3664,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Argia,,,no location (no anchor and no located neighbour),
+Argia (Bayonne Sud),43.4214,-1.4301,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Argiesans,47.5321,6.7068,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Argoeuves,50.0717,1.9416,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Arkale,,,no location (no anchor and no located neighbour),
+Arlod,46.0973,5.8177,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Arnage,47.9145,0.4238,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Arpe,51.178,8.2117,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Arrighi,48.7991,2.3626,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Aschaffenburg,49.9685,9.0897,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Asphard,47.5,8.05,"anchor (approx., unchecked)",place of the same-named locality
+Asslar,50.5909,8.4801,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Attaques (Les),50.8073,1.8859,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Aubange,49.5664,5.7958,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Aube,48.7429,0.5566,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Aubusson,45.9537,2.1891,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Audorf,54.2909,9.727,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Audorf/S,54.2878,9.726,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Aulnoye,50.1992,3.8162,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Auronzo,46.619,12.9785,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Aussois,45.1403,6.737,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Auzat,43.5759,1.7251,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Avallon,47.5176,3.8889,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Avelgem,50.7826,3.4692,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Avelin,50.55,3.1,"anchor (approx., unchecked)",place of the same-named locality
+Avignon (Poste),43.9482,4.855,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Avoine,47.2243,0.1635,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Avoine (Poste 400 Kv),47.2638,0.3092,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Awirs,50.5846,5.415,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Babylon,50.6355,14.4558,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bacalan,44.8823,-0.5458,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bacau Sud,46.5453,26.8753,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Bacharach,50.0262,7.6925,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Baczyna,52.65,15.05,"anchor (approx., unchecked)",place of the same-named locality
+Baia Mare,47.6891,23.283,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Baixas,42.7323,2.8042,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Balaruc,43.7063,3.8615,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Balma (Poste),43.634,1.0145,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Bandstahl,50.4493,7.4484,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Barbosi,45.4457,27.2743,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Barbuise,48.9133,3.071,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Barjac,44.3148,4.3434,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Barnabos,49.3728,1.714,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Baru Mare,45.5,23.0,"anchor (approx., unchecked)",place of the same-named locality
+Basf,49.5286,8.4083,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bastillac,43.2253,0.0401,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Batzendorf,48.7993,7.7244,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bauler,49.9586,6.211,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bayer,51.0114,6.9772,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bayet,46.6225,2.8588,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Beauchamps,49.9456,1.9416,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Beaulieu,46.1763,-1.1204,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Beaumont-Monteux,45.0192,4.928,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Beauregard (Saint-Laurent-Nouan),47.8734,1.9913,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Beautor (Poste),49.6539,3.3267,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+BEC,45.0334,-0.5946,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bechterdissen,52.0003,8.6596,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bekescsaba,46.68,21.1,"anchor (approx., unchecked)",place of the same-named locality
+Belle-De-Mai,43.2344,5.2417,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Belle-Epine,48.1283,-1.7537,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Belval,49.5101,5.9477,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Benteler,52.469,7.318,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bentwisch,54.112,12.2135,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Berge,43.9741,-0.7207,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Bergholz,48.7672,7.0894,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bergmannsglueck,51.5985,7.0376,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bergrheinfeld/W,49.9821,10.1509,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bergshausen,51.259,9.5138,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bergum,52.948,5.4831,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Bericevo,46.07,14.6,"anchor (approx., unchecked)",place of the same-named locality
+Berneau,50.7431,5.717,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bertikow,53.2524,13.9568,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Beuren,47.8064,8.8615,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bezaumont,48.8769,6.1723,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Bezdecin,50.6578,15.1124,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Beziers-Est,43.3519,3.2598,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Beznau,47.6257,8.1948,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Bezon,47.9067,-2.4171,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Biancon,43.5951,6.8359,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bicske Del,47.48,18.62,"anchor (approx., unchecked)",place of the same-named locality
+Bierun,50.2468,18.8934,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Biescas,42.9009,0.5637,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Bilice,43.0741,16.4324,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Birkenfeld,48.8901,8.6416,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bisamberg,48.3578,16.3783,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bischofsheim,49.9825,8.3896,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bissy,45.5903,5.9007,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bixterheide,51.4093,7.7244,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Blachownia,50.1216,18.0453,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Bleiswijk,52.02,4.53,"anchor (approx., unchecked)",place of the same-named locality
+Blocaux,49.772,1.7834,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Blockland,53.1074,8.82,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Blooren,50.0882,6.4441,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Bochum,51.4722,7.1794,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bocklemuend,50.9841,6.8517,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Boctois,48.3939,3.9249,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Boguchwala,51.0954,21.4834,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Boguszow,50.911,16.192,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Bois-Tollot,46.2506,6.0557,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Boisse (La),45.7444,5.2014,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Bollenacker,50.8338,6.9633,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bollene (Poste Reseau),44.3034,4.7353,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bonneau,46.5985,0.3939,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bonnieres,48.8112,1.7912,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Borken,51.0606,9.2594,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Borssele,51.43,3.73,"anchor (approx., unchecked)",place of the same-named locality
+Bosaca,48.9,17.8,"anchor (approx., unchecked)",place of the same-named locality
+Boudeyre,44.5755,4.373,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Boule (La),48.8873,2.203,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bourguignon,47.4215,6.7757,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Boutre,43.6909,5.8323,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Boxmeer,51.65,5.95,"anchor (approx., unchecked)",place of the same-named locality
+Bradu,45.3917,24.3053,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Brailly-Cornehotte,50.2363,1.9678,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Brasov,46.0192,25.0438,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Braud,45.2299,-0.4744,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Braunschweig/N,52.3018,10.5055,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Brauweiler,50.9662,6.8046,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Brazi Vest,44.9889,25.1417,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Brennilis,48.4437,-4.0592,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Brens (Cnr),43.9611,1.963,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Breuil (Le),45.64,2.3012,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Breukelen Kortrijk,52.17,5.0,"anchor (approx., unchecked)",place of the same-named locality
+Brinje,44.98,15.1,"anchor (approx., unchecked)",place of the same-named locality
+Broc-Carros (Le),43.8031,7.1916,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Brode,50.9957,2.3565,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Brokdorf,53.8518,9.344,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bruchsal/Kaendelweg,49.1329,8.5621,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bruegel,50.881,4.2317,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bruges,44.9454,-0.7,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Brume,50.3755,5.8434,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Brume Sncb,50.3755,5.8434,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Brunsbuettel 50H,53.923,9.227,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Brunsbüttel,53.8958,9.2017,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Bucuresti Sud,44.4167,25.376,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Buehl,48.7054,8.1206,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Buenzwangen,48.7015,9.5628,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Buers,47.1428,9.8107,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Buerstadt,49.6337,8.4194,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Buescherhof,51.4992,6.9268,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Buettel,53.9168,9.2349,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Buire,49.9159,4.0493,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Buj,48.12,21.9,"anchor (approx., unchecked)",place of the same-named locality
+Bujakow,49.88,19.0,"anchor (approx., unchecked)",place of the same-named locality
+Buttes-Chaumont,48.8756,2.3763,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Byczyna,50.2642,19.0478,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Bydgoszcz Zachod,53.0413,17.4792,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Bystricany,48.977,18.0088,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Bärwalde,51.4137,14.5081,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+C. Stred,50.143,14.7686,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Caen,49.1212,-0.4085,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Calafat,44.2081,21.218,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Calan,47.8202,-3.026,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Calea Aradului,46.2074,20.8899,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Calugareni,44.0292,25.192,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Campia Turzii,46.7697,24.0661,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Camporosso,,,no location (no anchor and no located neighbour),
+Cantegrit,44.0131,-0.8875,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Capelle (La),49.9737,3.9351,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Carrieres,49.2431,2.4414,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Castelle (La),43.5622,3.5717,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Castellet (Le),43.3399,5.5855,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Cazaril,43.1713,0.5135,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cebin,49.3303,16.4581,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Centrale Awirs,50.5422,5.5595,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Centrale Coo,50.3847,5.8614,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cergy,49.049,2.0593,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cernavoda,44.4818,27.3447,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Cernay,49.2723,4.0864,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cestas,44.6111,-1.1265,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Cetate,44.4262,21.362,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Chabossiere (La),47.2067,-1.6854,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chaffard (Le),45.6622,5.1226,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chaingy,47.8756,1.8033,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chalon,47.1201,5.6267,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Chambry,48.9841,2.9073,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Champagnier,45.1064,5.7092,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Champagnole,46.7582,5.9076,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Champfleur,48.1967,0.3174,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Champion,50.5,4.78,"anchor (approx., unchecked)",place of the same-named locality
+Champs-Regnaud,47.4461,4.6297,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Champvans,47.0982,5.4442,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chanceaux,47.4821,0.6947,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chancenay,48.6769,4.9985,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Charenton,48.7069,2.2321,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Charlottenburg,52.522,13.3155,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Charpenay,45.6391,5.0376,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Chateau-Gombert,43.3377,5.4317,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chateauneuf-Du-Rhone,44.4325,4.6871,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Chateaurenard,43.8643,4.8569,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chaussee (La),48.6431,4.6334,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Chavanod,45.8148,6.098,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Chelm,52.4303,21.5174,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Chesnoy (Le),48.3893,2.8668,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chevalet,,,ambiguous (name probably joins several sites),
+Chevilly,48.7739,2.3653,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chevire,47.1871,-1.6099,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chmielow,50.6047,21.2365,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Chodov,50.018,14.5037,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cholet,47.0587,-0.9021,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chooz,50.0875,4.7958,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chotejovice,50.5831,13.8014,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Chrast,49.7786,13.4749,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cieplice,50.87,15.7,"anchor (approx., unchecked)",place of the same-named locality
+Cierny Vah,49.1858,18.6365,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Cikovce,45.3335,17.0644,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Cirkovce,46.6064,16.2755,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Cirolliers,48.5514,2.32,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cissac,45.2182,-0.8435,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cize,46.2049,5.4627,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cleon,49.3165,1.0402,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Clerac,45.1779,-0.2507,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cloppenburg/O,52.85,8.08,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Cluj Est,46.94,23.5556,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Cluj Floresti,46.75,23.5,"anchor (approx., unchecked)",place of the same-named locality
+Coche (La),45.4964,6.5099,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Colayrac,44.318,0.4204,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Commerveil,48.3167,0.376,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Compensatie Filterstation Eemshaven,53.4292,6.8353,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Compiegne,49.435,2.841,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Concarneau,47.8949,-3.892,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Confluent,45.1864,5.7232,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Conneforde,53.3331,8.052,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Conneforde/O,53.3318,8.0539,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Constanta Nord,44.435,28.1475,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Contamine,45.5702,6.5167,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Coquainvilliers,49.2633,-0.3087,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Corbiere (La),47.4859,-0.4781,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cordemais-Poste,47.2861,-1.8704,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Coriolis,48.8211,2.5427,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Cornier,46.0846,6.2952,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cossigny,48.7287,2.6789,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Couchey,47.2548,5.0,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Coudon (Le),43.1578,5.9728,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Coulange,44.6324,4.7234,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Courcelles,50.4945,4.3475,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Courrieres,50.4501,2.9306,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Courtry,48.5479,2.774,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Craiova Nord,44.3529,23.6806,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Crayestein,51.9134,4.9762,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Crechets (Les),50.674,2.6754,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Creney,,,ambiguous (name probably joins several sites),
+Cretaine,48.73,2.2322,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Creys,45.7562,5.4665,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Croisiere,44.2141,4.2373,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Croix-De-Metz,48.6921,5.9164,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cubnezais,45.0688,-0.4355,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Cusset-Poste,45.765,4.9163,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Custine,48.7654,6.1386,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Czarna,51.4453,15.9275,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Czerwonak,52.4314,16.5034,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+d. Mostistea,44.3916,25.3948,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Dakovo,,,no location (no anchor and no located neighbour),
+Dambron,48.1237,2.0456,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Damery,49.0758,3.8711,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Dantou,44.4616,0.8306,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Darse,43.4353,4.9677,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Darste,45.9472,25.0851,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Dasny,49.0253,14.422,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Datteln,51.6321,7.3389,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Dauersberg,50.7681,7.8638,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Daxlanden,49.009,8.3133,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+DC Phillipsburg,49.2457,8.4427,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Dechy,50.3099,3.1577,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Delesto,53.1573,7.1338,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Dellmensingen,48.3041,9.8855,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Detk,47.76,20.194,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Detmarovice,49.85,18.5,"anchor (approx., unchecked)",place of the same-named locality
+Dettingen,50.0603,8.9895,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Diefflen,49.3649,6.7555,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Diele,53.1258,7.3114,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Diemen,52.34,5.0,"anchor (approx., unchecked)",place of the same-named locality
+Digue-Des-Francais,43.6766,7.2069,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Dillenburg,50.7592,8.285,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Dipperz,50.5287,9.7742,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Distre,47.2079,-0.1143,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Divaca,45.4083,14.8188,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Djerdap,44.67,22.52,"anchor (approx., unchecked)",place of the same-named locality
+Doberie,48.5395,-1.879,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Dobrotwor,52.5123,22.462,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Dobrudja,43.8205,28.3695,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Dobrzen,50.75,17.9,"anchor (approx., unchecked)",place of the same-named locality
+Dodewaard,51.9,5.65,"anchor (approx., unchecked)",place of the same-named locality
+Doel,51.3227,4.2549,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Doernigheim,50.1309,8.873,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Doerpen West,52.981,7.2566,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Doerpen/W,52.981,7.2566,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Doetinchem,51.7658,6.2627,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Dollern,53.5428,9.5018,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Domloup,48.0929,-1.5561,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Domnesti,44.6885,25.3458,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Donzac,44.1026,0.8228,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Donzenac,44.8083,2.1542,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Draganesti Olt,44.3649,23.8953,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Dreibein Mellach,46.9101,15.4912,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Dresden/Süd,50.9895,13.8423,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Dronniere (La),49.1387,-0.3389,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Duelken,51.2429,6.33,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Duennwald,50.9991,7.0235,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Duernrohr,48.3289,15.8852,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Dumbrava,46.8026,26.5217,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Dunamenti,47.3,18.9,"anchor (approx., unchecked)",place of the same-named locality
+Dunowo,54.18,16.1,"anchor (approx., unchecked)",place of the same-named locality
+Duval,50.6082,5.4923,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Echalas,45.5428,4.7193,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Echinghen,50.6966,1.6398,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Edelstahl,51.2994,6.5424,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eeklo Noord,51.2067,3.5374,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eemshaven,53.45,6.83,"anchor (approx., unchecked)",place of the same-named locality
+Eemshaven Converterstation,53.4449,6.8449,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Eemshaven Oost,53.4449,6.8375,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Eemshaven Oudeschip,53.43,6.83,"anchor (approx., unchecked)",place of the same-named locality
+Eemshaven Synergieweg,53.4321,6.828,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Eguzon,46.4582,1.6209,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eiberg,51.4491,7.1257,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eichstetten,48.0964,7.7519,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eichstetten C1,48.0943,7.7492,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Eichstetten C2,48.0902,7.7439,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Eickum,52.1052,8.5714,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eindhoven,51.44,5.47,"anchor (approx., unchecked)",place of the same-named locality
+Eisenach,51.0021,10.3864,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eisenhüttenstadt,52.1748,14.6041,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eisenhüttenstadt (Abzweig),52.1616,14.5112,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eiserfeld,50.8422,7.9851,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Elancourt,48.7744,1.9508,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+ELK,53.5216,21.0617,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Elk Bis,53.7353,21.281,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Eller,51.2056,6.847,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Elmenhorst,51.6185,7.4451,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Elsen,51.7364,8.7022,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Elsfleth/W,53.2368,8.4029,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eltmann,49.98,10.6644,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Emden/O,53.3571,7.2447,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Emscherbruch,51.5549,7.172,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Enco-De-Botte,43.3461,5.3296,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Endersbach,48.8126,9.3776,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Endrup,55.5,8.7,"anchor (approx., unchecked)",place of the same-named locality
+Engstlatt,48.3101,8.8729,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Enniger,51.8231,7.994,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ens,52.65,5.8,"anchor (approx., unchecked)",place of the same-named locality
+Ensdorf,49.2911,6.7732,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Enval,45.8698,3.2447,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Ernestinovo,,,ambiguous (name probably joins several sites),
+Ernsthofen,48.1249,14.4737,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ertsmyra,58.6712,6.7547,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Erzhausen,51.8976,9.9238,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Escaillon (L ),43.282,5.9428,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Etival,48.1782,7.1492,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Etupes,47.4688,6.7405,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Etzenricht,49.6311,12.1144,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Etzersdorf,48.2687,15.7374,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eula,51.1563,12.5171,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Eybens,45.1732,5.5577,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+FAI,45.5134,27.4502,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Fallou,48.9379,2.2614,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Famars,50.1911,3.3387,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Fantanele,46.7646,24.7345,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Farge,53.2039,8.5156,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Farradiere (La),45.9671,-0.8605,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Faux Frenais,48.6498,3.9755,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Fedderwarden,53.5558,8.0637,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Feistritz,46.5358,14.173,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Felsozsolca,48.12,20.85,"anchor (approx., unchecked)",place of the same-named locality
+Ferouge,44.9321,2.1202,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Feuillane,43.4549,4.9062,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Filesti,45.4061,27.2926,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Fleac,45.1206,-0.0919,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Flebour,49.9909,6.239,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Flers,48.7369,-0.5518,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Fleyriat,46.3175,5.4991,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Floirac,45.1137,-0.4489,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Florensac,43.4849,3.1511,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Focsani Vest,46.0638,27.0031,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Font (La),,,no location (no anchor and no located neighbour),
+Fosses (Les),48.7899,3.1108,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Fouscais,43.5696,3.8671,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Frankfurt,50.0923,8.6185,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Frankfurt/N,50.1592,8.7351,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Frankfurt/SW,50.0923,8.6185,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Frasne,46.8719,6.163,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Freiberg/Nord,50.9302,13.2555,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Frejus,43.7197,6.8087,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Friedrichshain,52.5215,13.4564,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Froncles,48.2945,5.1488,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Fruges,50.8857,1.9825,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Fuehlingen,51.0335,6.9349,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Fundeni,44.5406,25.4904,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Fwh-S,50.0781,8.5372,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Förderstedt,51.9083,11.644,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gabcikovo,48.0944,17.8144,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Gadalin,46.8,23.4,"anchor (approx., unchecked)",place of the same-named locality
+Galceag,46.3744,22.897,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Galoreaux (Les),47.2097,-1.0295,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Gampaloup,45.0476,5.1019,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Ganderkesee,53.0319,8.564,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ganges,43.9459,3.7243,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Garchizy,46.9357,3.046,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Garenfeld,51.4016,7.506,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gatinais,48.0891,2.3849,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gaudiere (La),43.6444,3.1652,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Gauglin,47.5066,2.8703,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gavrelle,50.3373,2.8853,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gdansk,54.35,18.65,"anchor (approx., unchecked)",place of the same-named locality
+Gdansk Przyjazn,54.334,17.9926,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Gdansk-Blonia,54.4,18.6,"anchor (approx., unchecked)",place of the same-named locality
+Geertruidenberg,51.7,4.85,"anchor (approx., unchecked)",place of the same-named locality
+Geithe,51.673,7.9307,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gellep,51.3249,6.6747,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gelsenberg,51.5407,7.037,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Genissiat-Poste,46.0559,5.8046,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gersteinwerk,51.6765,7.709,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gezelle,51.2636,3.201,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gheorgheni,46.9848,25.6379,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Ghizdaru,43.9549,25.0729,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Giessen/N,50.6057,8.6566,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ginestous,43.8778,1.4263,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Givors,45.6374,4.7955,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Givors-Bans,45.5757,4.7823,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+GKM,49.4449,8.5018,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gkmb,49.4449,8.5018,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gkn2,49.0394,9.1773,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gleidingen,52.237,10.4195,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Glinki,53.1948,14.6709,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+God,47.7,19.15,"anchor (approx., unchecked)",place of the same-named locality
+God Kelet,47.7,19.17,"anchor (approx., unchecked)",place of the same-named locality
+Godin,44.5408,2.2277,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gohrpunkt,51.0909,6.7098,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Goldshoefe,48.8971,10.1174,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gonyu,47.8963,18.1417,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Gorzow,52.73,15.23,"anchor (approx., unchecked)",place of the same-named locality
+Gourjade,43.6231,2.253,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gouy,50.4825,4.3324,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gradacac,,,no location (no anchor and no located neighbour),
+Gradiste,44.4291,24.0371,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Grafenrheinfeld,49.9812,10.1879,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Graffenstaden,48.5304,7.6836,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gramme,50.512,5.287,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grand-Coeur,45.5158,6.4884,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grand-Couronne,49.3505,0.9932,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grand-Quevilly,49.4193,1.0222,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grande-Ile,45.6508,5.6673,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Grande-Synthe,51.0123,2.2791,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grandval,44.958,3.473,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Gransee,52.9941,13.2635,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Granzay,46.2187,-0.5185,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Graustein,51.5539,14.4721,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gremberghoven,50.9056,7.0474,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grepilles,46.1755,3.9403,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Greuth,46.5432,13.6798,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grezillac,45.0038,-0.5886,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Grille-Avoine,47.2243,0.1635,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grimaud,43.2666,6.5531,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grisolles,44.5783,6.1366,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grohnde,52.0267,9.3902,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gronau,52.203,7.0349,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gros-Caillou,50.3172,3.3387,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Grosne,46.5365,5.0285,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Grossgartach,49.1436,9.1516,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Großgartach C2,49.1268,9.1528,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Grosskrotzenburg,50.0826,8.9587,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Groszowice,50.155,17.2246,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Grudziadz,53.5,18.75,"anchor (approx., unchecked)",place of the same-named locality
+Gruenkraut,47.7446,9.6453,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Guarbecque,50.619,2.5044,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Guebwiller,47.8993,7.2265,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Guetersloh,51.9271,8.3642,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gueugnon,46.7165,4.6823,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Gundelfingen,48.5185,10.3918,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gupie,44.5505,0.1416,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gura Ialomitei,44.7742,26.9761,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Gurtweil,47.6398,8.2519,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Gutinas,46.3021,26.3857,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Gyor,47.9793,17.6791,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Görries,53.6007,11.3706,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Güstrow,53.8165,12.1878,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+H. Zdana,48.55,18.7,"anchor (approx., unchecked)",place of the same-named locality
+H. Zivotice,49.9732,17.6478,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hagenwerder,51.0626,14.9465,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Halemba,50.181,18.498,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Halfeshof,51.1716,7.1231,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hallendorf,52.1671,10.3692,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hamborn,51.5055,6.7875,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hamburg/N,53.7415,9.9841,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hamburg/N 50H,53.69,9.97,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Hamburg/Nord,53.7415,9.9841,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hamburg/Ost,53.5554,10.1596,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hamburg/Süd,53.488,9.9089,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Handewitt,54.7284,9.3156,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hanekenfaehr,52.4768,7.3082,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hannover/W,52.3604,9.5226,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Harcourt (Poste Blinde),48.8339,2.2679,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hardegsen,51.6493,9.8529,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hasdat,45.7,23.0,"anchor (approx., unchecked)",place of the same-named locality
+Hattingen,51.3893,7.168,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hattorf,52.3675,10.7612,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hausruck,48.1044,13.8998,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Havre (Le) (Poste),49.4842,-0.013,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Heide/W,54.1622,9.0512,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Heidelberg,49.3601,8.6638,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Heilbronn,49.1777,9.2071,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Heinersdorf,52.4428,14.1333,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Heinsch,49.6932,5.7554,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Heinsch Sncb,49.6909,5.7578,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Heisdorf,49.6231,6.5262,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Helmstedt,52.2001,10.9993,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Helmstedt Ost,52.23,11.0,"anchor (approx., unchecked)",place of the same-named locality
+Helmstedt/O,52.23,11.0,"anchor (approx., unchecked)",place of the same-named locality
+Hengelo,52.27,6.79,"anchor (approx., unchecked)",place of the same-named locality
+Hennigsdorf,52.6572,13.2063,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Henri-Paul,46.747,4.5037,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Herbertingen,48.0644,9.4253,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Herie-La-Vieville (Le),49.8089,3.6622,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hernani,,,no location (no anchor and no located neighbour),
+Herse(La),49.3607,2.7021,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hesseln,52.0659,8.319,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hessenberg,47.3972,15.0209,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hessenweg,52.7272,6.0162,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Heviz,46.8,17.2,"anchor (approx., unchecked)",place of the same-named locality
+Hoepfingen,49.5903,9.4469,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hoheneck,48.9144,9.1908,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hollandse Kust Noord Landstation,,,no location (no anchor and no located neighbour),
+Hollandse Kust Zuid Landstation,52.1165,4.5486,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Holque,50.9494,2.2712,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Homburg,49.3048,7.3193,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Horta,51.1147,3.6046,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Houdreville,48.52,6.0813,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hourat (Le),42.9843,-0.4291,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hradec,50.3465,13.3273,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Hueffenhardt,49.2946,9.0918,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Huellen,51.5256,7.1232,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Huntorf,53.1902,8.409,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Husum/N,54.5102,9.0792,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Huta Czestochowa,50.7694,18.6869,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Iaz,45.3999,21.4865,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Ibbenbueren,52.2772,7.7257,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Iernut,46.45,24.2,"anchor (approx., unchecked)",place of the same-named locality
+Ile-Napoleon,47.7691,7.3824,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ingolstadt,48.7611,11.5078,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Inhausen,53.6202,8.0601,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Irsching,48.7649,11.5814,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Isaccea,45.27,28.45,"anchor (approx., unchecked)",place of the same-named locality
+Isalnita,44.3161,23.5466,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Isar,48.6069,12.2969,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Issel,43.6263,2.235,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Issoire,45.0018,3.8237,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Itzehoe/W,53.9676,9.449,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Izegem,50.898,3.2267,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Izernore,46.0991,5.5869,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+J. Bohunice,48.6557,17.6357,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Jacquard,45.4439,4.3761,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Jalis,43.6222,0.5873,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Jamki,50.4013,18.6804,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Janow,51.6024,18.453,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Jardelund,54.8512,9.1974,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Jasiniec,53.0722,17.9456,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Jessen/Nord,51.8,13.0585,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Joachimow,50.7479,18.8538,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Jochenstein,48.5193,13.7107,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Jonquieres,43.829,4.5837,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Joux-La-Ville,47.6436,3.8824,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Jozsa,47.5,21.7,"anchor (approx., unchecked)",place of the same-named locality
+Jumeaux (Les),46.8018,-0.0715,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Jupille,50.6445,5.6196,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kainachtal,46.9036,15.4232,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kallo,51.2533,4.2888,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kaprun,47.27,12.76,"anchor (approx., unchecked)",place of the same-named locality
+Karben,50.2036,8.8099,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Karlsruhe,49.0074,8.4516,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+KarlsruheWest,49.0131,8.3491,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Karnap,51.5142,6.9961,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kassoe,54.8785,9.27,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Katowice,50.3716,18.3674,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Kedzierzyn,50.0242,17.9025,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Kelsterbach,50.0479,8.5315,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kembs,47.6542,7.5171,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kerepes,47.55,19.28,"anchor (approx., unchecked)",place of the same-named locality
+Khmelnytskyi,51.0515,22.1685,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Kiel/S,54.2755,10.1563,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kiel/W,54.3488,10.0604,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kielce,50.7479,20.16,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Kielce Piaski,50.8031,20.2191,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Kisvarda,48.2,22.08,"anchor (approx., unchecked)",place of the same-named locality
+Klaus,47.8214,14.1632,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Klece,46.0,14.7,"anchor (approx., unchecked)",place of the same-named locality
+Kledering,48.139,16.4315,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Klein Ilsede,52.2935,10.2359,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kletne,49.6781,17.9412,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Klikowa,50.05,20.98,"anchor (approx., unchecked)",place of the same-named locality
+Klixbuell/S,54.7941,8.8651,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Klostermansfeld,51.584,11.5163,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Knapsack,50.8635,6.8427,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Koblenz,50.3859,7.5933,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kocin,49.1581,14.3529,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Koetz,48.4,10.3,"anchor (approx., unchecked)",place of the same-named locality
+Koksochemia,50.4814,18.9516,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Komorowice,49.9842,19.0991,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Konin,52.213,17.5296,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Konjsko,43.55,16.5,"anchor (approx., unchecked)",place of the same-named locality
+Kopanina,50.1328,18.3474,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Kork,48.55,7.9,"anchor (approx., unchecked)",place of the same-named locality
+Kosice,48.7029,21.0267,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Kottigerhook,52.1776,7.0116,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kozienice,51.6505,20.2141,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Kozlodui,44.1669,22.5239,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Krajnik,52.9,14.3,"anchor (approx., unchecked)",place of the same-named locality
+Krasikov,49.8587,16.6684,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Krempermarsch,53.8468,9.5027,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Kriegenbrunn,49.5585,10.9729,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kriftel,50.0973,8.4718,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Krimpen aan den IJssel,51.9427,4.765,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Krizovany,48.35,17.7,"anchor (approx., unchecked)",place of the same-named locality
+Kromolice,52.2072,16.6275,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Kronstorf,48.1164,14.4694,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Krosno,49.052,20.6146,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Krosno Iskrzynia,49.75,21.9,"anchor (approx., unchecked)",place of the same-named locality
+Krsko,45.95,15.5,"anchor (approx., unchecked)",place of the same-named locality
+Kruckel,51.4572,7.417,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kruen,47.4959,11.2777,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Krümmel,53.4117,10.4168,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kuehmoos,47.5955,7.9581,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kuehtai,47.2077,11.0057,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+KUES Luengenkamp,52.3903,6.6988,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Kummerfeld,53.6907,9.776,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kupferzell,49.2326,9.6947,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kuppenheim,48.8463,8.2488,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Kusenhorst,51.6964,7.0602,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+L. Mara,49.1733,19.1731,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+La Troque,50.6027,5.4964,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lacu Sarat,45.2653,27.4926,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Lage,51.9834,8.814,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lagisza,50.4196,18.5272,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Laichingen,48.465,9.7042,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lambsheim,49.5244,8.295,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lamspringe,51.956,10.0176,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Landerneau,48.4605,-4.2366,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Landesbergen,52.5383,9.1253,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Landres,49.3075,5.7741,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Laneuveville,48.6488,6.2348,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lannemezan,43.1131,0.3926,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Larcay,47.3519,0.7675,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Latena,49.6576,2.9382,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lauchstädt,51.4065,11.8946,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Laufenburg,47.56,8.06,"anchor (approx., unchecked)",place of the same-named locality
+Launay,48.5637,-1.2603,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lavera,43.3833,5.0238,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Laveyrune,44.6205,3.8999,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Le Val,50.6042,5.4927,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lechhausen,48.4013,10.9367,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Leguevin,43.5982,1.2742,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lehrte,52.38,9.9182,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lelystad,52.5,5.47,"anchor (approx., unchecked)",place of the same-named locality
+Lemesany,48.95,21.2,"anchor (approx., unchecked)",place of the same-named locality
+Lescar,43.3244,-0.1989,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Lesniow,51.9124,15.2872,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Lesquive,43.8167,1.2734,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Leszno,52.0237,16.036,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Leupolz,47.7387,10.3625,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Levice,48.2,18.6,"anchor (approx., unchecked)",place of the same-named locality
+Lienz,46.825,12.8058,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Liessem,50.6429,7.1369,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lignat,45.9391,3.2546,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Lillo,51.3012,4.3073,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Limburg,50.4065,8.0658,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Limeux,50.011,1.8284,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Linde,51.2325,7.2332,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lingostiere,43.7188,7.1878,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lint,51.1177,4.5087,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lippborg,51.6735,7.9812,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lippe,51.6445,7.4034,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Liskovec,49.705,18.3159,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Liskowiec,49.9098,18.6362,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Liter,47.1,18.0,"anchor (approx., unchecked)",place of the same-named locality
+Liviere,43.3038,3.0702,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Lixhe,50.7544,5.6681,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Logelbach,47.8328,7.4559,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Loges (Les),48.5021,2.4954,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Logis-Neuf,44.6746,4.7914,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lomza Systemowa,53.2221,20.7007,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Long-Champ (Le),49.548,3.3437,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Longefan,45.6531,6.2383,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Longuenesse,51.0664,2.3462,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Lonny,49.8275,4.5729,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Loscoat,48.4253,-4.497,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Losnice,50.6389,18.9798,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Lotru,46.294,23.8759,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Louisfert,47.6804,-1.4409,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Louwsmeer,52.901,5.5531,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Lublin Systemowa,52.1555,20.9524,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Lubmin,54.1388,13.6854,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lubocza,50.2548,20.0356,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Ludersheim,49.394,11.3271,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Luebeck,53.9195,10.6409,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lueneburg,53.2194,10.3789,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Luestringen,52.2651,8.1046,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lumes,49.7481,4.7962,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lutterbach,47.7528,7.2574,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Lüdershagen,54.2848,13.0792,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Maade,53.5605,8.1226,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Maasbracht,51.1075,5.8498,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Maasvlakte,52.0906,4.5503,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Macon,46.5817,5.1997,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Maerlant,51.2273,3.3155,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Malchow,52.5899,13.4956,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Malesice,50.0841,14.5297,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Malgovert,45.6197,6.7913,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Malintrat,45.8092,3.1955,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mambelin,47.4571,7.1759,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Mandarins,50.9033,1.7844,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Manoir (Le),49.2632,1.2342,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Marbach,48.9269,9.2363,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Margeride,44.8313,3.1718,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Maribor,46.55,15.65,"anchor (approx., unchecked)",place of the same-named locality
+Marienberg,47.9132,12.1302,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mariselu,46.8689,23.7361,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Marke,51.7409,12.2616,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Marlenheim,48.6118,7.5265,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Marmagne,47.1019,2.2604,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Marquis (Le),45.0104,-0.5512,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Marsillon,43.4313,-0.2909,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Martonvasar,47.32,18.78,"anchor (approx., unchecked)",place of the same-named locality
+Martyre (La),48.444,-4.1934,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Marzahn,52.5358,13.5241,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Masquet,44.6199,-0.9497,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Massenhoven,51.1958,4.6293,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mastaing,50.2965,3.2907,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Matrei,46.8332,13.1251,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Maubeuge,49.9973,3.7969,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Mauges (Les),47.2668,-0.944,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Maureix (Le),46.1698,1.7427,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Maximiliansau,49.0294,8.2733,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mayrhofen,47.1625,11.8508,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mazures,49.9057,4.6259,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mechlenreuth,50.1837,11.8108,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Meckenheim,50.6177,7.0129,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mecklar,50.9176,9.7459,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Medgidia Sud,44.4563,27.5337,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Meduric,45.08,16.948,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Medzibrod,49.02,18.3843,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Meeden,53.14,6.93,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Meerhout,51.1073,5.0633,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mehringen,52.8624,9.1759,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Mehrum,52.3151,10.0876,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mehrum/N,52.3154,10.0668,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Meiningen,47.2001,9.6455,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Meissen,52.2785,8.959,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Meitingen,48.5395,10.8676,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Melina,45.35,14.6,"anchor (approx., unchecked)",place of the same-named locality
+Mengede,51.5758,7.353,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Menton/Trinite Victor,,,no location (no anchor and no located neighbour),
+Menuel,49.5858,-1.4053,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Meppen,52.7532,7.2772,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mercator,51.1541,4.2469,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Merlatiere,46.7764,-1.3303,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mery-Sur-Seine,48.5199,3.9183,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Merzen,52.45,7.9,"anchor (approx., unchecked)",place of the same-named locality
+Mettmann,51.2486,6.9983,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Metzingen,48.5499,9.2743,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mezerolles,48.933,1.7415,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mezocsat,47.9277,20.8772,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Miegebat,42.9316,-0.447,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mikulowa,51.1054,15.0696,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Milin,49.5961,14.0708,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Milosna,52.2452,19.7834,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Mintia,45.9,22.9,"anchor (approx., unchecked)",place of the same-named locality
+Mions,45.6743,4.9755,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mirovka,49.5807,15.5991,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mitry-Mory (E.D.F.),48.9667,2.6314,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mitte,52.5031,13.3687,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mittelbexbach,49.3694,7.2358,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mochovce,48.0289,18.2505,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Mohon,49.7528,4.7369,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Moimont,49.091,2.529,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Moirans,45.3283,5.5533,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mokre,52.141,21.7729,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Moldava,48.6,20.98,"anchor (approx., unchecked)",place of the same-named locality
+Mole (La),45.3237,2.459,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Moliere,48.0099,0.2046,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Monceau,49.6586,4.3243,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Mondion,46.9273,0.4529,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Montagny-Les-Lanches,45.8283,6.3601,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Montcroisette,50.4505,2.8019,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Montezic (Poste Exterieur),44.7345,2.6387,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Montgros,44.7976,3.9119,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Montguyon,45.2035,-0.2184,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Montlucon,46.3202,2.6042,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Montois,49.229,5.6885,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Montpellier,43.5805,3.8494,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Montpezat,44.7027,4.2295,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Montvicq,46.3058,2.8211,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Morbras,48.6492,2.667,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Moreau,43.56,3.0357,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Moru,49.3574,2.578,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Mory,52.1409,19.2459,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Morzyczyn,53.4,14.65,"anchor (approx., unchecked)",place of the same-named locality
+Mosciska,52.2239,19.1371,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Mostar,43.0101,16.8044,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Moszczenica,49.9169,18.0969,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Motte (La) (Villeneuve-Les-Avignon),43.9892,4.8274,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mouche (La),45.7201,4.8443,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mougins,43.5124,6.7045,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Mouguerre,43.4844,-1.4415,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Moulaine,49.483,5.7919,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Moulineaux,48.8263,2.2686,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mousseaux,46.8119,1.7264,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mraclin,45.7526,16.2517,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Mt-Saint-Martin,49.5458,5.8514,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Muehlhausen,48.8523,9.2157,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Muendelheim,51.3557,6.7238,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Muenster,51.9284,7.5914,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Muhlbach,47.9071,7.5558,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Mukacevo,48.45,22.72,"anchor (approx., unchecked)",place of the same-named locality
+Mukachevo,48.457,21.9812,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Munteni,45.9927,27.0112,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Mureaux (Les),48.9843,1.8226,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Mutterstadt,49.4213,8.3523,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Nadab,46.8,21.3,"anchor (approx., unchecked)",place of the same-named locality
+Naoutot,44.0479,-1.0561,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Narew,53.3621,21.5084,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Nauders,46.8815,10.669,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Neckarwestheim,49.04,9.19,"anchor (approx., unchecked)",place of the same-named locality
+Nehden,51.4279,8.6248,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Nemo Convertor Station,51.1684,3.0688,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Nemours,48.2351,2.6879,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Neoules,43.3352,5.8692,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Neuenhagen,52.5391,13.7102,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Neufinsing,48.2213,11.8132,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Neurott,49.3566,8.6232,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Neusiedl,47.9605,16.838,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Neuves-Maisons,48.6108,6.1125,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Neznasov,50.3359,15.8352,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Niederlangen,52.8698,7.1946,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Niederrhein,51.6463,6.6808,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Niederstedem,49.9226,6.4751,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Niederstotzingen,48.5299,10.2317,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Niedervieland,53.0925,8.6952,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Niort,46.1882,-0.6954,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Nogentel,49.0238,3.4066,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Nordlicht,51.5652,6.9066,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Norf,51.1471,6.7725,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Nosovice,49.669,18.4307,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Nourottes,48.9667,2.0129,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Novion,48.914,2.3042,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Nysa,50.3545,16.615,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Oberbachern,48.2915,11.3704,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oberbrunn,48.0519,11.2938,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oberhaid,49.9281,10.836,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oberjettingen,48.5836,8.7852,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Obermooweiler,47.6528,9.8014,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oberottmarshausen,48.238,10.8406,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Obersielach,46.6685,14.6815,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oberwald,48.9861,8.4455,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oberzier,50.8714,6.4577,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ocsa,47.3,19.23,"anchor (approx., unchecked)",place of the same-named locality
+Oechtel,52.3194,7.2786,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Offshore Switchyard,51.5135,2.9915,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Offshore Switchyard (Rentel),51.3932,3.0293,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Offshore Windpark,51.5135,2.9915,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Offshore Windpark (Mermaid),51.4054,2.8871,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Offshore Windpark (Northwester Ii),51.4959,3.1922,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Offshore Windpark (Seastar),51.5876,3.1555,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Oftringen,47.5091,8.0125,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Ohlensehlen,52.564,8.8956,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ohligs,51.1742,7.0087,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Okroglo,45.9169,14.9767,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Olsztyn,53.7652,20.2048,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Olsztyn Matki,53.8,20.4,"anchor (approx., unchecked)",place of the same-named locality
+Oltarzew,52.1427,19.1503,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Onet-Le-Chateau,44.7815,2.8669,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Oostzaan,52.43,4.88,"anchor (approx., unchecked)",place of the same-named locality
+Opladen,51.0699,6.9655,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Opocinek,50.0319,15.6492,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oradea Sud,47.0,21.95,"anchor (approx., unchecked)",place of the same-named locality
+Orangerie (L),46.8448,0.5767,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ormes,49.2362,3.9753,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oroszlany,47.48,18.3,"anchor (approx., unchecked)",place of the same-named locality
+Osburg,49.7248,6.8137,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ossenberg,51.5564,6.5773,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Osterath,51.2606,6.6258,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ostroleka,53.0853,20.4006,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Ostrow,51.65,17.8,"anchor (approx., unchecked)",place of the same-named locality
+Ostrow Wlkp,51.5236,16.9703,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Ostrowiec,50.9036,21.1259,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Oststeiermark,47.091,15.7256,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Otelarie H,45.7285,22.9108,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Otrokovice,49.2168,17.5596,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ottenhofen,48.2068,11.8682,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Otterbach,49.4828,7.729,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ottmarsheim,47.6924,7.2781,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Oudehaske,52.7736,5.7435,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Oudon,48.0196,-0.7078,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Ovenstaedt,52.403,8.9397,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Oxylux,49.5147,5.9354,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+P. Biskupice,48.1,17.2,"anchor (approx., unchecked)",place of the same-named locality
+P. Bystrica,49.12,18.43,"anchor (approx., unchecked)",place of the same-named locality
+Pabianice,51.564,18.2897,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Padriciano,45.3629,14.8899,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Paffendorf,50.9525,6.596,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Paks,46.57,18.85,"anchor (approx., unchecked)",place of the same-named locality
+Palente,47.2674,6.0541,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Palun (La),43.8988,5.7037,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Pancevo,45.2714,20.9294,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Parchim/Süd,53.4074,11.8998,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pariset,45.1802,5.6998,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Paroseni,45.4,23.3,"anchor (approx., unchecked)",place of the same-named locality
+Pasewalk,53.5076,14.0337,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pasikurowice,51.06,16.95,"anchor (approx., unchecked)",place of the same-named locality
+Passy,45.916,6.725,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Patis,49.392,2.1006,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Patnow,52.2318,17.5058,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Pecs,46.07,18.23,"anchor (approx., unchecked)",place of the same-named locality
+Pehlin,45.35,14.45,"anchor (approx., unchecked)",place of the same-named locality
+Pelicanu,44.1942,26.4473,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Pelissier,43.9545,2.138,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pelplin,53.8703,18.1263,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Penchard,49.0415,2.6223,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Penly (Poste Evacuation),49.946,1.9966,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Perizet (Le),50.1958,3.1719,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Perkata,47.05,18.8,"anchor (approx., unchecked)",place of the same-named locality
+Perleberg,53.0869,11.8524,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Perleberg - Putlitz,53.4944,12.3677,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Pertain,49.7953,2.8571,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pessac,44.8072,-0.7114,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Pestis,45.7762,22.806,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Petite-Rosselle,49.1973,6.8824,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Peyrat-Le-Chateau,45.8019,1.8035,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pfalzdorf,51.6946,6.2218,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pfungstadt,49.8156,8.5886,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Philippsburg,49.2502,8.4409,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Phyrn,47.6785,14.3305,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Piaseczno,52.1068,19.495,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Picocherie (La),47.419,0.5422,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Pierrette (La),50.6232,2.9924,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pila Krzewina,53.1,16.75,"anchor (approx., unchecked)",place of the same-named locality
+Piotrkow,51.3812,18.4254,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Piquage A Duvigneau,51.0133,2.158,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Piquage A La Praz-St-Andre,45.2053,6.5836,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Piquage A Saint Gerons,44.9443,2.2126,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Piquage A Villiers-Le-Bel,49.0109,2.4078,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pirach,48.1487,12.7475,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pitesti Sud,45.4255,24.3157,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Pivoz-Cordier,45.4093,4.7612,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Plaine Haute,48.4299,-2.8779,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Plaisance,48.8654,2.5189,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Plan-D Orgon,43.5775,5.9088,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Plan-De-Grasse,43.6917,6.724,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Plat,,,no location (no anchor and no located neighbour),
+Plattling,48.7633,12.8518,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Plaud,45.9122,0.8585,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pleinting,48.6668,13.1032,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Plessis-Gassot,49.0341,2.4327,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Plewiska,52.34,16.8,"anchor (approx., unchecked)",place of the same-named locality
+Pleyber-Christ,48.5264,-3.8719,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Plock,52.55,19.7,"anchor (approx., unchecked)",place of the same-named locality
+Plomin,45.1559,15.034,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Podlog,,,ambiguous (name probably joins several sites),
+Podolszyce,52.6947,18.4297,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Poeppinghausen,51.5736,7.2641,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Polaniec,50.5,21.3,"anchor (approx., unchecked)",place of the same-named locality
+Police,53.2254,14.7374,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Polkowice,51.5,16.07,"anchor (approx., unchecked)",place of the same-named locality
+Polsum,51.6537,7.0572,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Pongau,47.35,13.2,"anchor (approx., unchecked)",place of the same-named locality
+Pont-Eveque,45.6984,5.1527,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Pont-Sept,49.4952,0.1804,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pont-Sur-Sambre,50.1215,3.831,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Pontarlier,46.9117,6.3575,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pontchateau,47.432,-2.0999,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ponteau,43.361,5.0234,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Porabka-Zar,49.9371,19.0072,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Porcheville,48.996,1.7977,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Poreba,50.2295,19.0441,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Port-De-Bouc (Client),43.4153,4.9919,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Port-Jerome,49.4823,0.5512,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Portet-St-Simon,43.5282,1.3868,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Portile de Fier,44.67,22.52,"anchor (approx., unchecked)",place of the same-named locality
+Poteau-Rouge,47.908,-3.2975,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Poznan Pld,52.3425,16.7396,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Pradella,46.855,10.6705,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Praga,52.2857,19.5045,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Pragneres,43.0209,0.5104,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Pratclaux,44.9734,3.65,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Praz-St-Andre,45.2053,6.5836,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Preguillac,45.6739,-0.6059,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Preilack,51.8889,14.4282,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Preles (Les),47.808,3.608,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pressy,46.0798,6.5608,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Prestice,49.5897,13.3353,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Prijedor,44.8118,17.1361,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Primeveres,48.944,2.5137,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Prionnet,43.7053,5.7723,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Prosenice,49.5033,17.4983,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Puiseux,49.0546,2.0131,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pulawy,51.7721,20.433,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Pulgar,51.197,12.3374,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pulverdingen,48.903,9.0454,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Punkt odczepowy XCO,54.5987,17.617,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Pusy,47.6529,6.1637,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Puteaux,48.8421,2.3821,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Putlitz/Süd,53.2508,12.1091,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Pymont,46.7388,5.4845,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Quatre-Seigneurs,43.6469,3.8425,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Quint,49.829,6.7023,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Quintes (Les),47.8861,0.2405,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+R. Sobota,48.38,20.0,"anchor (approx., unchecked)",place of the same-named locality
+Rabatau,43.2773,5.3973,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Radkowice,50.6746,20.4433,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Ragow,51.8759,13.9013,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rahman,44.9899,28.0036,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Raie-Tortue,48.7886,2.2511,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Raitersaich,49.3787,10.8431,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rance-Poste,48.6172,-2.0293,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ranville,49.2164,-0.2818,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rassuen,43.4937,4.9671,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ratesti,45.2833,24.1756,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Rath,51.2686,6.8089,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ratsbusch,51.5352,7.5001,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Raureni,45.8259,24.5603,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Rdk7,49.0115,8.3045,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rdk8,49.0126,8.3062,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Realtor,43.4468,5.3428,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Reclaw,53.5446,14.8546,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Recouvrance,47.0768,-1.2349,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Recy,48.5584,4.4088,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Redipuglia,45.2353,15.1498,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Redwitz,50.1621,11.1932,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Regensburg,49.01,12.105,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Remise,49.2879,1.9302,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Remptendorf,50.5343,11.646,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Remptendorf - Großschwabhausen,50.878,11.2214,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Reporyje,50.0158,14.3299,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Resita,45.3,21.9,"anchor (approx., unchecked)",place of the same-named locality
+Retezat,45.798,22.4352,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Reuter,52.5316,13.249,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Revigny,48.8179,4.998,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rhede,53.0267,7.2547,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rheinau,49.4405,8.5472,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rheinhausen,51.4,6.7,"anchor (approx., unchecked)",place of the same-named locality
+Richemont,49.1701,5.5405,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Riddes,46.18,7.22,"anchor (approx., unchecked)",place of the same-named locality
+Ried,49.7229,8.3922,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Rilland,51.4,4.15,"anchor (approx., unchecked)",place of the same-named locality
+Rimavska Sobota,48.1192,20.368,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Rimiere,50.5403,5.4719,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Riorges,,,no location (no anchor and no located neighbour),
+Riveneuve,43.4089,1.3302,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Riviere (La),45.4127,4.4059,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Robbenplaat,53.2853,7.2156,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Rognac,43.5073,5.2174,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rogowiec,51.2215,18.3074,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Rokitnica,50.2649,18.1621,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Rolampont,47.2662,5.3014,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+ROM,46.3242,0.1456,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Romainville,48.8945,2.4377,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Roman Nord,46.7954,27.4506,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Rommersheim,50.2113,6.46,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rommerskirchen,51.0089,6.7022,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Romsee,50.6139,5.6604,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Romsee Sncb,50.6139,5.6604,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rondissone,45.6729,6.5981,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Roquerousse,43.5345,5.0515,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Rosegg,46.5683,14.028,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rosenblumendelle,51.4446,6.9482,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rosieres,48.2619,4.0543,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rosiori,47.8312,22.7328,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Rospez,48.4668,-2.6961,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Rotensohl,48.7367,10.2224,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rougemontier,49.4414,0.8671,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Rousson,48.0947,3.2785,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rouvroy,49.5494,5.5065,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Roxel,51.9703,7.5459,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Roye,49.6942,2.8004,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rozki,51.452,19.9333,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Ruethi,47.3243,9.6132,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Rueyres,44.7793,2.6892,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ruhrzink,51.6213,7.3242,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rulhat,45.8135,3.2704,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Rzeszow,50.03,22.0,"anchor (approx., unchecked)",place of the same-named locality
+Röhrsdorf,50.8587,12.8151,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+S. Mitrovica,44.97,19.6,"anchor (approx., unchecked)",place of the same-named locality
+S. Nova Ves,49.0713,20.3895,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Saarwellingen,49.3601,6.766,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sacalaz,45.8,21.1,"anchor (approx., unchecked)",place of the same-named locality
+Saclay (Plateau),48.7204,2.2003,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sainneville,49.4867,0.5692,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Saint Hubert,49.1818,5.5701,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Saint-Triphon,46.28,6.99,"anchor (approx., unchecked)",place of the same-named locality
+Saintes,45.7513,-0.6127,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sajoivanka,48.25,20.5,"anchor (approx., unchecked)",place of the same-named locality
+Sajoszoged,48.07,20.95,"anchor (approx., unchecked)",place of the same-named locality
+Sala,48.4684,17.4788,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Salaj,47.4131,23.9388,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Salzach,47.7524,13.1198,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Salzburg,47.8,13.05,"anchor (approx., unchecked)",place of the same-named locality
+Sandershausen/O,51.3314,9.5853,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sandorfalva,46.35,20.1,"anchor (approx., unchecked)",place of the same-named locality
+Sandouville,49.4756,0.2954,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sanilhac,45.1432,0.6854,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sanssac (L'Eglise),45.0451,3.8003,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Saone,47.2333,6.1361,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sarasdorf,48.0319,16.696,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sardanesti,44.7036,22.7467,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Sarre,45.8886,3.0549,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Sarreguemines,49.0959,7.0775,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sart-Tilman,50.5903,5.5597,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sattledt,48.0833,14.0521,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Saucats,44.7379,-0.597,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Saumade,43.7721,3.8213,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Saussaz Ii (La),45.21,6.4765,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sausset,48.9761,2.5756,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Savignac,45.1025,3.0338,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Schaerding,48.4345,13.4429,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Scheer,48.3399,7.3523,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Schifflange,,,no location (no anchor and no located neighbour),
+Schmölln,51.1211,14.2192,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Schuby/W,54.522,9.4342,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Schwandorf,49.2975,12.0822,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Schwanheim,50.08,8.58,"anchor (approx., unchecked)",place of the same-named locality
+Schwarzenbach,47.2785,12.5834,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Schwelgern,51.4986,6.7454,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Schwoerstadt,47.5858,7.8434,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Schönewalde,51.8283,13.1579,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sechtem,50.7956,6.9726,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Seine,48.9252,2.3383,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Selbeck,51.3745,6.868,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Seminaire,46.7328,2.7698,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Senart,48.6087,2.5848,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Senica,48.68,17.37,"anchor (approx., unchecked)",place of the same-named locality
+Senj,44.9849,15.1352,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Septemes,43.4334,5.1266,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Seraing,50.6148,5.5216,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Serein,47.869,3.8007,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Serre-Poncon,44.4694,6.2678,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Serrieres,45.8874,5.8419,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Setier,49.5279,3.3369,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Setzer Wiese,50.9236,8.0203,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Seuil,49.539,4.4649,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Sibiu Sud,45.75,24.15,"anchor (approx., unchecked)",place of the same-named locality
+Siedenbrünzow,53.9078,13.1432,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Siedlce Ujrzanow,52.3008,20.7297,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Siegburg,50.7989,7.1924,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Siems,53.9097,10.7608,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sierentz,47.631,7.477,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Siersdorf,50.9124,6.2162,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Siersza,50.3018,19.289,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Silz,47.2695,10.9663,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Simbach,48.262,13.0028,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Simonshaven,52.0424,4.7818,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Sirmiere,46.0936,-1.2579,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Siroka,49.1585,18.3466,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Sisak,44.275,17.3771,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Sisteron,44.3494,6.3224,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Sittling,48.8382,11.7924,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Skawina,,,ambiguous (name probably joins several sites),
+Slatina,44.43,24.37,"anchor (approx., unchecked)",place of the same-named locality
+Slavetice,49.1038,16.1189,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Slupsk,54.46,17.0,"anchor (approx., unchecked)",place of the same-named locality
+Smardan,45.4468,27.687,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Sochaczew,52.282,18.8439,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Soissons-Notre-Dame,49.356,3.3201,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sokolnice,49.1123,16.6991,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Soleil (Le),45.4486,4.5399,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Sorrus,50.4453,1.7413,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Sostanj,,,no location (no anchor and no located neighbour),
+Sottrum,53.115,9.2504,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Soullans,46.7845,-1.8872,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Spellen,51.6187,6.6143,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Squividan,48.0172,-4.0535,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St Etienne Du Rouvray,49.2263,1.0268,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+St-Auban,43.7792,5.6002,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+St-Aubin,48.7303,2.1432,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Avold,49.1,6.7,"anchor (approx., unchecked)",place of the same-named locality
+St-Calais,47.9179,0.7289,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Cesaire,43.8121,4.3362,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Chamas,43.5276,5.0712,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Christol,43.7344,4.4739,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+St-Eloi,46.991,3.2122,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Esteve,43.7968,5.9485,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+St-Florent,46.3062,-0.4748,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Julien,49.1524,6.2122,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Mard,49.5513,5.5142,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Mard Sncb,49.5513,5.5142,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Orens,43.436,1.2682,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+St-Pierre-De-Bailleul,49.1276,1.372,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Victor,44.158,2.7576,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+St-Vincent,43.3688,3.2189,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St-Vulbas-Est,45.7985,5.4682,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+St-Vulbas-Ouest,45.7946,5.2587,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St. Barbara,49.3576,7.2404,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St. Huelfe,52.6091,8.4035,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St. Peter (AT),48.2565,13.0819,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+St. Peter (DE),51.1249,6.8019,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stade/W,53.6325,9.4898,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stadorf,52.9934,10.3815,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stalldorf,49.5783,9.9445,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stalowa Wola,51.0991,21.1804,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Stalpu,44.3493,24.975,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Stanislawow,52.3821,19.8669,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Starno,54.3864,16.865,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Ste-Feyre,46.3823,1.4747,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Ste-Tulle,43.7836,5.7748,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stejaru,46.9303,26.2584,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Stenay,49.5097,5.2002,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stendal/West,52.5686,11.7275,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stevin,51.3259,3.1839,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stockach,47.8446,9.0127,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Stockem,50.8269,7.0958,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Strass,47.2631,11.7562,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Streumen,51.3556,13.3833,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Studina,43.8683,23.3419,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Stuparei,45.7688,24.6249,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Stupava,48.4881,17.008,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Stupina,44.6949,27.8613,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Subotica,46.2419,20.0059,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Sucany,49.1,18.87,"anchor (approx., unchecked)",place of the same-named locality
+Suceava,46.5779,28.5288,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Suedburgenland,47.2508,16.2763,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Suederdonn,53.9722,9.1097,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Sugag,46.2277,22.9469,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Super-Bissorte,45.2017,6.5769,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+SW Weibern,48.2106,13.4406,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Swiebodzice,50.85,16.3,"anchor (approx., unchecked)",place of the same-named locality
+Szabolcsbaka,48.2267,21.8325,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Szeged,46.8535,19.1979,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Szigetcsep,47.28,18.95,"anchor (approx., unchecked)",place of the same-named locality
+Szolnok,47.18,20.2,"anchor (approx., unchecked)",place of the same-named locality
+Szombathely,47.23,16.62,"anchor (approx., unchecked)",place of the same-named locality
+T Hal-Być,50.2526,18.8045,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+T Joa-Lag,50.7321,18.7494,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+T.Sup / Prion - Tavel,43.7017,5.7665,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tabarderie,47.747,2.5351,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tabor,49.4116,14.69,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Talamet,44.9669,1.9488,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tamareau,43.6327,3.7162,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tantareni,44.9,23.4,"anchor (approx., unchecked)",place of the same-named locality
+Tarascon,43.5693,1.5513,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Targoviste,45.1082,24.1328,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Targoviste A,44.687,24.9074,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Targoviste B,45.1725,24.7805,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Targu Jiu Nord,45.05,23.28,"anchor (approx., unchecked)",place of the same-named locality
+Tariverde,44.7528,28.3847,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Tarnow,50.0,21.0,"anchor (approx., unchecked)",place of the same-named locality
+Tauern,47.2776,12.7397,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Taute,48.5637,-1.4509,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Tavel,44.0584,4.5605,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+TE Sisak,45.4492,16.6721,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Teleajen,44.8317,25.1496,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Ternitz,47.7071,16.0649,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Terradou,44.2311,4.5909,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Terrette,48.8128,-0.7966,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Terrier,49.2176,2.259,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Teufelsbruch,52.5807,13.2115,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Thaur,47.29,11.5,"anchor (approx., unchecked)",place of the same-named locality
+Theix,47.6622,-2.681,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Thyrow,52.2308,13.3063,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tiengen,47.6342,8.2588,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tihange,50.5347,5.2689,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tihange Bis,50.5347,5.2689,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tihau,47.3389,23.2973,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Tilburg,51.55,5.08,"anchor (approx., unchecked)",place of the same-named locality
+Tilleul,48.826,1.6398,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Timisoara,45.75,21.23,"anchor (approx., unchecked)",place of the same-named locality
+Tiszalok,48.0,21.37,"anchor (approx., unchecked)",place of the same-named locality
+Tolbiac,48.8266,2.3553,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tollevast,49.5946,-1.5994,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tonnerre,47.7967,3.6467,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Toponar,46.35,17.78,"anchor (approx., unchecked)",place of the same-named locality
+Torun Elana,53.2014,18.2587,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Tourbe,49.1519,-0.1472,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Tran5 / Gavre Perta,50.4406,2.9986,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Trans,43.5366,6.4634,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Trebaczew,51.0491,18.2597,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Trebinje,,,no location (no anchor and no located neighbour),
+Tregueux,48.5402,-2.9701,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Trennfeld,49.7984,9.5943,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Trevas,45.2445,4.1648,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tricastin-Poste (Le),44.3294,4.715,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Trinite-Victor,43.7472,7.319,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Trossingen,48.066,8.6166,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tucznawa,50.4434,18.7119,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Tuilieres,44.8445,0.6359,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tulcea Vest,45.3174,28.1338,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Tumbri,45.82,15.82,"anchor (approx., unchecked)",place of the same-named locality
+Turnu Magurele,43.7806,23.9956,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Turnu Severin Est,44.7285,22.3592,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Tuzla,,,no location (no anchor and no located neighbour),
+Twistetal,51.343,8.9928,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Tynec,50.0549,15.3613,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Uchtelfangen,49.3754,6.9965,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Uentrop,51.6837,7.9929,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Uerdingen,51.3795,6.6567,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ugljevik,44.7,18.85,"anchor (approx., unchecked)",place of the same-named locality
+Ungheni,46.6517,24.4626,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Unna,51.5342,7.7186,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Unterweser,53.4287,8.4747,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Urberach,49.9746,8.7723,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Urberach (NEU),49.9746,8.7723,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Urechesti,44.8,23.6,"anchor (approx., unchecked)",place of the same-named locality
+Utfort,51.4758,6.6172,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+V. Dur,48.1,18.2,"anchor (approx., unchecked)",place of the same-named locality
+V.Kapusany,48.55,22.08,"anchor (approx., unchecked)",place of the same-named locality
+Val-De-Sevre,47.0303,-0.7217,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Valdivienne,46.4657,0.6489,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Valence,44.9887,5.1011,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Valenciennes,50.2996,3.1431,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Valescourt,49.3691,2.4313,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Van Eyck,51.121,5.7742,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vandieres,48.9321,6.0271,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Varennes (-Sur-Fouzon),47.1918,1.5968,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Varin,49.2,18.9,"anchor (approx., unchecked)",place of the same-named locality
+Varna,43.5708,28.0041,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Vaujany,45.1455,6.0507,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vaupaliere (La),49.4831,1.0101,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+VE Padene,44.0,16.3,"anchor (approx., unchecked)",place of the same-named locality
+Velebit,44.25,15.65,"anchor (approx., unchecked)",place of the same-named locality
+Velky Dur,48.0958,17.8424,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Veltheim,52.1934,8.9329,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Venaus,45.0993,6.6367,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Vendin,50.4686,2.8649,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Venissieux,45.7164,4.9061,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Venthon-Poste,45.6932,6.4034,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Verfeil,43.6406,1.1886,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Verger,47.7119,1.598,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Verlhaguet,44.1991,1.2434,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Vernerov,50.4257,13.2481,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Versailles,48.6381,2.2736,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Vertefeuille,50.6764,3.0371,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vertou,47.1819,-1.4821,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vesle,49.2015,4.2406,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vetis,47.8319,23.1119,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Vich,42.6062,2.8072,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Vielmoulin,47.3261,4.6872,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vierraden,53.0978,14.2686,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vierverlaten,53.2,6.5,"anchor (approx., unchecked)",place of the same-named locality
+Vieselbach,50.9984,11.1232,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vignol,47.3438,3.649,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vigy,49.3,6.3,"anchor (approx., unchecked)",place of the same-named locality
+Vijfhuizen,52.37,4.7,"anchor (approx., unchecked)",place of the same-named locality
+Villach,46.61,13.85,"anchor (approx., unchecked)",place of the same-named locality
+Villarodin,45.2127,6.7152,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Villechetive,48.0978,3.4792,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Villejust,48.6762,2.2303,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Villemandeur,47.994,2.7163,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Villeneuve-St-Georges,48.7543,2.446,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Villeras,48.6134,2.3016,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Villerbon,47.6488,1.329,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Villeroux,49.9756,5.6628,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Villevaude,48.9046,2.6622,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Villiers-Le-Bel,48.9112,2.3894,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Villingen,48.0435,8.4654,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vincey,47.8733,5.9756,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Vins,43.4359,6.1126,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Viradel,44.1378,4.1774,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vitkov,50.1607,12.6753,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vittel,48.19,5.9509,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Voehringen,48.266,10.0821,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Voerden,51.8125,9.2281,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vogelgrun,48.0188,7.5725,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Void,48.7091,5.6138,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vojany,49.4043,20.7504,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Vola,48.7381,21.4279,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Volvic,45.8895,3.0657,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Volvon,45.3953,4.7028,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Voslapp,53.6058,8.0857,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vouglans,46.3935,5.6546,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Vulcanesti,45.2781,28.3773,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Vyskov,50.396,13.6955,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wagenham,47.7412,12.8559,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Wahle,52.2847,10.3653,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Waldeck,51.1675,9.0507,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Waldlaubersheim,49.9221,7.816,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Walgauwerk,47.0741,9.6552,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Wallsee,48.1642,14.6952,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Walsum,51.5268,6.7152,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wambel,51.5322,7.5223,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wanda,50.3619,19.8586,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Warande,50.9491,2.1603,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wateringen,52.02,4.27,"anchor (approx., unchecked)",place of the same-named locality
+Wechold,52.8528,9.1451,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wehrendorf,52.3456,8.3078,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Weida,50.7809,12.0455,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Weier,48.5013,7.9107,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Weingarten,49.2571,8.3085,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Weinheim,49.5436,8.627,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Weissenbach,47.5745,14.2078,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Weissenthurm,50.4025,7.4495,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Weiwerd,53.1583,7.1521,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Welper,51.4116,7.196,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wendlingen,48.667,9.4006,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wengerrohr,49.9706,6.9202,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Weppes,50.6443,2.8949,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Werben,47.4481,9.5316,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Wessin,53.572,11.6988,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Westerkappeln,52.2779,7.8904,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Westerlee,52.0069,4.3649,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Westtirol,47.2442,10.8738,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wielopole,50.0,18.5,"anchor (approx., unchecked)",place of the same-named locality
+Wien,,,no location (no anchor and no located neighbour),
+Wien Suedost,48.1239,16.4201,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wiesloch,49.2904,8.6737,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wijk aan Zee,,,no location (no anchor and no located neighbour),
+Wilster/W,53.9235,9.3452,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Witten,51.4466,7.3132,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wloclawek Azoty,52.8216,18.0686,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Wolkramshausen,51.4402,10.7347,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wolmirstedt,52.269,11.6391,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Woringen,47.9387,10.2138,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wroclaw,51.1,17.03,"anchor (approx., unchecked)",place of the same-named locality
+Wrzosowa,50.7501,18.6731,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Wuergassen,51.6407,9.3876,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wuergau,49.9789,11.1069,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wuhlheide,52.4738,13.5061,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wuhlheide (Abzweig),52.4738,13.5061,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Wustermark,52.5625,12.9429,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y Hattorf,52.3235,10.9565,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y Helmstedt,52.1957,10.8121,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y Isar,48.7058,13.2848,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y – Buggenhout,50.765,4.1657,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y – Differdange,,,no location (no anchor and no located neighbour),
+Y – Houffalize,50.2311,5.6217,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Y – Latour,49.5139,5.7267,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y – Liefkenshoek,51.2888,4.2914,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y – Mekingen,50.7952,4.2877,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y – Rodenhuize,51.1924,3.7629,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y – Sart-Tilman,50.6571,5.3912,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y – Senonchamps,49.9538,5.6762,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y – St-Amand,50.5188,4.522,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y – Zuttendaal,51.0373,5.3602,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y-Bellendorf,51.6094,7.0317,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Bidngen,47.8265,10.7027,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Birkenfeld,49.114,8.5259,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Bixterheide,51.3454,7.6026,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Bollenacker,50.8382,6.9272,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Bruchsal/Kaendelweg,49.1617,8.6058,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Buehl,48.8463,8.2488,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Dahlem,50.39,6.5317,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Dauersberg,50.6395,8.0153,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Daxlanden,48.8463,8.2488,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Dellmensingen,48.5299,10.2317,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Diefflen,49.3336,6.797,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Doernigheim,50.1309,8.873,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Edelstahl,51.3225,6.5228,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Elmenhorst,51.6131,7.3437,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Endersbach,48.8832,9.3026,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Engstlatt,47.9148,8.5306,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Erzhausen,51.8988,9.8524,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Frankfurt/SW,50.1374,8.5908,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Garenfeld,51.3454,7.6026,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Gelsenberg,51.5407,7.037,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Gersteinwerk,51.7538,7.8314,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Grafenrheinfeld,49.2635,9.7549,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Y-Guetersloh,51.8231,7.994,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Hallendorf,52.1758,10.3552,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Hanekenfaehr,52.1776,7.0116,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Hueffenhardt,49.3092,8.6701,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Huntorf,53.2348,8.406,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Karnap,51.5188,6.9915,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Koblenz,50.3909,7.5513,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Kriegenbrunn,49.55,10.97,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Y-Kriftel,50.0929,8.4995,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Kruen,47.4929,11.2869,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Kuehmoos,47.6609,7.9436,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Laufenburg,47.5588,7.9516,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Limburg,50.4867,8.068,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Lippborg,51.6772,7.9823,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Mettmann,51.4467,7.1625,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Mutterstadt,49.4673,8.3385,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Neckarwestheim,48.914,9.1799,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y-Niederlangen,52.8724,7.1915,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Oberjettingen,48.5836,8.7852,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Oechtel,52.3191,7.2836,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Ohligs,51.1767,7.0039,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Osterath,51.0909,6.7098,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Otterbach,49.4878,7.7227,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Paffendorf,50.8672,6.6482,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Pfungstadt,49.8156,8.5886,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Plattling,48.7624,12.8535,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Poeppinghausen,51.6131,7.3437,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Rath,51.291,6.8214,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Rhede,53.0267,7.2547,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Rheinhausen,51.3523,6.7201,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Ried,49.7198,8.3914,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Y-Schwelgern,51.5199,6.7306,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Simbach,48.2953,12.9982,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Stockem,50.8269,7.0958,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Tiengen,47.6886,9.1922,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y-Voehringen,48.3041,9.8855,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Voerden,51.8102,9.2319,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Waldeck,51.1639,9.0957,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Waldlaubersheim,49.9221,7.816,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Walsum,51.5199,6.7306,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Wechold,52.8528,9.1451,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Welper,51.4218,7.1792,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Werben,47.4327,9.7167,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Y-Wuergassen,51.64,9.4,"exact (TSO data, rounded)","coordinates published by the TSO, rounded to about 1 km (data/static/coordinates_*.csv)"
+Y_Mellach,47.0379,15.8232,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Y_Vill,47.2758,11.2993,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Yainville,49.4595,0.8224,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Ybbsfeld,48.1467,15.0478,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Yvelines-Ouest,48.8192,1.8021,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Zabkowice,50.5519,16.2504,estimated (error mostly below 50 km),estimate from line lengths and grid topology
+Zahidno Ukrainska,48.1962,22.0162,estimated from neighbors (schematic),mean position of the located neighbours (JAO lines)
+Zakucac,43.45,16.7,"anchor (approx., unchecked)",place of the same-named locality
+Zamosc,52.2156,21.9704,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Zandvliet,51.3696,4.2482,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Zarnowiec,54.75,18.08,"anchor (approx., unchecked)",place of the same-named locality
+Zaya,48.6058,16.8,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Zeeuwse Kust Landstation,51.4298,3.7343,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Zell,47.23,11.88,"anchor (approx., unchecked)",place of the same-named locality
+Zell am Ziller,47.2334,11.8978,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Zeltweg,47.181,14.7262,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Zerjavinec,45.97,16.1,"anchor (approx., unchecked)",place of the same-named locality
+Zeyerveen,53.1781,6.2935,estimated (error mostly below 25 km),estimate from line lengths and grid topology
+Zgierz,51.7673,18.3732,"estimated (uncertain, above 50 km possible)",estimate from line lengths and grid topology
+Zolling,48.4554,11.8076,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Zuglo,47.52,19.1,"anchor (approx., unchecked)",place of the same-named locality
+Zukowice,51.67,16.1,"anchor (approx., unchecked)",place of the same-named locality
+Zurndorf,47.9377,16.9945,exact (OpenStreetMap),"OpenStreetMap position matched to the JAO name (DLR-VE, Zenodo 10.5281/zenodo.13367535, ODbL)"
+Zwolle,52.5,6.08,"anchor (approx., unchecked)",place of the same-named locality
+Zydowo Kierzkowo,54.15,16.3,"anchor (approx., unchecked)",place of the same-named locality

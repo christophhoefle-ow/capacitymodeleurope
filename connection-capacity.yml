@@ -1,0 +1,66 @@
+name: Fetch connection capacity
+# Automatic: reads what the TSOs publish on free connection capacity per substation (Regulation (EU) 2019/943, Article 50(4a)).
+#   1. register of the publications of all Core TSOs from Capacitypedia (ENTSO-E and DSO Entity) -> data/processed/connection_publications.csv
+#   2. values per substation from every source of config/connection_sources.yml               -> data/interim/connection/, data/processed/grid_connection_tso.csv
+# Runs every Monday 04:00 UTC and on demand. A source that cannot be read keeps its last state and is reported as an issue.
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Browser for pages that turn away plain requests or build their content with scripts
+        continue-on-error: true            # without the browser only those sources fail; they keep their last state
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Read the publications
+        id: fetch
+        continue-on-error: true            # the sources that worked are still saved
+        run: python scripts/fetch_connection_capacity.py
+      - name: Build delivery files for Excel
+        run: |
+          python scripts/build_processed.py
+          python scripts/build_map.py --geojson data/processed/network_map.geojson
+      - name: Save changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/interim/connection data/processed data/manual
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Data: connection capacity updated ($(date -u +%F))"
+            git pull --rebase
+            git push
+          fi
+      - name: Report a failed source as an issue
+        if: steps.fetch.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="Automatic update failed: connection capacity"
+          EXISTING=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number --jq length)
+          if [ "$EXISTING" = "0" ]; then
+            gh issue create --title "$TITLE" --body "At least one publication could not be read; its last good state stays in the model. Status per source:
+
+          $(cat data/interim/connection/status.csv)
+
+          Usual cause: the operator changed the page or the layout of its file. Adjust the source in config/connection_sources.yml (address, link_pattern, status_map). Log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi
+          exit 1

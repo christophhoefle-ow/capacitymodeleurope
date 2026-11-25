@@ -1,0 +1,195 @@
+NetzanschlussKarte
+Unsere Netzanschlusskarte bietet Ihnen einen Überblick über die aktuelle Anschlusssituation für Speicher, Kraftwerke, EEG-Anlagen und Großverbraucher an den Umspannwerken von TransnetBW.
+Die auf der Netzkarte dargestellten Netzanschlusspunkte und die verfügbaren Netzanschlusskapazitäten basieren auf der zum 01. April 2026 bestmöglichen Einschätzung und Kenntnislage.
+mittelfristig verfügbar
+langfristig verfügbar
+Höchstspannungsnetz TransnetBW
+Stand 05/2026
+Ihr Kontakt
+Netzzugang
+TransnetBW GmbH
+🔴 nicht verfügbar
+Umspannwerk Altlussheim
+🟡 langfristig verfügbar
+Umspannwerk Daxlanden
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2035
+Anschlussart: n–1
+Verfügbare Einspeisekapazität: 0 MW
+Verfügbare Lastkapazität: 500 – 1.000 MW
+🟡 langfristig verfügbar
+Umspannwerk Engslatt
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2035
+Anschlussart: n–0
+Verfügbare Einspeisekapazität: 500 – 1.000 MW
+Verfügbare Lastkapazität: < 500 MW
+🟢 mittelfristig verfügbar
+Umspannwerk Altbach
+temporärer Anschluss bis 2045
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2032
+Anschlussart: n–0
+Verfügbare Einspeisekapazität: 500 - 1.000 MW
+Verfügbare Lastkapazität: < 500 MW
+🔴 nicht verfügbar
+Umspannwerk Beuren
+🟢 mittelfristig verfügbar
+Umspannwerk Birkenfeld
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2032
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: 1.000 – 1.500 MW
+Verfügbare Lastkapazität: 1.000 – 1.500 MW
+🟡 langfristig verfügbar
+Umspannwerk Kühmoos
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2035
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: < 500 MW
+Verfügbare Lastkapazität: < 500 MW
+🟢 Mittelfristig verfügbar
+Umspannwerk Bühl
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2032
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: 1.000 – 1.500 MW
+Verfügbare Lastkapazität: < 500 MW
+🔴 nicht verfügbar
+Umspannwerk Bruchsal
+🔴 nicht verfügbar
+Umspannwerk Bünzwangen
+🔴 nicht verfügbar
+Umspannwerk Dellmensingen
+🟢 mittelfristig verfügbar
+Umspannwerk Eichstetten
+temporärer Anschluss bis 2045
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2032
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: 1.500 – 2.000 MW
+Verfügbare Lastkapazität: 500 – 1.000 MW
+🔴 nicht verfügbar
+Umspannwerk Endersbach
+🟡 Langfristig verfügbar
+Umspannwerk Mannheim Ost
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2035
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: 500 – 1.000 MW
+Verfügbare Lastkapazität: 500 – 1.000 MW
+🟢 mittelfristig verfügbar
+Umspannwerk Gurtweil
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2032
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: 500 – 1.000 MW
+Verfügbare Lastkapazität: 500 – 1.000 MW
+🟡 Langfristig verfügbar
+Umspannwerk Pfullendorf
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2035
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: < 500 MW
+Verfügbare Lastkapazität: < 500 MW
+🟢 mittelfristig verfügbar
+Umspannwerk Kork
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss voraussichtlich frühestens 2032
+Anschlussart: n–0
+Verfügbare Einspeisekapazität: 1.000 – 1.500 MW
+Verfügbare Lastkapazität: 1.000 – 1.500 MW
+🔴 nicht verfügbar
+Umspannwerk Goldshöfe
+🟡 Langfristig verfügbar
+Umspannwerk Wendlingen
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2035
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: 500 – 1.000 MW
+Verfügbare Lastkapazität: < 500 MW
+🔴 nicht verfügbar
+Umspannwerk Großgartach
+🔴 nicht verfügbar
+Umspannwerk Grünkraut
+🔴 nicht verfügbar
+Umspannwerk Heidelberg-Süd
+🔴 nicht verfügbar
+Umspannwerk Heidelberg-Neurott
+🔴 nicht verfügbar
+Umspannwerk Herbertingen
+🔴 nicht verfügbar
+Umspannwerk Höpfingen
+🟢 mittelfristig verfügbar
+Umspannwerk Mannheim
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2032
+Anschlussart: n–0 und n–1 (keine BESS!)
+Verfügbare Einspeisekapazität: < 500 MW
+Verfügbare Lastkapazität: < 500 MW
+🔴 nicht verfügbar
+Umspannwerk Hüffenhardt
+🔴 nicht verfügbar
+Umspannwerk Karlsruhe-Ost
+🔴 nicht verfügbar
+Umspannwerk Karlsruhe-West
+🟢 mittelfristig verfügbar
+Umspannwerk Philippsburg
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2032
+Anschlussart: n–0 und n–1
+Verfügbare Einspeisekapazität: 500 – 1.000 MW
+Verfügbare Lastkapazität: 500 – 1.000 MW
+🟢 mittelfristig verfügbar
+Umspannwerk Schwörstadt
+Spannungsebene: 380 kV
+Inbetriebnahme Netzanschluss: voraussichtlich frühestens 2032
+Anschlussart: n–0
+Verfügbare Einspeisekapazität: < 500 MW
+Verfügbare Lastkapazität: < 500 MW
+🔴 nicht verfügbar
+Umspannwerk Kuppenheim
+🔴 nicht verfügbar
+Umspannwerk Laichingen
+🔴 nicht verfügbar
+Umspannwerk Marbach
+🔴 nicht verfügbar
+Umspannwerk Metzingen
+🔴 nicht verfügbar
+Umspannwerk Mühlhausen
+🔴 nicht verfügbar
+Umspannwerk Neckarwestheim
+🔴 nicht verfügbar
+Umspannwerk Niederstotzingen
+🔴 nicht verfügbar
+Umspannwerk Oberjettingen
+🔴 nicht verfügbar
+Umspannwerk Pulverdingen
+🔴 nicht verfügbar
+Umspannwerk Rheinau
+🔴 nicht verfügbar
+Umspannwerk Schaltanlage Obermooweiler
+🔴 nicht verfügbar
+Umspannwerk Oberwald
+🔴 nicht verfügbar
+Umspannwerk Rotensohl
+🔴 nicht verfügbar
+Umspannwerk Stalldorf
+🔴 nicht verfügbar
+Umspannwerk Stockach
+🔴 nicht verfügbar
+Umspannwerk Trossingen
+🔴 nicht verfügbar
+Umspannwerk Villingen
+🔴 nicht verfügbar
+Umspannwerk Weier
+🔴 nicht verfügbar
+Umspannwerk Weinheim
+🔴 nicht verfügbar
+Umspannwerk Wiesloch
+🔴 nicht verfügbar
+Umspannwerk Kupferzell
+Impressum
+Datenschutz
+Nutzungsbedingungen
+Kontakt

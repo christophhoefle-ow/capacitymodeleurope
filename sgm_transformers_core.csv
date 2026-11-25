@@ -1,0 +1,525 @@
+element_name,eic,tso,imax_min_a,imax_max_a,imax_fixed_a,u_primary_kv,u_secondary_kv,r_ohm,x_ohm,b_us,g_us,rao_steps,angle_deg,sym_asym,du_phase_pct,du_angle_pct,jao_comment,substation,type,country,source
+TR Eula 220/400 401,11TD8T401EU12--E,50HERTZ,866.0,866.0,,400.0,231.0,0.668,51.462,-415.27,2.562,,,,1.385,0.0,,Eula,Transformer,DE,SGM
+TR Güstrow 220/400 405,11T0-0000-2256-5,50HERTZ,577.0,577.0,,400.0,231.0,0.703,64.88,-0.671,0.775,,,,1.231,0.0,,Güstrow,Transformer,DE,SGM
+TR Hamburg/Nord 220/400 405,11TD8T405NOR12-5,50HERTZ,650.0,650.0,,400.0,231.0,0.925,62.9265,-0.5687,0.7688,,,,1.231,0.0,,Hamburg/Nord,Transformer,DE,SGM
+TR Hamburg/Nord 220/400 406,11TD8T406NOR12-Y,50HERTZ,650.0,650.0,,400.0,231.0,0.925,62.9265,-0.5687,0.7688,,,,1.231,0.0,,Hamburg/Nord,Transformer,DE,SGM
+TR Lubmin 220/400 405,11T0-0000-0003-J,50HERTZ,650.0,650.0,,400.0,231.0,0.7375,67.022,-0.547,0.75,,,,1.231,0.0,,Lubmin,Transformer,DE,SGM
+TR Marzahn 220/400 401,11TD8T401MZA12-Q,50HERTZ,577.0,577.0,,400.0,231.0,0.506,40.429,-1.126,0.5437,,,,1.231,0.0,,Marzahn,Transformer,DE,SGM
+TR Marzahn 220/400 402,11TD8T402MZA12-I,50HERTZ,577.0,577.0,,400.0,231.0,0.506,40.429,-1.126,0.5437,,,,1.231,0.0,,Marzahn,Transformer,DE,SGM
+TR Neuenhagen 220/400 401,11TD8T401NHG12-N,50HERTZ,1215.0,1215.0,,380.0,231.0,0.3328,22.5167,-477.407,3.1252,,,,1.273,0.0,,Neuenhagen,Transformer,DE,SGM
+TR Neuenhagen 220/400 402,11TD8T402NHG12-F,50HERTZ,1215.0,1215.0,,380.0,231.0,0.3328,22.5167,-477.407,3.1252,,,,1.273,0.0,,Neuenhagen,Transformer,DE,SGM
+TR Remptendorf 220/400 401,11TD8T401RE12--J,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Remptendorf,Transformer,DE,SGM
+TR Remptendorf 220/400 402,11TD8T402RE12--B,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Remptendorf,Transformer,DE,SGM
+TR Röhrsdorf 220/400 402,11TD8T402ROE12-T,50HERTZ,1215.0,1215.0,,380.0,231.0,0.3328,22.5167,-477.407,3.1252,,,,1.273,0.0,,Röhrsdorf,Transformer,DE,SGM
+TR Röhrsdorf 220/400 403,11TD8T403ROE12-T,50HERTZ,1215.0,1215.0,,380.0,231.0,0.3328,22.5167,-477.407,3.1252,,,,1.273,0.0,,Röhrsdorf,Transformer,DE,SGM
+PST Röhrsdorf 441,11T0-0000-0011-L,50HERTZ,1690.0,1690.0,,410.0,410.0,0.1,12.187,-0.902,1.1065,-10;10,90.0,Symmetrical,,1.069,,Röhrsdorf,PST,DE,SGM
+PST Röhrsdorf 442,11T0-0000-0012-I,50HERTZ,1690.0,1690.0,,410.0,410.0,0.097,12.607,-0.159,0.696,-10;10,90.0,Symmetrical,,1.069,,Röhrsdorf,PST,DE,SGM
+TR Thyrow 220/400 401,11TD8T401THY12-2,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Thyrow,Transformer,DE,SGM
+PST Vierraden 441,11T0-0000-0013-F,50HERTZ,1690.0,1690.0,,410.0,410.0,0.1,12.187,-0.902,1.1065,-10;10,90.0,Symmetrical,,1.069,,Vierraden,PST,DE,SGM
+PST Vierraden 442,11T0-0000-2217-I,50HERTZ,1690.0,1690.0,,410.0,410.0,0.1,12.187,-0.902,1.107,-10;10,90.0,Symmetrical,,1.069,,Vierraden,PST,DE,SGM
+PST Vierraden 443,11T0-0000-0014-C,50HERTZ,1690.0,1690.0,,410.0,410.0,0.097,12.607,-0.159,0.696,-10;10,90.0,Symmetrical,,1.069,,Vierraden,PST,DE,SGM
+PST Vierraden 444,11T0-0000-2218-F,50HERTZ,1690.0,1690.0,,410.0,410.0,0.097,12.607,-0.159,0.696,-10;10,90.0,Symmetrical,,1.069,,Vierraden,PST,DE,SGM
+TR Vieselbach 220/400 402,11TD8T402VIB12-B,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Vieselbach,Transformer,DE,SGM
+TR Vieselbach 220/400 403,11TD8T403VIB12-B,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Vieselbach,Transformer,DE,SGM
+TR Wolmirstedt 220/400 404,11TD8T404WOL12-H,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Wolmirstedt,Transformer,DE,SGM
+TR Wustermark 220/400 401,11TD8T401WU12-0Y,50HERTZ,577.0,577.0,,400.0,231.0,0.703,64.88,-0.671,0.775,,,,1.231,0.0,,Wustermark,Transformer,DE,SGM
+TR Wustermark 220/400 402,11TD8T402WU12--S,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Wustermark,Transformer,DE,SGM
+PST Hamburg/Ost 441,11T0-0000-1900-E,50HERTZ,1690.0,1690.0,,410.0,410.0,0.1,12.187,-0.902,1.1065,-10;10,90.0,Symmetrical,,1.069,,Hamburg/Ost,PST,DE,SGM
+PST Hamburg/Ost 442,11T0-0000-1901-B,50HERTZ,1690.0,1690.0,,410.0,410.0,0.1,12.187,-0.902,1.1065,-10;10,90.0,Symmetrical,,1.069,,Hamburg/Ost,PST,DE,SGM
+PST Hamburg/Ost 443,11T0-0000-1902-8,50HERTZ,1690.0,1690.0,,410.0,410.0,0.097,12.607,-0.159,0.696,-10;10,90.0,Symmetrical,,1.069,,Hamburg/Ost,PST,DE,SGM
+PST Hamburg/Ost 444,11T0-0000-1903-5,50HERTZ,1690.0,1690.0,,410.0,410.0,0.097,12.607,-0.159,0.696,-10;10,90.0,Symmetrical,,1.069,,Hamburg/Ost,PST,DE,SGM
+TR Pasewalk 220/400 404,11T0-0000-2086-3,50HERTZ,577.0,577.0,,400.0,231.0,0.703,64.88,-0.671,0.775,,,,1.231,0.0,,Pasewalk,Transformer,DE,SGM
+TR Weida 220/400 402,11T0-0000-2210-2,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Weida,Transformer,DE,SGM
+TR Pasewalk 220/400 405,11T0-0000-2087-0,50HERTZ,577.0,577.0,,400.0,231.0,0.917,63.193,-0.75,1.0,,,,1.231,0.0,,Pasewalk,Transformer,DE,SGM
+TR Brauweiler TR 421,11T0-0000-1249-6,AMPRION,,,2008.0,230.0,400.0,0.18,16.05,-3.6,4.3,,,,1.231,,,Brauweiler,Transformer,DE,SGM
+TR Buerstadt TR 421,11T0-0000-0571-9,AMPRION,,,1924.0,400.0,231.0,0.31,24.8,-8.6,1.8,,-60.0,ASYM,,1.389,,Buerstadt,Transformer,DE,SGM
+TR Buerstadt TR 423,11T0-0000-2477-L,AMPRION,,,1807.0,230.0,400.0,0.24,16.84,-45.0,6.0,,,,,,,Buerstadt,Transformer,DE,SGM
+TR Buescherhof TR 421,11T0-0000-0575-Y,AMPRION,,,1924.0,240.0,400.0,0.24,17.28,-6.4,5.3,,,,1.231,,,Buescherhof,Transformer,DE,SGM
+TR Dauersberg TR 422,11T0-0000-1251-Q,AMPRION,,,1924.0,400.0,231.0,0.23,23.81,-3.0,0.9,,60.0,ASYM,,1.389,,Dauersberg,Transformer,DE,SGM
+TR Dauersberg TR 421,11T0-0000-0589-I,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,Dauersberg,Transformer,DE,SGM
+TR Eiberg TR 421,11T0-0000-0595-Q,AMPRION,,,1924.0,240.0,400.0,0.24,17.28,-6.4,5.3,,,,1.231,,,Eiberg,Transformer,DE,SGM
+TR Ensdorf TR 421,11T0-0000-0606-H,AMPRION,,,2008.0,230.0,400.0,0.18,16.05,-3.6,4.3,,,,1.231,,,Ensdorf,Transformer,DE,SGM
+TR Gersteinwerk TR 421,11T0-0000-0614-J,AMPRION,,,2008.0,230.0,400.0,0.24,16.74,-5.4,3.0,,,,1.231,,,Gersteinwerk,Transformer,DE,SGM
+TR Gersteinwerk TR 422,11T0-0000-0615-G,AMPRION,,,2008.0,230.0,400.0,0.12,15.78,-5.4,1.6,,,,1.231,,,Gersteinwerk,Transformer,DE,SGM
+TR Gronau TR 441 E,11T0-0000-0620-R,AMPRION,,,2165.0,400.0,400.0,0.13,3.31,-6.2,2.9,-10; 10,90.0,ASYM,1.283,1.111,,Gronau,Transformer,DE,SGM
+TR Hanekenfaher TR 442 E,11T0-0000-2123-V,AMPRION,,,3078.0,400.0,400.0,0.13,3.31,-6.2,2.1,,90.0,SYMM,1.466,,,Hanekenfaher E,Transformer,DE,SGM
+TR Hanekenfaher TR 441 E,11T0-0000-2122-Y,AMPRION,,,99999.0,400.0,400.0,0.08,11.17,-3.1,0.7,,90.0,SYMM,1.466,,,Hanekenfaher E,Transformer,DE,SGM
+TR Hanekenfaehr TR 421,11T0-0000-1278-Y,AMPRION,,,2008.0,230.0,400.0,0.23,16.48,-11.0,5.2,,,,1.231,,,Hanekenfaehr,Transformer,DE,SGM
+TR Hattingen TR 421,11T0-0000-0646-1,AMPRION,,,2008.0,230.0,400.0,0.24,16.66,-37.3,3.4,,,,1.257,,,Hattingen,Transformer,DE,SGM
+TR Herbertingen TR 421,11T0-0000-1881-L,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,Herbertingen,Transformer,DE,SGM
+TR Kusenhorst TR 421,11T0-0000-0683-V,AMPRION,,,2008.0,230.0,400.0,0.21,16.22,-17.2,5.7,,,,1.231,,,Kusenhorst,Transformer,DE,SGM
+TR Niederrhein TR 421,11T0-0000-0754-Z,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,Niederrhein,Transformer,DE,SGM
+TR Niederstedem TR 422,11T0-0000-0759-K,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,-60.0,ASYM,,1.385,,Niederstedem,Transformer,DE,SGM
+TR Niederstedem TR 421,11T0-0000-0758-N,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,-60.0,ASYM,,1.385,,Niederstedem,Transformer,DE,SGM
+TR Niederstedem TR 423,11T0-0000-0760-6,AMPRION,,,1155.0,400.0,231.0,0.46,45.18,-1.6,0.5,,-60.0,ASYM,,0.689,,Niederstedem,Transformer,DE,SGM
+TR Oberzier TR 442 E,11T0-0000-2133-R,AMPRION,,,3078.0,400.0,400.0,0.08,9.0,-3.4,0.7,-5; 5,90.0,SYMM,,0.59,,Oberzier,Transformer,DE,SGM
+TR Opladen TR 421,11T0-0000-0796-D,AMPRION,,,1924.0,240.0,400.0,0.24,17.28,-39.1,6.1,,,,1.231,,,Opladen,Transformer,DE,SGM
+TR Opladen TR 422,11T0-0000-1674-Q,AMPRION,,,2008.0,230.0,400.0,0.18,16.05,-3.6,4.3,,,,1.231,,,Opladen,Transformer,DE,SGM
+TR St. Peter TR 423,11T0-0000-0858-I,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,St. Peter,Transformer,DE,SGM
+TR St. Peter TR 422,11T0-0000-1348-4,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,St. Peter,Transformer,DE,SGM
+TR Rommerskirchen TR 421,11T0-0000-0833-4,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,Rommerskirchen,Transformer,DE,SGM
+TR Sechtem TR 421,11T0-0000-0847-P,AMPRION,,,2008.0,230.0,400.0,0.18,16.05,-3.6,4.3,,,,1.231,,,Sechtem,Transformer,DE,SGM
+TR Siegburg TR 421,11T0-0000-2071-M,AMPRION,,,2008.0,230.0,400.0,0.18,16.05,-3.6,4.3,,,,1.231,,,Siegburg,Transformer,DE,SGM
+TR Tiengen TR 421,11T0-0000-0859-F,AMPRION,,,1271.0,400.0,231.0,0.45,24.74,-1.0,1.6,,-60.0,ASYM,,1.385,,Tiengen,Transformer,DE,SGM
+TR Uchtelfangen TR 421,11T0-0000-0862-W,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,-60.0,ASYM,,1.385,,Uchtelfangen,Transformer,DE,SGM
+TR Urberach TR 421,11T0-0000-0874-M,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,-60.0,ASYM,,1.385,,Urberach,Transformer,DE,SGM
+TR Urberach TR 422,11T0-0000-0875-J,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,-60.0,ASYM,,1.385,,Urberach,Transformer,DE,SGM
+TR Utfort TR 422,11T0-0000-0879-7,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,Utfort,Transformer,DE,SGM
+TR Utfort TR 421,11T0-0000-0878-A,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,Utfort,Transformer,DE,SGM
+TR Voehringen TR 421,11T0-0000-0884-I,AMPRION,,,1924.0,400.0,231.0,0.23,23.81,-3.0,0.9,,-60.0,ASYM,,1.389,,Voehringen,Transformer,DE,SGM
+TR Walsum TR 421,11T0-0000-1352-I,AMPRION,,,2008.0,230.0,400.0,0.18,16.05,-3.6,4.3,,,,1.231,,,Walsum,Transformer,DE,SGM
+TR Wehrendorf TR 421,11T0-0000-0893-H,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,Wehrendorf,Transformer,DE,SGM
+TR Westerkappeln TR 421,11T0-0000-0914-4,AMPRION,,,2008.0,230.0,400.0,0.23,16.48,-28.0,4.6,,,,1.231,,,Westerkappeln,Transformer,DE,SGM
+TR Weissenthurm TR 421,11T0-0000-0904-8,AMPRION,,,1924.0,400.0,231.0,0.33,24.8,-6.9,1.9,,60.0,ASYM,,1.385,,Weissenthurm,Transformer,DE,SGM
+TR Weissenthurm TR 422,11T0-0000-2547-S,AMPRION,,,1807.0,230.0,400.0,0.247,16.838,-45.0,6.0,,,,,,,Weissenthurm,Transformer,DE,SGM
+TR Ernsthofen EHRHU41,14T-38220-EH0425,APG,,,1556.0,220.0,400.0,0.2196,15.873,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Ernsthofen,PST,AT,SGM
+TR Ernsthofen EHRHU42,14T-38220-EH0417,APG,,,1556.0,220.0,400.0,0.2196,15.786,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Ernsthofen,PST,AT,SGM
+PST Ernsthofen EHPST,14T-22220-EHPST5,APG,,,1493.0,220.0,220.0,0.1223,12.827,63.15141,1.6833,-6; +6,90.0,Symmetrical,,2.252,connected to substation Ernsthofen,Ernsthofen,PST,AT,SGM
+TR Lienz LIRHU41,14T-38220-LI041Y,APG,,,1554.0,220.0,400.0,0.2196,15.433,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Lienz,PST,AT,SGM
+TR Lienz LIRHU42,14T-38220-LI042W,APG,,,1554.0,220.0,400.0,0.2196,15.433,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Lienz,PST,AT,SGM
+PST Lienz LIPST,14T-22220-LIPSTW,APG,,,746.0,220.0,220.0,0.2937,23.591,4.3939,1.7895,,90.0,Symmetrical,,3.616,coordinated in Italy North; connected to substation Lienz,Lienz,PST,AT,SGM
+TR Obersielach OSRHU41,14T-38220-OS0413,APG,,,1556.0,220.0,400.0,0.2196,15.433,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Obersielach,PST,AT,SGM
+TR Obersielach OSRHU43,14T-RHU43-OS---K,APG,,,1531.0,220.0,400.0,0.1773,15.609,-10.0555,2.6427,,60.0,Asymmetrical,,1.253,,Obersielach,PST,AT,SGM
+TR Obersielach OSRHU42,14T-38220-OS0421,APG,,,1556.0,220.0,400.0,0.2196,15.433,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Obersielach,PST,AT,SGM
+TR St. Peter SPRHU41,14T-38220-SP041V,APG,,,1427.0,220.0,400.0,0.1942,15.099,-6.71943,2.7958,,-60.0,Asymmetrical,,1.253,,St. Peter,PST,AT,SGM
+TR St. Peter SPRHU42,14T-38220-SP042T,APG,,,1427.0,220.0,400.0,0.1942,15.099,-6.71943,2.7958,,-60.0,Asymmetrical,,1.253,,St. Peter,PST,AT,SGM
+TR St. Peter SPRHU43,14T-38220-SP043R,APG,,,1427.0,220.0,400.0,0.1942,15.099,-6.71943,2.7958,,-60.0,Asymmetrical,,1.253,,St. Peter,PST,AT,SGM
+PST Tauern TAPST,14T-22220-TAPSTO,APG,,,1493.0,220.0,220.0,0.1223,12.827,63.15141,1.6833,-6; +6,90.0,Symmetrical,,2.252,connected to substation Tauern,Tauern,PST,AT,SGM
+PST Ternitz TEPST,14T-22220-TEPST4,APG,,,1493.0,220.0,220.0,0.1223,12.827,63.15141,1.6833,-6; +6,90.0,Symmetrical,,2.252,connected to substation Ternitz,Ternitz,PST,AT,SGM
+TR Westtirol WTRHU41,14T-38220-WT041O,APG,,,1443.0,400.0,220.0,0.2987,21.601,-6.6615,1.7,,59.99,Asymmetrical,,1.388,,Westtirol,PST,AT,SGM
+TR Wien Suedost SORHU41,14T-38221-SO041S,APG,,,1556.0,220.0,400.0,0.2196,15.786,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Wien Suedost,PST,AT,SGM
+TR Wien Suedost SORHU43,14T-38220-SO042Y,APG,,,1556.0,220.0,400.0,0.2196,15.786,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Wien Suedost,PST,AT,SGM
+TR Zell am Ziller ZZRHU41,14T-38220-ZZ041D,APG,,,1732.0,400.0,220.0,0.2257,19.736,-22.4514,1.0437,,59.95,Asymmetrical,,1.25,,Zell am Ziller,PST,AT,SGM
+TR Zell am Ziller ZZRHU42,14T-38220-ZZ042B,APG,,,1732.0,400.0,220.0,0.2257,19.736,-22.4514,1.0437,,59.95,Asymmetrical,,1.25,,Zell am Ziller,PST,AT,SGM
+TR Zaya ZYRHU41,14T-38220-RHU41V,APG,,,1427.0,220.0,400.0,0.17738,15.609,-10.0555,2.6427,,60.0,Asymmetrical,,1.253,,Zaya,PST,AT,SGM
+TR Tauern TARHU43,14T-RHU43-TA---6,APG,,,1554.0,220.0,400.0,0.1925,15.432,-12.6401,5.0472,,60.0,Asymmetrical,,1.253,,Tauern,PST,AT,SGM
+TR Nauders NRPST21,14T-220-220-NR1Y,APG,,,564.0,220.0,220.0,0.56,7.76,-7.94,0.96,,90.0,Symmetrical,,4.55,,Nauders,PST,AT,SGM
+TR Nauders NRPST22,14T-220-220-NR2W,APG,,,564.0,220.0,220.0,0.56,7.76,-7.94,0.96,,90.0,Symmetrical,,4.55,,Nauders,PST,AT,SGM
+TR Lienz LIRHU43,14T-38220-LI043U,APG,,,1554.0,220.0,400.0,0.2196,15.433,-16.0268,5.7088,,60.0,Asymmetrical,,1.253,,Lienz,PST,AT,SGM
+TR C. Stred T401,27T-TR-CSTT401-T,CEPS,,,722.0,400.0,231.0,0.42,39.84,-1.38,0.66,,,,1.48,,,C. Stred,Transformer,CZ,SGM
+TR Hradec T402,27T-TR-HRAT402-B,CEPS,,,723.0,400.0,231.0,0.33,38.23,-0.6,0.5,,,,1.48,,,Hradec,Transformer,CZ,SGM
+TR Prosenice T401,27T-TR-PRNT401X5,CEPS,,,722.0,400.0,231.0,0.43,37.82,-15.61,0.62,,,,1.48,,,Prosenice,Transformer,CZ,SGM
+TR Sokolnice T401,27T-TR-SOKT401-H,CEPS,,,722.0,400.0,231.0,0.48,42.29,-15.61,0.65,,,,1.48,,,Sokolnice,Transformer,CZ,SGM
+PST Hradec 1,27T-HRD4T451---Y,CEPS,,,1168.0,400.0,400.0,0.21,25.5,-24.07,1.06,<-6;6>,90.0,symmetrical,,1.63,connected to tieline 10T-CZ-DE-00002U,Hradec,PST,CZ,SGM
+PST Hradec 2,27T-HRD4T452---T,CEPS,,,1168.0,400.0,400.0,0.21,25.59,-24.07,1.07,<-6;6>,90.0,symmetrical,,1.63,connected to tieline 10T-CZ-DE-00002U,Hradec,PST,CZ,SGM
+PST Hradec 3,27T-HRD4T453---O,CEPS,,,1168.0,400.0,400.0,0.21,25.44,-24.07,1.08,<-6;6>,90.0,symmetrical,,1.63,connected to tieline 10T-CZ-DE-00003S,Hradec,PST,CZ,SGM
+TR Bericevo 422,28T-0000001324-8,ELES,,,1000.0,231.0,400.0,0.1868,15.754,-14.0161,2.5299,,,,,,,Bericevo,Transformer,SI,SGM
+TR Bericevo 411,28T0000000008790,ELES,,,1408.0,123.0,400.0,0.0799,6.7672,-7.75569,7.0923,,,,,,,Bericevo,Transformer,SI,SGM
+TR Bericevo 211,28T-0000001321-H,ELES,,,753.0,115.0,220.0,0.2332,11.636,-62.8393,9.2476,,,,,,,Bericevo,Transformer,SI,SGM
+TR Bericevo 212,28T-0000001322-E,ELES,,,753.0,115.0,220.0,0.2332,11.636,-62.8393,9.2476,,,,,,,Bericevo,Transformer,SI,SGM
+TR Cirkovce 411,28T000000000304E,ELES,,,1506.0,115.0,400.0,0.2537,12.332,-43.3698,8.7032,,,,,,,Cirkovce,Transformer,SI,SGM
+TR Cirkovce 412,28T000000000305C,ELES,,,1506.0,115.0,400.0,0.2537,12.332,-43.3698,8.7032,,,,,,,Cirkovce,Transformer,SI,SGM
+TR Klece 211,28T-0000001841-L,ELES,,,1506.0,115.0,220.0,0.0684,5.9509,-53.8206,8.2042,,,,,,,Klece,Transformer,SI,SGM
+TR Klece 212,28T-0000001842-I,ELES,,,1506.0,115.0,220.0,0.0705,6.0655,-124.281,10.964,,,,,,,Klece,Transformer,SI,SGM
+TR Krsko 411,28T-0000001937-2,ELES,,,1506.0,115.0,400.0,0.0529,5.6645,-45.4166,14.374,,,,,,,Krsko,Transformer,SI,SGM
+TR Krsko 412,28T-0000001939-X,ELES,,,1506.0,115.0,400.0,0.0799,5.4657,-5.05176,10.155,,,,,,,Krsko,Transformer,SI,SGM
+TR Maribor 411,28T-0000002124-C,ELES,,,1506.0,115.0,400.0,0.097,5.6771,-121.489,15.667,,,,,,,Maribor,Transformer,SI,SGM
+TR Maribor 412,28T0000000001652,ELES,,,1506.0,115.0,400.0,0.0782,5.9066,-7.94116,8.0983,,,,,,,Maribor,Transformer,SI,SGM
+TR Okroglo 411,28T-0000002261-0,ELES,,,1506.0,115.0,400.0,0.1014,5.655,-94.0295,15.35,,,,,,,Okroglo,Transformer,SI,SGM
+TR Okroglo 412,28T-0000002262-Y,ELES,,,1506.0,115.0,400.0,0.0529,6.0656,-39.4009,10.715,,,,,,,Okroglo,Transformer,SI,SGM
+TR Podlog 411,28T0000000001660,ELES,,,1506.0,115.0,400.0,0.0775,5.8758,-35.3625,8.1739,,,,,,,Podlog,Transformer,SI,SGM
+TR Podlog 211,28T-0000002372-P,ELES,,,753.0,115.0,400.0,0.3905,11.579,-51.3828,9.051,,,,,,,Podlog,Transformer,SI,SGM
+TR Podlog 212,28T-0000002373-M,ELES,,,753.0,115.0,400.0,0.3905,11.579,-51.3828,9.051,,,,,,,Podlog,Transformer,SI,SGM
+PST Divaca,"28T-0000001569-4, 28T-0000001568-7",ELES,,,1732.0,400.0,400.0,0.2,24.489,-5.16598,0.938,,90.0,Symetrical,,2.27,"Two transformers in parallel, modelled as one (EICs: 28T-0000001569-4, 28T-0000001568-7), used as RA in CSE CCR. Line connected to PST is Divaca - Redipuglia 400 kV (SI-IT tieline)",Divaca,PST,SI,SGM
+TR Podlog 421,28T-0000002374-J,ELES,,,1000.0,231.0,400.0,0.1955,15.807,-9.42377,2.4812,,,,,,,Podlog,Transformer,SI,SGM
+TR Divaca 211,28T-0000001565-G,ELES,,,753.0,115.0,220.0,0.2998,12.031,-62.7778,9.656,,,,,,,Divaca,Transformer,SI,SGM
+TR Divaca 212,28T-0000001566-D,ELES,,,753.0,115.0,220.0,0.3703,11.65,-62.7778,9.656,,,,,,,Divaca,Transformer,SI,SGM
+TR Divaca 411,28T-0000001567-A,ELES,,,1506.0,115.0,400.0,0.0749,5.8891,-10.9223,8.121,,,,,,,Divaca,Transformer,SI,SGM
+TR Divaca 412,28T0000000002349,ELES,,,1506.0,115.0,400.0,0.0793,5.8758,-7.79993,8.2344,,,,,,,Divaca,Transformer,SI,SGM
+TR AUBANGE PST 1,22T20211201AF--4,ELIA,1525.35,1686.91,,243.0,243.0,0.11,9.84,-5.07,1.49,0,90.0,Symmetrical,,1.87,,AUBANGE,PST,BE,SGM
+TR VAN EYCK PST 1,22T-BE-PST--001W,ELIA,2042.38,2329.61,,400.0,400.0,0.08,10.5,-2.02,1.22,-8;8,90.0,Symmetrical,,1.471,,VAN EYCK,PST,BE,SGM
+TR VAN EYCK PST 2,22T-BE-PST--002U,ELIA,2042.38,2329.61,,400.0,400.0,0.08,10.49,-0.4,1.18,-8;8,90.0,Symmetrical,,1.471,,VAN EYCK,PST,BE,SGM
+TR ZANDVLIET PST 2,22T20161020---56,ELIA,2042.38,2329.61,,400.0,400.0,0.09,10.64,-2.04,1.19,-8;8,90.0,Symmetrical,,1.471,,ZANDVLIET,PST,BE,SGM
+TR MONCEAU PST 1,22T-BE-PST--004Q,ELIA,1027.68,1122.06,,245.0,160.0,0.23,15.92,-1.95,1.08,0,90.0,Symmetrical,,1.667,,MONCEAU,PST,BE,SGM
+TR AUBANGE 380/220 TFO 1,22T20211201T---A,ELIA,424.35,463.32,,400.0,245.42,1.13,82.23,-1.81,0.5,,,,,,3-winding transformer,AUBANGE,Transformer,BE,SGM
+TR AUBANGE 380/220 TFO 2,22T20211201V---0,ELIA,424.35,463.32,,400.0,245.46,1.17,77.75,-3.16,0.52,,,,,,3-winding transformer,AUBANGE,Transformer,BE,SGM
+TR BRUME 380/220 TFO 1,22T20211201W---W,ELIA,424.35,463.32,,400.0,245.42,1.12,82.13,-2.0,0.5,,,,,,3-winding transformer,BRUME,Transformer,BE,SGM
+TR LIXHE 380/220 TFO 11,22T20211201X---R,ELIA,424.35,463.32,,400.0,245.596,1.0,78.07,-0.72,0.22,,,,,,3-winding transformer,LIXHE,Transformer,BE,SGM
+TR LIXHE 380/220 TFO 6,22T20211201Y---M,ELIA,424.35,463.32,,400.0,245.596,1.0,77.95,-0.7,0.21,,,,,,3-winding transformer,LIXHE,Transformer,BE,SGM
+TR RIMIERE 380/220 TFO 8,22T20211201Z---H,ELIA,424.35,463.32,,400.0,245.46,0.88,78.66,-0.89,0.16,,,,,,3-winding transformer,RIMIERE,Transformer,BE,SGM
+TR RIMIERE 380/220 TFO 9,22T20211201AA--O,ELIA,424.35,463.32,,400.0,245.42,0.65,79.04,-0.91,0.22,,,,,,3-winding transformer,RIMIERE,Transformer,BE,SGM
+TR STEVIN 380/220 TFO 3,22T20211201AB--K,ELIA,848.7,926.65,,400.0,225.0,0.37,39.76,-0.63,0.41,,,,,,3-winding transformer,STEVIN,Transformer,BE,SGM
+TR STEVIN 380/220 TFO 4,22T20211201AC--G,ELIA,848.7,926.65,,400.0,225.0,0.37,39.86,-2.21,0.4,,,,,,3-winding transformer,STEVIN,Transformer,BE,SGM
+TR STEVIN 380/220 TFO 5,22T20211201AD--C,ELIA,848.7,926.65,,400.0,225.0,0.37,39.84,-0.12,0.39,,,,,,3-winding transformer,STEVIN,Transformer,BE,SGM
+TR STEVIN 380/220 TFO 6,22T20211201AE--8,ELIA,848.7,926.65,,400.0,225.0,0.36,39.79,-0.63,0.4,,,,,,3-winding transformer,STEVIN,Transformer,BE,SGM
+TR ZANDVLIET PST 3,22T202305111---Y,ELIA,2042.38,2329.61,,400.0,400.0,0.14,11.27,-1.98,1.22,-8;8,90.0,Symmetrical,,1.471,,ZANDVLIET,PST,BE,SGM
+TR ZANDVLIET PST 4,22T202305112---T,ELIA,2042.38,2329.61,,400.0,400.0,0.14,11.27,-1.98,1.22,-8;8,90.0,Symmetrical,,1.471,,ZANDVLIET,PST,BE,SGM
+TR RIMIERE 380/220 TFO 10,22T202509091---F,ELIA,424.35,463.32,,400.0,245.42,0.65,78.61,-0.86,0.2,,,,,,3-winding transformer,RIMIERE,Transformer,BE,SGM
+TR 1 400/220 Konjsko,31T-0000-B-0004S,HOPS,1000.0,1000.0,,400.0,231.0,0.194,15.6,-8.66,2.4,,0.0,Asymmetrical,5.0,0.0,,Konjsko,PST,HR,SGM
+TR 2 400/220 Konjsko,31T-0000-B-0005Q,HOPS,1000.0,1000.0,,400.0,231.0,0.195,15.6,-7.9,2.4,,0.0,Asymmetrical,5.0,0.0,,Konjsko,PST,HR,SGM
+TR1 400/220 kV Melina,31T-0000-B-0002W,HOPS,1000.0,1000.0,,400.0,231.0,0.196,15.5,-9.42,2.5,,0.0,Asymmetrical,5.0,0.0,,Melina,PST,HR,SGM
+TR2 400/220 kV Melina,31T-0000-B-0003U,HOPS,1000.0,1000.0,,400.0,231.0,0.207,15.9,-5.49,2.4,,0.0,Asymmetrical,5.0,0.0,,Melina,PST,HR,SGM
+TR4 400/220 kV Zerjavinec,31T-0000-B-0001Y,HOPS,1000.0,1000.0,,400.0,231.0,0.195,16.3,-32.21,1.2,-12;12,0.0,Symmetrical/Asymmetrical,,,usually works in asymmetrical mode,Zerjavinec,Transformer,HR,SGM
+TR Sajoszoged TR3,15T-M0000001145Z,MAVIR,1250.0,1250.0,,231.0,400.0,0.251,12.81,-18.0,0.0,,,,,,,Sajoszoged,Transformer,HU,SGM
+TR Martonvasar TR1,15T-M0000000817H,MAVIR,1250.0,1250.0,,231.0,400.0,0.167,12.67,-1.0,0.0,,,,,,,Martonvasar,Transformer,HU,SGM
+TR Martonvasar TR2,15T-M0000000818F,MAVIR,1250.0,1250.0,,231.0,400.0,0.224,13.32,-18.0,0.0,,,,,,,Martonvasar,Transformer,HU,SGM
+TR BYCZYNA-A1,19T1100000064579,PSE,500.0,500.0,,400.0,220.0,0.121,12.032,-1.9421,0.0,,0.0,Asymmetrical,1.01,0.0,,BYCZYNA,PST,PL,SGM
+TR BYCZYNA-A2,19T1100000064587,PSE,500.0,500.0,,400.0,220.0,0.121,12.032,-1.9421,0.0,,0.0,Asymmetrical,1.01,0.0,,BYCZYNA,PST,PL,SGM
+TR DUNOWO-A1,19T0000000035667,PSE,400.0,400.0,,400.0,220.0,0.2468,13.504,-11.1777,0.0,,0.0,Asymmetrical,0.722,0.0,,DUNOWO,PST,PL,SGM
+TR GDANSK-A3,19T110000006503S,PSE,330.0,330.0,,400.0,220.0,0.1936,18.905,-8.3471,0.0,,0.0,Asymmetrical,1.01,0.0,,GDANSK,PST,PL,SGM
+PST GRUDZIADZ-A3,19T110000006511T,PSE,500.0,500.0,,400.0,220.0,0.15,12.487,-7.7273,0.0,,90.0,Symmetrical,0.0,0.758,Change of tap position of phase shifting transformer (400/220) in substation Grudziadz,GRUDZIADZ,PST,PL,SGM
+TR JOACHIMOW-A1,19T110000006523M,PSE,500.0,500.0,,400.0,220.0,0.1162,11.393,-2.376,0.0,,0.0,Asymmetrical,1.01,0.0,,JOACHIMOW,PST,PL,SGM
+TR JOACHIMOW-A2,19T110000006524K,PSE,500.0,500.0,,400.0,220.0,0.1162,11.597,-6.2603,0.0,,0.0,Asymmetrical,1.01,0.0,,JOACHIMOW,PST,PL,SGM
+PST JOACHIMOW-TD1,19T110000006525I,PSE,500.0,500.0,,220.0,220.0,0.0678,0.9874,-2.7273,0.0,,90.0,Symmetrical,0.0,1.458,Change of tap position of phase shifting transformer (400/220) in substation Joachimow,JOACHIMOW,PST,PL,SGM
+PST JOACHIMOW-TD2,19T110000006526G,PSE,500.0,500.0,,220.0,220.0,0.0678,0.997,-2.8306,0.0,,90.0,Symmetrical,0.0,1.458,Change of tap position of phase shifting transformer (400/220) in substation Joachimow,JOACHIMOW,PST,PL,SGM
+TR KIELCE-A1,19T110000006530P,PSE,500.0,500.0,,400.0,220.0,0.1452,11.722,-3.3678,0.0,,0.0,Asymmetrical,1.263,0.0,,KIELCE,PST,PL,SGM
+TR KOZIENICE-A2,19T110000006540M,PSE,500.0,500.0,,400.0,220.0,0.1742,11.084,-3.7603,0.0,,0.0,Asymmetrical,1.263,0.0,,KOZIENICE,PST,PL,SGM
+TR KRAJNIK-A2,19T000000003616I,PSE,400.0,400.0,,400.0,220.0,0.2226,13.741,-38.4917,0.0,,0.0,Asymmetrical,1.147,0.0,,KRAJNIK,PST,PL,SGM
+TR KRAJNIK-A3,19T000000003617G,PSE,500.0,500.0,,400.0,220.0,0.1258,12.874,-3.0785,0.0,,0.0,Asymmetrical,1.01,0.0,,KRAJNIK,PST,PL,SGM
+TR LAGISZA-A2,19T1100000065478,PSE,500.0,500.0,,400.0,220.0,0.1258,12.797,-5.6612,0.0,,0.0,Asymmetrical,1.01,0.0,,LAGISZA,PST,PL,SGM
+TR MIKULOWA-A1,19T000000004057N,PSE,500.0,500.0,,400.0,220.0,0.1065,9.438,-3.5124,0.0,,0.0,Asymmetrical,1.124,0.0,,MIKULOWA,PST,PL,SGM
+TR MIKULOWA-A2,19T000000004058L,PSE,500.0,500.0,,400.0,220.0,0.1065,9.438,-3.5124,0.0,,0.0,Asymmetrical,1.124,0.0,,MIKULOWA,PST,PL,SGM
+PST MIKULOWA-PF1,19T0000000063830,PSE,1200.0,1200.0,,400.0,400.0,0.112,11.616,-34.6375,0.0,-8;8,90.0,Symmetrical,0.0,1.108,Change of tap position of phase shifting transformer (400) on line Mikulowa-Hagenwerder (line 10T-DE-PL-00001D),MIKULOWA,PST,PL,SGM
+PST MIKULOWA-PF2,19T000000006384Z,PSE,1200.0,1200.0,,400.0,400.0,0.112,11.632,-34.6625,0.0,-8;8,90.0,Symmetrical,0.0,1.108,Change of tap position of phase shifting transformer (400) on line Mikulowa-Hagenwerder (line 10T-DE-PL-00001D),MIKULOWA,PST,PL,SGM
+PST MIKULOWA-PF3,19T000000006385X,PSE,1200.0,1200.0,,400.0,400.0,0.112,11.6,-34.6375,0.0,-8;8,90.0,Symmetrical,0.0,1.108,Change of tap position of phase shifting transformer (400) on line Mikulowa-Hagenwerder (line 10T-DE-PL-00002B),MIKULOWA,PST,PL,SGM
+PSTMIKULOWA-PF4,19T000000006386V,PSE,1200.0,1200.0,,400.0,400.0,0.112,11.568,-34.7,0.0,-8;8,90.0,Symmetrical,0.0,1.108,Change of tap position of phase shifting transformer (400) on line Mikulowa-Hagenwerder (line 10T-DE-PL-00002B),MIKULOWA,PST,PL,SGM
+PST MIKULOWA-TD1,19T110000006561E,PSE,500.0,500.0,,220.0,220.0,0.0968,0.8712,-2.5,0.0,-5;5,90.0,Symmetrical,0.0,1.458,Change of tap position of phase shifting transformer (400/220) in substation Mikulowa,MIKULOWA,PST,PL,SGM
+PST MIKULOWA-TD2,19T110000006562C,PSE,500.0,500.0,,220.0,220.0,0.0968,0.8712,-2.5,0.0,-5;5,90.0,Symmetrical,0.0,1.458,Change of tap position of phase shifting transformer (400/220) in substation Mikulowa,MIKULOWA,PST,PL,SGM
+TR MILOSNA-A3,19T1100000065648,PSE,400.0,400.0,,400.0,220.0,0.2565,13.286,-27.4587,0.0,,0.0,Asymmetrical,0.0,0.0,,MILOSNA,PST,PL,SGM
+TR OLSZTYN-MATK-A3,19T1100000065818,PSE,330.0,330.0,,400.0,220.0,0.1839,18.169,-8.6364,0.0,,0.0,Asymmetrical,1.01,0.0,,OLSZTYN,PST,PL,SGM
+TR OLTARZEW-A1,19T1100000065842,PSE,500.0,500.0,,400.0,220.0,0.1258,11.5,-2.9752,0.0,,0.0,Asymmetrical,1.01,0.0,,OLTARZEW,PST,PL,SGM
+TR OLTARZEW-A2,19T1100000065850,PSE,500.0,500.0,,400.0,220.0,0.1258,11.51,-2.7893,0.0,,0.0,Asymmetrical,1.01,0.0,,OLTARZEW,PST,PL,SGM
+TR OSTROLEKA-A1,19T000000006378U,PSE,500.0,500.0,,400.0,220.0,0.121,11.277,-2.8512,0.0,,0.0,Asymmetrical,1.01,0.0,,OSTROLEKA,PST,PL,SGM
+TR PATNOW-A2,19T110000006597U,PSE,500.0,500.0,,400.0,220.0,0.1452,12.845,-6.5289,0.0,,0.0,Asymmetrical,1.035,0.0,,PATNOW,PST,PL,SGM
+TR POLANIEC-A2,19T110000006601S,PSE,400.0,400.0,,400.0,220.0,0.271,14.757,-25.9091,0.0,,0.0,Asymmetrical,0.722,0.0,,POLANIEC,PST,PL,SGM
+TR POLKOWICE-A3,19T0000000064187,PSE,500.0,500.0,,400.0,220.0,0.1162,11.437,-3.0992,0.0,,0.0,Asymmetrical,1.01,0.0,,POLKOWICE,PST,PL,SGM
+TR ROGOWIEC-A1,19T110000006626C,PSE,500.0,500.0,,400.0,220.0,0.1549,12.458,-1.6736,0.0,,0.0,Asymmetrical,0.0,0.0,,ROGOWIEC,PST,PL,SGM
+TR ROGOWIEC-A2,19T110000006627A,PSE,500.0,500.0,,400.0,220.0,0.121,12.115,-2.4587,0.0,,0.0,Asymmetrical,1.01,0.0,,ROGOWIEC,PST,PL,SGM
+TR RZESZOW-A3,19T110000006633F,PSE,1251.0,1251.0,,750.0,400.0,0.096,19.264,-4.6437,0.0,,0.0,Asymmetrical,0.473,0.0,,RZESZOW,PST,PL,SGM
+TR RZESZOW-A4,19T110000006634D,PSE,1251.0,1251.0,,750.0,400.0,0.096,19.248,-4.65,0.0,,0.0,Asymmetrical,0.471,0.0,,RZESZOW,PST,PL,SGM
+TR SWIEBODZICE-A3,19T000000003947W,PSE,500.0,500.0,,400.0,220.0,0.121,12.371,-2.6033,0.0,,0.0,Asymmetrical,1.01,0.0,,SWIEBODZICE,PST,PL,SGM
+TR WIELOPOLE-A3,19T000000003959P,PSE,400.0,400.0,,400.0,220.0,0.2904,15.711,-24.3182,0.0,,0.0,Asymmetrical,1.279,0.0,,WIELOPOLE,PST,PL,SGM
+TR Chelm-A3,19T110000006830D,PSE,500.0,500.0,,400.0,220.0,0.434,42.63,-0.68,0.44,,0.0,Asymmetrical,1.01,0.0,,CHELM,PST,PL,SGM
+TR Chelm-A2,19T110000006831B,PSE,160.0,160.0,,400.0,220.0,0.989,32.188,-6.8,1.82,,0.0,Asymmetrical,1.01,0.0,,CHELM,PST,PL,SGM
+TR 400/225kV 762 ALBERTVILLE,17T000000014478N,RTE,1659.0,1803.0,,400.0,225.0,0.24,43.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ALBERTVILLE,Transformer,FR,SGM
+TR 400/225kV 763 ALBERTVILLE,17T000000016016E,RTE,1575.0,1803.0,,400.0,225.0,0.11,45.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ALBERTVILLE,Transformer,FR,SGM
+TR 400/225kV 761 ARGIA (BAYONNE SUD),17T-FR-00000065R,RTE,1659.0,1803.0,,400.0,225.0,0.17,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ARGIA (BAYONNE SUD),Transformer,FR,SGM
+TR 400/225kV 761 ARGOEUVES,17T000000014153E,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ARGOEUVES,Transformer,FR,SGM
+TR 400/225kV 763 ARGOEUVES,17T000000014154C,RTE,1659.0,1803.0,,400.0,225.0,0.31,46.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ARGOEUVES,Transformer,FR,SGM
+TR 400/225kV 761 ATTAQUES (LES),17T000000014162D,RTE,847.0,921.0,,400.0,225.0,0.01,74.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ATTAQUES (LES),Transformer,FR,SGM
+TR 400/225kV 762 ATTAQUES (LES),17T000000014163B,RTE,847.0,921.0,,400.0,225.0,0.37,68.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ATTAQUES (LES),Transformer,FR,SGM
+TR 400/225kV 761 AVELIN,17T0000000141738,RTE,1659.0,1803.0,,400.0,225.0,0.29,45.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,AVELIN,Transformer,FR,SGM
+TR 400/225kV 762 AVELIN,17T0000000141746,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,AVELIN,Transformer,FR,SGM
+TR 400/225kV 763 AVELIN,17T0000000141754,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,AVELIN,Transformer,FR,SGM
+TR 400/225kV 761 AVOINE (POSTE 400 KV),17T0000000145075,RTE,840.0,913.0,,400.0,225.0,0.51,69.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,AVOINE (POSTE 400 KV),Transformer,FR,SGM
+TR 400/225kV 761 BROC-CARROS (LE),17T000000014510G,RTE,1659.0,1803.0,,400.0,225.0,0.1,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BROC-CARROS (LE),Transformer,FR,SGM
+TR 400/225kV 762 BROC-CARROS (LE),17T000000014511E,RTE,1659.0,1803.0,,400.0,225.0,0.26,45.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BROC-CARROS (LE),Transformer,FR,SGM
+TR 400/225kV 761 BEAUMONT-MONTEUX,17T0000000145237,RTE,1659.0,1803.0,,400.0,225.0,0.23,45.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BEAUMONT-MONTEUX,Transformer,FR,SGM
+TR 400/225kV 762 BEAUMONT-MONTEUX,17T0000000145245,RTE,1659.0,1803.0,,400.0,225.0,0.25,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BEAUMONT-MONTEUX,Transformer,FR,SGM
+TR 400/225kV 761 BAIXAS,17T0000000145326,RTE,829.0,901.0,,400.0,225.0,2.2643,74.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BAIXAS,Transformer,FR,SGM
+TR 400/225kV 762 BAIXAS,17T0000000145334,RTE,829.0,901.0,,400.0,225.0,2.3134,73.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BAIXAS,Transformer,FR,SGM
+TR 400/225kV 763 BAIXAS,17T000000015933K,RTE,830.0,902.0,,400.0,225.0,-0.029,73.15,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BAIXAS,Transformer,FR,SGM
+TR 400/225kV 761 BAYET,17T000000014547U,RTE,847.0,921.0,,400.0,225.0,0.62,70.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BAYET,Transformer,FR,SGM
+TR 400/225kV 762 BAYET,17T000000014548S,RTE,775.0,910.0,,400.0,225.0,0.71,70.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BAYET,Transformer,FR,SGM
+TR 400/225kV 763 BAYET,17T000000014549Q,RTE,795.0,921.0,,400.0,225.0,0.68,70.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BAYET,Transformer,FR,SGM
+TR 400/225kV 761 BEZAUMONT,17T000000014558P,RTE,847.0,921.0,,400.0,225.0,0.16,70.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BEZAUMONT,Transformer,FR,SGM
+TR 400/225kV 762 BEZAUMONT,17T000000014559N,RTE,847.0,921.0,,400.0,225.0,0.15,71.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BEZAUMONT,Transformer,FR,SGM
+TR 400/225kV 761 BIANCON,17T000000014564U,RTE,1620.0,1803.0,,400.0,225.0,0.24,43.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BIANCON,Transformer,FR,SGM
+TR 400/225kV 762 BIANCON,17T000000014565S,RTE,1620.0,1803.0,,400.0,225.0,0.24,43.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BIANCON,Transformer,FR,SGM
+TR 400/225kV 761 BOISSE (LA),17T000000014572V,RTE,1659.0,1803.0,,400.0,225.0,0.07,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BOISSE (LA),Transformer,FR,SGM
+TR 400/225kV 762 BOISSE (LA),17T000000014573T,RTE,1659.0,1803.0,,400.0,225.0,0.1,39.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BOISSE (LA),Transformer,FR,SGM
+TR 400/225kV 761 BOUTRE,17T000000014581U,RTE,1659.0,1803.0,,400.0,225.0,0.08,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BOUTRE,Transformer,FR,SGM
+TR 400/225kV 762 BOUTRE,17T000000014582S,RTE,1620.0,1800.0,,400.0,225.0,0.09,42.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BOUTRE,Transformer,FR,SGM
+TR 400/225kV 761 BRAUD,17T000000014583Q,RTE,884.0,961.0,,400.0,225.0,0.05,70.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BRAUD,Transformer,FR,SGM
+TR 400/225kV 762 BREUIL (LE),17T000000014586K,RTE,847.0,921.0,,400.0,225.0,0.4,68.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,BREUIL (LE),Transformer,FR,SGM
+TR 400/225kV 761 CALAN,17T000000016006H,RTE,1540.0,1803.0,,400.0,225.0,0.082,45.95,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CALAN,Transformer,FR,SGM
+TR 400/225kV 761 CANTEGRIT,17T-FR-000000422,RTE,1659.0,1803.0,,400.0,225.0,0.09,42.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CANTEGRIT,Transformer,FR,SGM
+TR 400/225kV 762 CANTEGRIT,17T-FR-000000430,RTE,1659.0,1803.0,,400.0,225.0,0.06,42.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CANTEGRIT,Transformer,FR,SGM
+TR 400/225kV 761 CAPELLE (LA),17T000000016043B,RTE,1445.0,1803.0,,400.0,225.0,0.087,45.77,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CAPELLE (LA),Transformer,FR,SGM
+TR 400/225kV 761 CAZARIL,17T0000000146063,RTE,847.0,921.0,,400.0,225.0,0.43,69.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CAZARIL,Transformer,FR,SGM
+TR 400/225kV 762 CAZARIL,17T0000000146071,RTE,810.0,847.0,,400.0,225.0,0.55,68.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CAZARIL,Transformer,FR,SGM
+TR 400/225kV 761-(769) CERGY,17T000000014198T,RTE,814.0,850.0,,400.0,225.0,0.59,68.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CERGY,Transformer,FR,SGM
+TR 400/225kV 763 CERGY,17T000000014199R,RTE,1655.0,1800.0,,400.0,225.0,0.24,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CERGY,Transformer,FR,SGM
+TR 400/225kV 764 CERGY,17T000000014200V,RTE,1655.0,1800.0,,400.0,225.0,0.27,45.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CERGY,Transformer,FR,SGM
+TR 400/225kV 765 CERGY,17T000000014201T,RTE,1600.0,1800.0,,400.0,225.0,0.26,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CERGY,Transformer,FR,SGM
+TR 400/225kV 761 CHAINGY,17T000000014617Z,RTE,1655.0,1800.0,,400.0,225.0,0.23,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHAINGY,Transformer,FR,SGM
+TR 400/225kV 762 CHAINGY,17T000000014618X,RTE,1655.0,1800.0,,400.0,225.0,0.25,44.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHAINGY,Transformer,FR,SGM
+TR 400/225kV 761 CHARPENAY,17T000000014626Y,RTE,847.0,921.0,,400.0,225.0,0.57,71.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHARPENAY,Transformer,FR,SGM
+TR 400/225kV 762 CHARPENAY,17T000000014627W,RTE,847.0,921.0,,400.0,225.0,0.05,70.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHARPENAY,Transformer,FR,SGM
+TR 400/225kV 761 CHESNOY (LE),17T000000014210S,RTE,1659.0,1803.0,,400.0,225.0,0.14,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHESNOY (LE),Transformer,FR,SGM
+TR 400/225kV 762 CHESNOY (LE),17T000000014211Q,RTE,847.0,921.0,,400.0,225.0,0.08,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHESNOY (LE),Transformer,FR,SGM
+TR 400/225kV 763 CHESNOY (LE),17T000000016084Y,RTE,1659.0,1803.0,,400.0,225.0,0.126,45.66,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHESNOY (LE),Transformer,FR,SGM
+TR 400/225kV 761 CIROLLIERS,17T000000014215I,RTE,1659.0,1803.0,,400.0,225.0,0.32,45.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CIROLLIERS,Transformer,FR,SGM
+TR 400/225kV 762 CIROLLIERS,17T000000014216G,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CIROLLIERS,Transformer,FR,SGM
+TR 400/225kV 763 CIROLLIERS,17T000000014217E,RTE,1659.0,1803.0,,400.0,225.0,0.25,45.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CIROLLIERS,Transformer,FR,SGM
+TR 400/225kV 761 CORDEMAIS-POSTE,17T000000014652X,RTE,1659.0,1803.0,,400.0,225.0,0.29,45.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CORDEMAIS-POSTE,Transformer,FR,SGM
+TR 400/225kV 763 CORDEMAIS-POSTE,17T000000014653V,RTE,1659.0,1803.0,,400.0,225.0,0.07,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CORDEMAIS-POSTE,Transformer,FR,SGM
+TR 400/225kV 765 CORDEMAIS-POSTE,17T000000014654T,RTE,847.0,921.0,,400.0,225.0,0.7,70.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CORDEMAIS-POSTE,Transformer,FR,SGM
+TR 400/225kV 769 CORDEMAIS-POSTE,17T000000014655R,RTE,847.0,921.0,,400.0,225.0,0.43,63.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CORDEMAIS-POSTE,Transformer,FR,SGM
+TR 400/225kV 761 CORNIER,17T000000014663S,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CORNIER,Transformer,FR,SGM
+TR 400/225kV 762 CORNIER,17T000000014664Q,RTE,1630.0,1803.0,,400.0,225.0,0.27,45.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CORNIER,Transformer,FR,SGM
+TR 400/225kV 761 CHAMPAGNIER,17T000000014676J,RTE,1659.0,1803.0,,400.0,225.0,0.11,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHAMPAGNIER,Transformer,FR,SGM
+TR 400/225kV 762 CHAMPAGNIER,17T000000014677H,RTE,1659.0,1803.0,,400.0,225.0,0.09,42.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CHAMPAGNIER,Transformer,FR,SGM
+TR 400/225kV 765 CRENEY,17T000000014685I,RTE,845.0,884.0,,400.0,225.0,0.35,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CRENEY,Transformer,FR,SGM
+TR 400/225kV 766 CRENEY,17T000000014686G,RTE,847.0,885.0,,400.0,225.0,0.37,36.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CRENEY,Transformer,FR,SGM
+TR 400/225kV 768 CRENEY,17T000000014687E,RTE,1659.0,1803.0,,400.0,225.0,0.11,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CRENEY,Transformer,FR,SGM
+TR 400/225kV 761 CUBNEZAIS,17T000000014694H,RTE,1655.0,1800.0,,400.0,225.0,0.29,44.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CUBNEZAIS,Transformer,FR,SGM
+TR 400/225kV 762 CUBNEZAIS,17T000000014695F,RTE,1655.0,1800.0,,400.0,225.0,0.05,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,CUBNEZAIS,Transformer,FR,SGM
+TR 400/225kV 761 DAMBRON,17T0000000147051,RTE,1655.0,1800.0,,400.0,225.0,0.09,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,DAMBRON,Transformer,FR,SGM
+TR 400/225kV 760 DISTRE,17T0000000147132,RTE,1659.0,1803.0,,400.0,225.0,0.05,42.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,DISTRE,Transformer,FR,SGM
+TR 400/225kV 762 DISTRE,17T000000014715Z,RTE,840.0,913.0,,400.0,225.0,0.57,72.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,DISTRE,Transformer,FR,SGM
+TR 400/225kV 765 DISTRE,17T000000014716X,RTE,849.0,923.0,,400.0,225.0,0.15,74.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,DISTRE,Transformer,FR,SGM
+TR 400/225kV 766 DISTRE,17T000000014717V,RTE,1659.0,1803.0,,400.0,225.0,0.03,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,DISTRE,Transformer,FR,SGM
+TR 400/225kV 764 DOMLOUP,17T000000014725W,RTE,1659.0,1803.0,,400.0,225.0,0.25,43.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,DOMLOUP,Transformer,FR,SGM
+TR 400/225kV 765 DOMLOUP,17T000000014726U,RTE,1659.0,1803.0,,400.0,225.0,0.09,42.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,DOMLOUP,Transformer,FR,SGM
+TR 400/225kV 762 DONZAC,17T000000014727S,RTE,1659.0,1803.0,,400.0,225.0,0.13,42.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,DONZAC,Transformer,FR,SGM
+TR 400/225kV 761 ECHALAS,17T000000014734V,RTE,1659.0,1803.0,,400.0,225.0,0.27,45.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ECHALAS,Transformer,FR,SGM
+TR 400/225kV 762 ECHALAS,17T000000014735T,RTE,1659.0,1803.0,,400.0,225.0,0.07,42.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ECHALAS,Transformer,FR,SGM
+TR 400/225kV 761 EGUZON,17T000000014738N,RTE,1659.0,1803.0,,400.0,225.0,0.27,44.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,EGUZON,Transformer,FR,SGM
+TR 400/225kV 762 EGUZON,17T000000014739L,RTE,847.0,921.0,,400.0,225.0,0.25,68.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,EGUZON,Transformer,FR,SGM
+TR 400/225kV 761 FEUILLANE,17T000000014784G,RTE,1659.0,1803.0,,400.0,225.0,0.111,39.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,FEUILLANE,Transformer,FR,SGM
+TR 400/225kV 761 FRASNE,17T000000014141L,RTE,830.0,902.0,,400.0,225.0,0.004,74.25,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,FRASNE,Transformer,FR,SGM
+TR 400/225kV 761 GRANDE-ILE,17T000000014818P,RTE,847.0,921.0,,400.0,225.0,0.02,70.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GRANDE-ILE,Transformer,FR,SGM
+TR 400/225kV 762 GRANDE-ILE,17T000000014819N,RTE,815.0,921.0,,400.0,225.0,0.45,71.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GRANDE-ILE,Transformer,FR,SGM
+TR 400/225kV 761 GALOREAUX (LES),17T000000016003N,RTE,1659.0,1803.0,,400.0,225.0,0.119,39.64,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GALOREAUX (LES),Transformer,FR,SGM
+TR 400/225kV 761 GAUDIERE (LA),17T000000014850T,RTE,847.0,921.0,,400.0,225.0,0.86,74.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GAUDIERE (LA),Transformer,FR,SGM
+TR 400/225kV 762 GAUDIERE (LA),17T000000014851R,RTE,1660.0,1805.0,,400.0,225.0,0.07,42.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GAUDIERE (LA),Transformer,FR,SGM
+TR 400/225kV 761 GAVRELLE,17T0000000142718,RTE,1659.0,1803.0,,400.0,225.0,0.12,42.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GAVRELLE,Transformer,FR,SGM
+TR 400/225kV 761 GENISSIAT-POSTE,17T000000014853N,RTE,1659.0,1803.0,,400.0,225.0,0.03,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GENISSIAT-POSTE,Transformer,FR,SGM
+TR 400/225kV 762 GENISSIAT-POSTE,17T000000014854L,RTE,1540.0,1803.0,,400.0,225.0,0.33,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GENISSIAT-POSTE,Transformer,FR,SGM
+TR 400/225kV 761 GRANZAY,17T0000000148876,RTE,1659.0,1803.0,,400.0,225.0,0.19,44.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GRANZAY,Transformer,FR,SGM
+TR 400/225kV 762 GRANZAY,17T0000000148884,RTE,1659.0,1803.0,,400.0,225.0,0.24,45.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GRANZAY,Transformer,FR,SGM
+TR 400/225kV 763 GRANZAY,17T0000000148892,RTE,1659.0,1803.0,,400.0,225.0,0.31,45.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GRANZAY,Transformer,FR,SGM
+TR 400/225kV 761 GROSNE,17T0000000148965,RTE,1659.0,1803.0,,400.0,225.0,0.23,45.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GROSNE,Transformer,FR,SGM
+TR 400/225kV 762 GROSNE,17T0000000148973,RTE,1659.0,1803.0,,400.0,225.0,0.1,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,GROSNE,Transformer,FR,SGM
+TR 400/225kV 762 HENRI-PAUL,17T000000014135G,RTE,1660.0,1805.0,,400.0,225.0,0.087,45.55,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,HENRI-PAUL,Transformer,FR,SGM
+TR 400/225kV 762 HAVRE (LE) (POSTE),17T0000000142815,RTE,1659.0,1803.0,,400.0,225.0,0.11,42.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,HAVRE (LE) (POSTE),Transformer,FR,SGM
+TR 400/225kV 763 HAVRE (LE) (POSTE),17T0000000142823,RTE,1659.0,1803.0,,400.0,225.0,0.06,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,HAVRE (LE) (POSTE),Transformer,FR,SGM
+TR 400/225kV 761 JONQUIERES,17T000000014991B,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,JONQUIERES,Transformer,FR,SGM
+TR 400/225kV 762 JONQUIERES,17T0000000149929,RTE,1659.0,1803.0,,400.0,225.0,0.29,45.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,JONQUIERES,Transformer,FR,SGM
+TR 400/225kV 761 JUMEAUX (LES),17T0000000149961,RTE,847.0,921.0,,400.0,225.0,0.1,70.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,JUMEAUX (LES),Transformer,FR,SGM
+TR 400/225kV 762 JUMEAUX (LES),17T000000014998Y,RTE,847.0,921.0,,400.0,225.0,0.44,69.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,JUMEAUX (LES),Transformer,FR,SGM
+TR 400/225kV 761 LATENA,17T000000014287U,RTE,1659.0,1803.0,,400.0,225.0,0.26,45.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LATENA,Transformer,FR,SGM
+TR 400/225kV 762 LATENA,17T000000014288S,RTE,1659.0,1803.0,,400.0,225.0,0.27,45.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LATENA,Transformer,FR,SGM
+TR 400/225kV 763 LATENA,17T000000014289Q,RTE,1659.0,1803.0,,400.0,225.0,0.27,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LATENA,Transformer,FR,SGM
+TR 400/225kV 763 LAUNAY,17T000000014295V,RTE,845.0,918.0,,400.0,225.0,0.68,70.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LAUNAY,Transformer,FR,SGM
+TR 400/225kV 761 LESQUIVE,17T0000000150494,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LESQUIVE,Transformer,FR,SGM
+TR 400/225kV 762 LESQUIVE,17T000000015050J,RTE,1659.0,1803.0,,400.0,225.0,0.36,46.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LESQUIVE,Transformer,FR,SGM
+TR 400/225kV 761 LIMEUX,17T000000016165Y,RTE,1659.0,1803.0,,400.0,225.0,0.12,39.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LIMEUX,Transformer,FR,SGM
+TR 400/225kV 766 LOGELBACH,17T000000015060G,RTE,840.0,913.0,,400.0,225.0,0.64,69.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LOGELBACH,Transformer,FR,SGM
+TR 400/225kV 767 LOGELBACH,17T000000015061E,RTE,840.0,913.0,,400.0,225.0,0.57,70.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,LOGELBACH,Transformer,FR,SGM
+TR 400/225kV 761 MAMBELIN,17T000000015150F,RTE,840.0,913.0,,400.0,225.0,0.22,70.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MAMBELIN,Transformer,FR,SGM
+TR 400/225kV 762 MAMBELIN,17T000000015151D,RTE,840.0,913.0,,400.0,225.0,0.19,70.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MAMBELIN,Transformer,FR,SGM
+TR 400/225kV 763 MAMBELIN,17T000000015152B,RTE,840.0,913.0,,400.0,225.0,0.17,68.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MAMBELIN,Transformer,FR,SGM
+TR 400/225kV 761 MANDARINS,17T000000014305H,RTE,847.0,921.0,,400.0,225.0,0.35,73.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MANDARINS,Transformer,FR,SGM
+TR 400/225kV 763 MANDARINS,17T000000014306F,RTE,847.0,921.0,,400.0,225.0,0.35,72.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MANDARINS,Transformer,FR,SGM
+TR 400/225kV 761 MARLENHEIM,17T0000000151555,RTE,1659.0,1803.0,,400.0,225.0,0.06,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARLENHEIM,Transformer,FR,SGM
+TR 400/225kV 762 MARLENHEIM,17T0000000151563,RTE,1659.0,1803.0,,400.0,225.0,0.08,44.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARLENHEIM,Transformer,FR,SGM
+TR 400/225kV 763 MARLENHEIM,17T0000000151571,RTE,1659.0,1803.0,,400.0,225.0,0.22,44.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARLENHEIM,Transformer,FR,SGM
+TR 400/225kV 761 MARMAGNE,17T0000000151822,RTE,1659.0,1803.0,,400.0,225.0,0.11,45.87,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARMAGNE,Transformer,FR,SGM
+TR 400/225kV 761 MARSILLON,17T000000016017C,RTE,1660.0,1805.0,,400.0,225.0,1.0633,45.62,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARSILLON,Transformer,FR,SGM
+TR 400/225kV 761 MARTYRE (LA),17T0000000151911,RTE,1659.0,1803.0,,400.0,225.0,0.28,46.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARTYRE (LA),Transformer,FR,SGM
+TR 400/225kV 762 MARTYRE (LA),17T000000015193Y,RTE,1659.0,1803.0,,400.0,225.0,0.27,45.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARTYRE (LA),Transformer,FR,SGM
+TR 400/225kV 761 MASTAING,17T000000014314G,RTE,1659.0,1803.0,,400.0,225.0,0.29,45.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MASTAING,Transformer,FR,SGM
+TR 400/225kV 762 MASTAING,17T000000014315E,RTE,1659.0,1803.0,,400.0,225.0,0.15,42.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MASTAING,Transformer,FR,SGM
+TR 400/225kV 761 MAZURES,17T0000000143196,RTE,847.0,921.0,,400.0,225.0,0.36,69.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MAZURES,Transformer,FR,SGM
+TR 400/225kV 762 MAZURES,17T000000014320L,RTE,847.0,921.0,,400.0,225.0,0.73,67.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MAZURES,Transformer,FR,SGM
+TR 400/225kV 763 MAZURES,17T000000014321J,RTE,1650.0,1803.0,,400.0,225.0,0.11,42.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MAZURES,Transformer,FR,SGM
+TR 400/225kV 761 MEZEROLLES,17T000000014322H,RTE,1659.0,1803.0,,400.0,225.0,0.27,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MEZEROLLES,Transformer,FR,SGM
+TR 400/225kV 762 MEZEROLLES,17T000000014323F,RTE,847.0,921.0,,400.0,225.0,0.54,69.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MEZEROLLES,Transformer,FR,SGM
+TR 400/225kV 763 MEZEROLLES,17T000000014324D,RTE,1659.0,1803.0,,400.0,225.0,0.14,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MEZEROLLES,Transformer,FR,SGM
+TR 400/225kV 764 MEZEROLLES,17T000000014325B,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MEZEROLLES,Transformer,FR,SGM
+TR 400/225kV 761 MIONS,17T000000015225A,RTE,1659.0,1803.0,,400.0,225.0,0.14,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MIONS,Transformer,FR,SGM
+TR 400/225kV 762 MIONS,17T0000000152268,RTE,1659.0,1803.0,,400.0,225.0,0.14,42.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MIONS,Transformer,FR,SGM
+TR 400/225kV 763 MIONS,17T0000000152276,RTE,1630.0,1803.0,,400.0,225.0,0.22,45.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MIONS,Transformer,FR,SGM
+TR 400/225kV 761 MORBRAS,17T0000000143285,RTE,1659.0,1803.0,,400.0,225.0,0.25,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MORBRAS,Transformer,FR,SGM
+TR 400/225kV 762 MORBRAS,17T0000000143293,RTE,1659.0,1803.0,,400.0,225.0,0.27,45.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MORBRAS,Transformer,FR,SGM
+TR 400/225kV 763 MORBRAS,17T000000014330I,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MORBRAS,Transformer,FR,SGM
+TR 400/225kV 764 MORBRAS,17T000000014331G,RTE,1659.0,1803.0,,400.0,225.0,0.31,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MORBRAS,Transformer,FR,SGM
+TR 400/225kV 761 MOULAINE,17T000000015248Z,RTE,1659.0,1803.0,,400.0,225.0,0.44,36.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MOULAINE,Transformer,FR,SGM
+TR 400/225kV 762 MOULAINE,17T0000000159657,RTE,1659.0,1803.0,,400.0,225.0,0.11,42.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MOULAINE,Transformer,FR,SGM
+TR 400/225kV 761 MARQUIS (LE),17T0000000152535,RTE,845.0,884.0,,400.0,225.0,0.55,73.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARQUIS (LE),Transformer,FR,SGM
+TR 400/225kV 762 MARQUIS (LE),17T0000000152543,RTE,1659.0,1803.0,,400.0,225.0,0.53,73.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARQUIS (LE),Transformer,FR,SGM
+TR 400/225kV 763 MARQUIS (LE),17T0000000152551,RTE,845.0,884.0,,400.0,225.0,0.41,62.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARQUIS (LE),Transformer,FR,SGM
+TR 400/225kV 764 MARQUIS (LE),17T000000016283S,RTE,1659.0,1803.0,,400.0,225.0,0.099,40.11,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,MARQUIS (LE),Transformer,FR,SGM
+TR 400/225kV 761 NEOULES,17T000000015293U,RTE,1659.0,1803.0,,400.0,225.0,0.13,42.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,NEOULES,Transformer,FR,SGM
+TR 400/225kV 762 NEOULES,17T000000015294S,RTE,1659.0,1803.0,,400.0,225.0,0.28,45.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,NEOULES,Transformer,FR,SGM
+TR 400/225kV 761 OUDON,17T0000000159754,RTE,1659.0,1803.0,,400.0,225.0,0.14,44.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,OUDON,Transformer,FR,SGM
+TR 400/225kV 761 PRAZ-ST-ANDRE,17T000000015322C,RTE,847.0,921.0,,400.0,225.0,0.11,67.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PRAZ-ST-ANDRE,Transformer,FR,SGM
+TR 400/225kV 761 PLESSIS-GASSOT,17T0000000143439,RTE,1655.0,1800.0,,400.0,225.0,0.32,45.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PLESSIS-GASSOT,Transformer,FR,SGM
+TR 400/225kV 762 PLESSIS-GASSOT,17T0000000143447,RTE,1655.0,1800.0,,400.0,225.0,0.08,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PLESSIS-GASSOT,Transformer,FR,SGM
+TR 400/225kV 763 PLESSIS-GASSOT,17T0000000143455,RTE,1655.0,1800.0,,400.0,225.0,0.29,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PLESSIS-GASSOT,Transformer,FR,SGM
+TR 400/225kV 764 PLESSIS-GASSOT,17T0000000143463,RTE,1600.0,1800.0,,400.0,225.0,0.28,44.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PLESSIS-GASSOT,Transformer,FR,SGM
+TR 400/225kV 765 PLESSIS-GASSOT,17T0000000143471,RTE,1655.0,1800.0,,400.0,225.0,0.28,45.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PLESSIS-GASSOT,Transformer,FR,SGM
+TR 400/225kV 762 PLAINE HAUTE,17T0000000162077,RTE,1659.0,1803.0,,400.0,225.0,0.098,39.63,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PLAINE HAUTE,Transformer,FR,SGM
+TR 400/225kV 763 PLAINE HAUTE,17T000000015330D,RTE,1659.0,1803.0,,400.0,225.0,0.31,45.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PLAINE HAUTE,Transformer,FR,SGM
+TR 400/225kV 761 PLAN-D ORGON,17T000000014136E,RTE,847.0,921.0,,400.0,225.0,0.25,76.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PLAN-D ORGON,Transformer,FR,SGM
+TR 400/225kV 761 PONTEAU,17T0000000154066,RTE,1659.0,1803.0,,400.0,225.0,0.068,-11.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,PONTEAU,Transformer,FR,SGM
+TR 400/225kV 761 QUINTES (LES),17T000000015449P,RTE,1659.0,1803.0,,400.0,225.0,0.18,42.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,QUINTES (LES),Transformer,FR,SGM
+TR 400/225kV 762 QUINTES (LES),17T0000000154503,RTE,1660.0,1805.0,,400.0,225.0,0.11,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,QUINTES (LES),Transformer,FR,SGM
+TR 400/225kV 761 REALTOR,17T000000015482R,RTE,1660.0,1805.0,,400.0,225.0,0.12,41.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,REALTOR,Transformer,FR,SGM
+TR 400/225kV 762 REALTOR,17T000000015483P,RTE,1660.0,1805.0,,400.0,225.0,0.14,42.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,REALTOR,Transformer,FR,SGM
+TR 400/225kV 763 REALTOR,17T000000015484N,RTE,1660.0,1805.0,,400.0,225.0,0.11,41.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,REALTOR,Transformer,FR,SGM
+TR 400/225kV 761 REMISE,17T000000014138A,RTE,829.0,901.0,,400.0,225.0,-0.036,73.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,REMISE,Transformer,FR,SGM
+TR 400/225kV 764 REVIGNY,17T000000015487H,RTE,850.0,925.0,,400.0,225.0,0.59,69.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,REVIGNY,Transformer,FR,SGM
+TR 400/225kV 765 REVIGNY,17T000000015938A,RTE,1659.0,1803.0,,400.0,225.0,0.09,42.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,REVIGNY,Transformer,FR,SGM
+TR 400/225kV 762 ROUGEMONTIER,17T000000014393V,RTE,847.0,921.0,,400.0,225.0,0.06,71.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ROUGEMONTIER,Transformer,FR,SGM
+TR 400/225kV 763 ROUGEMONTIER,17T000000014394T,RTE,1659.0,1803.0,,400.0,225.0,0.41,44.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ROUGEMONTIER,Transformer,FR,SGM
+TR 400/225kV 765 ROUGEMONTIER,17T000000014396P,RTE,1659.0,1803.0,,400.0,225.0,0.2,44.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ROUGEMONTIER,Transformer,FR,SGM
+TR 400/225kV 761 RUEYRES,17T0000000155321,RTE,829.0,901.0,,400.0,225.0,0.4,69.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,RUEYRES,Transformer,FR,SGM
+TR 400/225kV 762 RUEYRES,17T000000015534Y,RTE,840.0,913.0,,400.0,225.0,0.52,71.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,RUEYRES,Transformer,FR,SGM
+TR 400/225kV 761 RULHAT,17T000000015535W,RTE,847.0,921.0,,400.0,225.0,0.58,70.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,RULHAT,Transformer,FR,SGM
+TR 400/225kV 762 RULHAT,17T000000015536U,RTE,847.0,921.0,,400.0,225.0,0.61,67.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,RULHAT,Transformer,FR,SGM
+TR 400/225kV 763 RULHAT,17T0000000161291,RTE,1659.0,1803.0,,400.0,225.0,0.103,45.77,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,RULHAT,Transformer,FR,SGM
+TR 400/225kV 761 SAUCATS,17T000000015569F,RTE,1659.0,1803.0,,400.0,225.0,0.26,45.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SAUCATS,Transformer,FR,SGM
+TR 400/225kV 762 SAUCATS,17T000000015570U,RTE,1660.0,1805.0,,400.0,225.0,0.13,42.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SAUCATS,Transformer,FR,SGM
+TR 400/225kV 763 SAUCATS,17T000000016008D,RTE,1659.0,1803.0,,400.0,225.0,0.167,40.43,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SAUCATS,Transformer,FR,SGM
+TR 400/225kV 761 SAUSSET,17T000000014405D,RTE,1659.0,1803.0,,400.0,225.0,0.27,43.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SAUSSET,Transformer,FR,SGM
+TR 400/225kV 762 SAUSSET,17T000000016211G,RTE,1659.0,1803.0,,400.0,225.0,0.09,45.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SAUSSET,Transformer,FR,SGM
+TR 400/225kV 761 SCHEER,17T000000015574M,RTE,1659.0,1803.0,,400.0,225.0,0.118,39.27,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SCHEER,Transformer,FR,SGM
+TR 400/225kV 761 SEREIN,17T000000015581P,RTE,1659.0,1803.0,,400.0,225.0,0.09,42.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SEREIN,Transformer,FR,SGM
+TR 400/225kV 762 SEREIN,17T0000000156026,RTE,1659.0,1803.0,,400.0,225.0,0.12,42.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SEREIN,Transformer,FR,SGM
+TR 400/225kV 762 SIERENTZ,17T000000015606Z,RTE,840.0,913.0,,400.0,225.0,0.56,69.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SIERENTZ,Transformer,FR,SGM
+TR 400/225kV 764 SIERENTZ,17T000000015607X,RTE,840.0,913.0,,400.0,225.0,0.62,69.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,SIERENTZ,Transformer,FR,SGM
+TR 400/225kV 761 ST-AVOLD,17T000000015647L,RTE,1659.0,1803.0,,400.0,225.0,0.13,42.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ST-AVOLD,Transformer,FR,SGM
+TR 400/225kV 765 ST-ELOI,17T000000015659E,RTE,810.0,847.0,,400.0,225.0,0.35,68.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ST-ELOI,Transformer,FR,SGM
+TR 400/225kV 766 ST-ELOI,17T000000015660T,RTE,810.0,847.0,,400.0,225.0,0.07,68.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,ST-ELOI,Transformer,FR,SGM
+TR 400/225kV 761 TABARDERIE,17T000000015732U,RTE,839.0,912.0,,400.0,225.0,0.66,71.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TABARDERIE,Transformer,FR,SGM
+TR 400/225kV 762 TABARDERIE,17T000000015733S,RTE,839.0,912.0,,400.0,225.0,0.64,70.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TABARDERIE,Transformer,FR,SGM
+TR 400/225kV 761 TAMAREAU,17T000000015737K,RTE,1659.0,1803.0,,400.0,225.0,0.25,45.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TAMAREAU,Transformer,FR,SGM
+TR 400/225kV 762 TAMAREAU,17T000000015738I,RTE,1659.0,1803.0,,400.0,225.0,0.13,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TAMAREAU,Transformer,FR,SGM
+TR 400/225kV 763 TAMAREAU,17T000000015739G,RTE,1659.0,1803.0,,400.0,225.0,0.02,42.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TAMAREAU,Transformer,FR,SGM
+TR 400/225kV 763 TAVEL,17T000000015763J,RTE,1660.0,1805.0,,400.0,225.0,0.14,42.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TAVEL,Transformer,FR,SGM
+TR 400/225kV 764 TAVEL,17T000000015764H,RTE,1660.0,1805.0,,400.0,225.0,0.15,42.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TAVEL,Transformer,FR,SGM
+TR 400/225kV 761 TERRIER,17T000000014422D,RTE,1655.0,1800.0,,400.0,225.0,0.02,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TERRIER,Transformer,FR,SGM
+TR 400/225kV 762 TERRIER,17T000000014423B,RTE,1655.0,1800.0,,400.0,225.0,0.31,45.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TERRIER,Transformer,FR,SGM
+TR 400/225kV 763 TOURBE,17T000000014432A,RTE,1661.0,1806.0,,400.0,225.0,0.24,46.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TOURBE,Transformer,FR,SGM
+TR 400/225kV 764 TOURBE,17T0000000144338,RTE,1661.0,1806.0,,400.0,225.0,0.29,45.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TOURBE,Transformer,FR,SGM
+TR 400/225kV 761 TRANS,17T0000000159665,RTE,1560.0,1803.0,,400.0,225.0,0.09,45.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TRANS,Transformer,FR,SGM
+TR 400/225kV 762 TRANS,17T0000000159673,RTE,1659.0,1803.0,,400.0,225.0,0.11,45.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TRANS,Transformer,FR,SGM
+TR 400/225kV 761 TRICASTIN-POSTE (LE),17T000000018368A,RTE,2654.0,2654.0,,400.0,225.0,0.1,50.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TRICASTIN-POSTE (LE),Transformer,FR,SGM
+TR 400/225kV 762 TRICASTIN-POSTE (LE),17T0000000183698,RTE,2654.0,2654.0,,400.0,225.0,0.1,50.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TRICASTIN-POSTE (LE),Transformer,FR,SGM
+TR 400/225kV 765 TRICASTIN-POSTE (LE),17T000000018370N,RTE,2654.0,2654.0,,400.0,225.0,0.1,50.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TRICASTIN-POSTE (LE),Transformer,FR,SGM
+TR 400/225kV 766 TRICASTIN-POSTE (LE),17T000000018371L,RTE,2654.0,2654.0,,400.0,225.0,0.1,50.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,TRICASTIN-POSTE (LE),Transformer,FR,SGM
+TR 400/225kV 761 VALDIVIENNE,17T000000015805T,RTE,847.0,921.0,,400.0,225.0,0.02,68.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VALDIVIENNE,Transformer,FR,SGM
+TR 400/225kV 762 VALDIVIENNE,17T000000015806R,RTE,847.0,921.0,,400.0,225.0,0.17,69.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VALDIVIENNE,Transformer,FR,SGM
+TR 400/225kV 762 VAUPALIERE (LA),17T0000000144419,RTE,1659.0,1803.0,,400.0,225.0,0.32,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VAUPALIERE (LA),Transformer,FR,SGM
+TR 400/225kV 763 VAUPALIERE (LA),17T0000000144427,RTE,1659.0,1803.0,,400.0,225.0,0.32,45.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VAUPALIERE (LA),Transformer,FR,SGM
+TR 400/225kV 764 VAUPALIERE (LA),17T0000000144435,RTE,1659.0,1803.0,,400.0,225.0,0.12,42.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VAUPALIERE (LA),Transformer,FR,SGM
+TR 400/225kV 761 VERFEIL,17T000000015819I,RTE,1660.0,1805.0,,400.0,225.0,0.14,42.6,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VERFEIL,Transformer,FR,SGM
+TR 400/225kV 762 VERFEIL,17T000000015820X,RTE,1660.0,1805.0,,400.0,225.0,0.14,42.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VERFEIL,Transformer,FR,SGM
+TR 400/225kV 762 VESLE,17T0000000144443,RTE,1659.0,1803.0,,400.0,225.0,0.16,42.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VESLE,Transformer,FR,SGM
+TR 400/225kV 763 VESLE,17T0000000144451,RTE,1659.0,1803.0,,400.0,225.0,0.14,43.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VESLE,Transformer,FR,SGM
+TR 400/225kV 761 VIELMOULIN,17T000000015848B,RTE,839.0,912.0,,400.0,225.0,0.7,68.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VIELMOULIN,Transformer,FR,SGM
+TR 400/225kV 762 VIELMOULIN,17T0000000158499,RTE,1659.0,1803.0,,400.0,225.0,0.25,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VIELMOULIN,Transformer,FR,SGM
+TR 400/225kV 763 VIELMOULIN,17T000000015850O,RTE,839.0,912.0,,400.0,225.0,0.5,69.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VIELMOULIN,Transformer,FR,SGM
+TR 400/225kV 761 VIGY,17T000000015851M,RTE,1659.0,1803.0,,400.0,225.0,0.15,42.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VIGY,Transformer,FR,SGM
+TR 400/225kV 763 VIGY,17T000000015852K,RTE,1659.0,1803.0,,400.0,225.0,0.13,42.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VIGY,Transformer,FR,SGM
+TR 400/225kV 765 VINCEY,17T000000015857A,RTE,1659.0,1803.0,,400.0,225.0,0.09,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VINCEY,Transformer,FR,SGM
+TR 400/225kV 766 VINCEY,17T0000000158588,RTE,1659.0,1803.0,,400.0,225.0,0.29,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VINCEY,Transformer,FR,SGM
+TR 400/225kV 761 VILLEJUST,17T000000014449U,RTE,1659.0,1803.0,,400.0,225.0,0.08,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEJUST,Transformer,FR,SGM
+TR 400/225kV 762 VILLEJUST,17T0000000144508,RTE,1659.0,1803.0,,400.0,225.0,0.1,42.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEJUST,Transformer,FR,SGM
+TR 400/225kV 763 VILLEJUST,17T0000000144516,RTE,1659.0,1803.0,,400.0,225.0,0.29,45.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEJUST,Transformer,FR,SGM
+TR 400/225kV 764 VILLEJUST,17T0000000144524,RTE,1659.0,1803.0,,400.0,225.0,0.24,45.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEJUST,Transformer,FR,SGM
+TR 400/225kV 765 VILLEJUST,17T0000000144532,RTE,1659.0,1803.0,,400.0,225.0,0.3,46.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEJUST,Transformer,FR,SGM
+TR 400/225kV 766 VILLEJUST,17T000000016051C,RTE,1659.0,1803.0,,400.0,225.0,0.094,39.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEJUST,Transformer,FR,SGM
+TR 400/225kV 762 VILLEVAUDE,17T000000014457V,RTE,1659.0,1803.0,,400.0,225.0,0.27,45.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEVAUDE,Transformer,FR,SGM
+TR 400/225kV 763 VILLEVAUDE,17T000000014458T,RTE,1660.0,1805.0,,400.0,225.0,0.1,42.5,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEVAUDE,Transformer,FR,SGM
+TR 400/225kV 764 VILLEVAUDE,17T000000014459R,RTE,1660.0,1805.0,,400.0,225.0,0.04,42.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEVAUDE,Transformer,FR,SGM
+TR 400/225kV 765  (769) VILLEVAUDE,17T0000000144605,RTE,1695.0,1842.0,,400.0,225.0,0.24,72.0,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,VILLEVAUDE,Transformer,FR,SGM
+TR 400/225kV 761 WARANDE,17T0000000144613,RTE,1659.0,1803.0,,400.0,225.0,0.28,44.8,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,WARANDE,Transformer,FR,SGM
+TR 400/225kV 762 WARANDE,17T0000000144621,RTE,1659.0,1803.0,,400.0,225.0,0.26,45.2,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,WARANDE,Transformer,FR,SGM
+TR 400/225kV 763 WARANDE,17T000000014464Y,RTE,1659.0,1803.0,,400.0,225.0,0.33,44.3,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,WARANDE,Transformer,FR,SGM
+TR 400/225kV 764 WARANDE,17T000000014465W,RTE,1659.0,1803.0,,400.0,225.0,0.2,44.9,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,WARANDE,Transformer,FR,SGM
+TR 400/225kV 761 WEPPES,17T000000014466U,RTE,1659.0,1803.0,,400.0,225.0,0.31,46.4,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,WEPPES,Transformer,FR,SGM
+TR 400/225kV 762 WEPPES,17T000000014467S,RTE,1659.0,1803.0,,400.0,225.0,0.27,45.7,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,WEPPES,Transformer,FR,SGM
+TR 400/225kV 761 YVELINES-OUEST,17T000000015900Z,RTE,1659.0,1803.0,,400.0,225.0,0.112,43.1,,,,,,,,Both Susceptance_B (µS) and Conductance_G (µS) are not calculated for transformers as RTE considers them only relevant for lines,YVELINES-OUEST,Transformer,FR,SGM
+Krizovany T401,24T-KRIZ-T401-02,SEPS,,,577.0,400.0,231.0,0.486,39.197,-12.4,1.3125,,,,,,,Krizovany,Transformer,SK,SGM
+Bystricany T402,24T-BYST-T402-1I,SEPS,,,360.0,400.0,231.0,1.242,79.22,-0.19,0.46,,,,,,,Bystricany,Transformer,SK,SGM
+Bystricany T401,24T-BYST-T401-0O,SEPS,,,360.0,400.0,231.0,1.242,79.22,-0.19,0.46,,,,,,,Bystricany,Transformer,SK,SGM
+PST Arad 400/220 3,30T-ARAD400AT3-F,TRANSELECTRICA,,,577.0,400.0,231.0,1.02,45.99,-12.37,1.81,-12;0,60.0,Asymmetrical,,1.25,Connected in substation 400/220 kV Arad (RO),Arad,PST,RO,SGM
+TR Bradu 400/220 1,30T-BRAD400AT3-3,TRANSELECTRICA,,,577.0,400.0,231.0,0.48,45.76,-2.46,0.47,,,,1.25,,,Bradu,Transformer,RO,SGM
+TR Bradu 400/220 2,30T-BRAD400AT4-0,TRANSELECTRICA,,,577.0,400.0,231.0,0.48,45.76,-2.46,0.47,,,,1.25,,,Bradu,Transformer,RO,SGM
+TR Brazi Vest 400/220 2,30T-BRAZ400AT3-R,TRANSELECTRICA,,,577.0,400.0,231.0,0.49,47.6,-4.98,0.47,,,,1.25,,,Brazi Vest,Transformer,RO,SGM
+TR Bucuresti Sud 400/220 1,30T-BUCU400AT3-J,TRANSELECTRICA,,,577.0,400.0,231.0,0.51,52.0,-4.96,0.61,,,,1.25,,,Bucuresti Sud,Transformer,RO,SGM
+TR Bucuresti Sud 400/220 2,30T-BUCU400AT4-R,TRANSELECTRICA,,,577.0,400.0,231.0,0.51,52.0,-4.96,0.61,,,,1.25,,,Bucuresti Sud,Transformer,RO,SGM
+TR Gutinas 400/220 1,30T-GUTI400AT5-2,TRANSELECTRICA,,,577.0,400.0,231.0,0.66,42.51,-4.99,0.39,,,,1.25,,,Gutinas,Transformer,RO,SGM
+TR Gutinas 400/220 2,30T-GUTI400AT61W,TRANSELECTRICA,,,577.0,400.0,231.0,0.66,42.51,-4.99,0.39,,,,1.25,,,Gutinas,Transformer,RO,SGM
+TR Iernut 400/220 1,30T-IERN400AT1-U,TRANSELECTRICA,,,577.0,400.0,231.0,0.85,40.67,-4.97,0.56,,,,1.25,,,Iernut,Transformer,RO,SGM
+TR Lacu Sarat 400/220 1,30T-LACS400AT3-Q,TRANSELECTRICA,,,577.0,400.0,231.0,0.49,47.56,-4.98,0.43,,,,1.25,,,Lacu Sarat,Transformer,RO,SGM
+TR Lacu Sarat 400/220 2,30T-LACS400AT4-N,TRANSELECTRICA,,,577.0,400.0,231.0,0.49,47.52,-4.98,0.41,,,,1.25,,,Lacu Sarat,Transformer,RO,SGM
+TR Mintia 400/220 1,30T-MINT400AT3-T,TRANSELECTRICA,,,577.0,400.0,231.0,0.54,47.28,-4.98,0.47,,,,1.25,,,Mintia,Transformer,RO,SGM
+TR Portile de Fier 400/220 1,30T-PDFE400AT1-A,TRANSELECTRICA,,,721.0,400.0,231.0,0.46,40.64,-4.33,0.63,,,,1.25,,,Portile de Fier,Transformer,RO,SGM
+TR Portile de Fier 400/220 2,30T-PDFE400AT2-7,TRANSELECTRICA,,,721.0,400.0,231.0,0.46,40.64,-4.33,0.63,,,,1.25,,,Portile de Fier,Transformer,RO,SGM
+TR Portile de Fier 400/220 3,30T-PDFE400AT3-4,TRANSELECTRICA,,,721.0,400.0,231.0,0.51,40.89,-6.22,0.58,,,,1.25,,,Portile de Fier,Transformer,RO,SGM
+TR Rosiori 400/220,30T-ROSI400AT--1,TRANSELECTRICA,,,577.0,400.0,231.0,0.49,47.6,-4.98,0.47,,,,1.25,,,Rosiori,Transformer,RO,SGM
+TR Sibiu Sud 400/220 1,30T-SIBI400AT5-M,TRANSELECTRICA,,,577.0,400.0,231.0,0.6,43.68,-4.99,0.38,,,,1.0,,,Sibiu Sud,Transformer,RO,SGM
+TR Sibiu Sud 400/220 2,30T-SIBI400AT6-J,TRANSELECTRICA,,,577.0,400.0,231.0,0.6,43.68,-4.99,0.38,,,,1.0,,,Sibiu Sud,Transformer,RO,SGM
+TR Slatina 400/220 1,30T-SLAT400AT1-N,TRANSELECTRICA,,,577.0,400.0,231.0,0.7,42.79,-4.99,0.39,,,,1.25,,,Slatina,Transformer,RO,SGM
+TR Slatina 400/220 2,30T-SLAT400AT2-K,TRANSELECTRICA,,,577.0,400.0,231.0,0.7,42.79,-4.99,0.39,,,,1.25,,,Slatina,Transformer,RO,SGM
+PST Urechesti 400/220 1,30T-UREC400AT--F,TRANSELECTRICA,,,577.0,400.0,231.0,1.02,45.99,-12.37,1.81,-12;0,60.0,Asymmetrical,,1.25,Connected in substation 400/220 kV Urechesti (RO),Urechesti,PST,RO,SGM
+TR Iernut 400/220 2,30TIERN400AT2--1,TRANSELECTRICA,,,577.0,400.0,231.0,0.51,47.2,-3.57,0.43,,,,1.25,,,Iernut,Transformer,RO,SGM
+TR Resita 400/220 kV 3,30TRESI400AT3--U,TRANSELECTRICA,,,577.0,400.0,231.0,0.4936,47.197,-4.98013,0.4453,,,,1.25,,,Resita,Transformer,RO,SGM
+PST Meeden PST W,49T000000000078O,TENNETBV,1520.0,1520.0,,400.0,400.0,0.1295,10.006,-5.89091,2.7701,-5/5,90.0,Symmetrical,,4.549,Connected to tie-lie 10T-DE-NL-00002T and 10T-DE-NL-00001V,Meeden,PST,NL,SGM
+PST Meeden PST Z,49T000000000077Q,TENNETBV,1520.0,1520.0,,400.0,400.0,0.1295,10.006,-5.89091,2.7701,-5/5,90.0,Symmetrical,,4.549,Connected to tie-lie 10T-DE-NL-00002T and 10T-DE-NL-00001V,Meeden,PST,NL,SGM
+TR Eemshaven Hogeland 380kV TR 421,49T000000000184P,TENNETBV,1140.0,1140.0,,400.0,220.0,0.091,31.529,-10.3425,0.9695,,,,,,,Eemshaven,Transformer,NL,SGM
+TR Eemshaven 380kV TR 423,49T000000000183R,TENNETBV,1140.0,1140.0,,400.0,220.0,0.091,31.529,-10.3425,0.9695,,,,,,,Eemshaven,Transformer,NL,SGM
+TR Eemshaven 380kV TR 401,49T000000000181V,TENNETBV,1140.0,1140.0,,400.0,220.0,0.0912,30.585,-10.3425,0.9695,,,,,,,Eemshaven,Transformer,NL,SGM
+TR Eemshaven 380kV TR 402,49T000000000182T,TENNETBV,1140.0,1140.0,,400.0,220.0,0.091,31.669,-10.3425,0.9695,,,,,,,Eemshaven,Transformer,NL,SGM
+TR Ens 380kV TR 404,49T000000000187J,TENNETBV,1140.0,1140.0,,400.0,220.0,0.1116,42.923,-6.88545,0.741,,,,,,,Ens,Transformer,NL,SGM
+TR Ens 380kV TR 402,49T000000000185N,TENNETBV,760.0,760.0,,400.0,220.0,0.0912,31.462,-10.3425,0.9695,,,,,,,Ens,Transformer,NL,SGM
+TR Ens 380kV TR 403,49T000000000186L,TENNETBV,760.0,760.0,,400.0,220.0,0.2117,43.136,-6.90189,0.5679,,,,,,,Ens,Transformer,NL,SGM
+TR Meeden 380kV TR 402,49T000000000188H,TENNETBV,1140.0,1140.0,,400.0,220.0,0.0626,30.653,-10.3444,0.9488,,,,,,,Meeden,Transformer,NL,SGM
+PST Diele T441,11TD2T000000035V,TENNETGMBH,,,1870.0,380.0,380.0,0.11,12.32,-2.44,0.96,-10;10,90.0,Symmetrical,,1.271,"Connected to the line ""Conneforde - Diele rot"" (EIC: 11TD2L0000000471)",Diele,PST,DE,SGM
+PST Diele T442,11TD2T000000036T,TENNETGMBH,,,1870.0,380.0,380.0,0.11,12.32,-2.45,0.94,-10;10,90.0,Symmetrical,,1.271,"Connected to the line ""Conneforde - Diele weiss"" (EIC: 11TD2L000000049Y)",Diele,PST,DE,SGM
+PST Krempermarsch T441A,11T0-0000-2314-M,TENNETGMBH,,,2399.0,380.0,380.0,0.1,11.98,-2.08,1.29,,90.0,Symmetrical,,1.271,"Connected to the lines ""Krempermarsch - Stade/W rot"" (EIC: 11T0-0000-2198-P) and ""Wilster/W - Krempermarsch rot"" (EIC: 11T0-0000-2199-M)",Krempermarsch,PST,DE,SGM
+PST Krempermarsch T441B,11T0-0000-2318-A,TENNETGMBH,,,2000.0,380.0,380.0,0.1,11.94,-2.4,1.24,,90.0,Symmetrical,,1.271,"Connected to the lines ""Krempermarsch - Stade/W rot"" (EIC: 11T0-0000-2198-P) and ""Wilster/W - Krempermarsch rot"" (EIC: 11T0-0000-2199-M)",Krempermarsch,PST,DE,SGM
+PST Krempermarsch T442A,11T0-0000-2320-U,TENNETGMBH,,,2399.0,380.0,380.0,0.1,11.91,-2.29,1.26,,90.0,Symmetrical,,1.271,"Connected to the lines ""Krempermarsch - Stade/W gelb"" (EIC: 11T0-0000-2192-6) and ""Wilster/W - Krempermarsch gelb"" (EIC: 11T0-0000-2191-9)",Krempermarsch,PST,DE,SGM
+PST Krempermarsch T442B,11T0-0000-2316-G,TENNETGMBH,,,2399.0,380.0,380.0,0.1,11.93,-2.29,1.26,,90.0,Symmetrical,,1.271,"Connected to the lines ""Krempermarsch - Stade/W gelb"" (EIC: 11T0-0000-2192-6) and ""Wilster/W - Krempermarsch gelb"" (EIC: 11T0-0000-2191-9)",Krempermarsch,PST,DE,SGM
+PST Wuergau T441A,11T0-0000-1915-W,TENNETGMBH,,,2399.0,380.0,380.0,0.1,11.98,-2.3,1.26,,90.0,Symmetrical,,1.271,"Connected to the line ""Redwitz - Wuergau 436"" (EIC: 11TD2L000000255V)",Wuergau,PST,DE,SGM
+PST Wuergau T441B,11T0-0000-1916-T,TENNETGMBH,,,2399.0,380.0,380.0,0.1,11.97,-2.3,1.25,,90.0,Symmetrical,,1.271,"Connected to the line ""Redwitz - Wuergau 436"" (EIC: 11TD2L000000255V)",Wuergau,PST,DE,SGM
+PST Wuergau T442A,11T0-0000-1917-Q,TENNETGMBH,,,2399.0,380.0,380.0,0.1,11.97,-2.3,1.25,,90.0,Symmetrical,,1.271,"Connected to the line ""Redwitz - Wuergau 457"" (EIC: 11T0-0000-1906-X)",Wuergau,PST,DE,SGM
+PST Wuergau T442B,11T0-0000-1918-N,TENNETGMBH,,,2399.0,380.0,380.0,0.1,12.03,-2.29,1.27,,90.0,Symmetrical,,1.271,"Connected to the line ""Redwitz - Wuergau 457"" (EIC: 11T0-0000-1906-X)",Wuergau,PST,DE,SGM
+TR Audorf/S T421,11TD2T0000000142,TENNETGMBH,,,811.0,380.0,220.0,0.48,46.61,-0.61,0.49,,,,1.111,,,Audorf/S,Transformer,DE,SGM
+TR Audorf/S T422,11T0-0000-0019-Y,TENNETGMBH,,,811.0,380.0,220.0,0.42,45.94,-0.3,0.51,,,,1.111,,,Audorf/S,Transformer,DE,SGM
+TR Bechterdissen T423,11TD2T000000245K,TENNETGMBH,,,721.0,380.0,220.0,0.79,61.04,-0.5,0.89,,,,1.231,,,Bechterdissen,Transformer,DE,SGM
+TR Bechterdissen T424,11TD2T000000246I,TENNETGMBH,,,721.0,380.0,220.0,0.79,60.92,-0.63,0.81,,,,1.231,,,Bechterdissen,Transformer,DE,SGM
+TR Buettel 441,11TD2T000000208Q,TENNETGMBH,,,2061.0,380.0,220.0,0.58,58.42,-2.03,1.17,,,,1.0,,,Buettel,Transformer,DE,SGM
+TR Buettel 442,11TD2T000000209O,TENNETGMBH,,,2061.0,380.0,220.0,0.58,58.39,-1.9,1.19,,,,1.0,,,Buettel,Transformer,DE,SGM
+TR Conneforde/O T422,11TD2T000000033Z,TENNETGMBH,,,631.0,380.0,220.0,1.01,65.36,-0.51,0.74,,,,1.231,,,Conneforde/O,Transformer,DE,SGM
+TR Conneforde/O T423,11T0-0000-1608-5,TENNETGMBH,,,811.0,380.0,220.0,0.41,45.9,-7.97,0.48,,,,1.111,,,Conneforde/O,Transformer,DE,SGM
+TR Diele T1,11TD2T000000219L,TENNETGMBH,,,1177.0,380.0,220.0,0.86,53.55,-0.62,0.93,,,,1.304,,,Diele,Transformer,DE,SGM
+TR Doerpen/W T441,11TD2T000000229I,TENNETGMBH,,,1734.0,380.0,380.0,0.61,42.11,-0.68,1.18,,,,1.316,,Transformer at converter station connected to offshore windfarm,Doerpen/W,Transformer,DE,SGM
+TR Doerpen/W T442,11TD2T000000230X,TENNETGMBH,,,1734.0,380.0,380.0,0.61,41.94,-0.67,1.18,,,,1.316,,Transformer at converter station connected to offshore windfarm,Doerpen/W,Transformer,DE,SGM
+TR Doerpen/W T443,11TD2T000000227M,TENNETGMBH,,,1955.0,380.0,380.0,0.6,42.9,-0.67,1.16,,,,1.389,,Transformer at converter station connected to offshore windfarm,Doerpen/W,Transformer,DE,SGM
+TR Doerpen/W T444,11TD2T000000228K,TENNETGMBH,,,1955.0,380.0,380.0,1.37,43.08,-0.67,1.16,,,,1.389,,Transformer at converter station connected to offshore windfarm,Doerpen/W,Transformer,DE,SGM
+TR Emden/O T425,11T0-0000-0070-0,TENNETGMBH,,,811.0,380.0,220.0,0.42,45.62,-0.32,0.5,,,,1.111,,,Emden/O,Transformer,DE,SGM
+TR Emden/O T428,11T0-0000-1589-C,TENNETGMBH,,,811.0,380.0,220.0,0.42,45.87,-4.31,0.47,,,,1.111,,,Emden/O,Transformer,DE,SGM
+TR Fedderwarden T421,11TD2T000000129M,TENNETGMBH,,,811.0,380.0,220.0,0.52,47.07,-0.41,0.57,,,,1.111,,,Fedderwarden,Transformer,DE,SGM
+TR Fedderwarden T422,11TD2T0000001300,TENNETGMBH,,,811.0,380.0,220.0,0.52,47.11,-0.65,0.54,,,,1.111,,,Fedderwarden,Transformer,DE,SGM
+TR Grosskrotzenburg T421,11TD2T000000070T,TENNETGMBH,,,1082.0,380.0,220.0,0.71,51.2,-4.88,1.93,,,,1.385,,,Grosskrotzenburg,Transformer,DE,SGM
+TR Grosskrotzenburg T422,11TD2T000000071R,TENNETGMBH,,,528.0,380.0,220.0,1.22,59.14,-9.54,1.71,,,,2.0,,,Grosskrotzenburg,Transformer,DE,SGM
+TR Grosskrotzenburg T423,11TD2T000000072P,TENNETGMBH,,,1082.0,380.0,220.0,0.71,51.46,-6.82,1.94,,,,1.385,,,Grosskrotzenburg,Transformer,DE,SGM
+TR Irsching T421,11TD2T000000096B,TENNETGMBH,,,866.0,380.0,220.0,0.72,51.52,-1.3,1.35,,,,1.231,,,Irsching,Transformer,DE,SGM
+TR Landesbergen T422,11TD2T000000116V,TENNETGMBH,,,1082.0,380.0,220.0,0.66,49.86,-8.03,1.88,,,,1.385,,,Landesbergen,Transformer,DE,SGM
+TR Landesbergen T423,11TD2T000000117T,TENNETGMBH,,,523.0,380.0,220.0,1.1,65.45,-5.07,1.76,,,,2.022,,,Landesbergen,Transformer,DE,SGM
+TR Oberbachern T421,11TD2T000000143S,TENNETGMBH,,,926.0,380.0,220.0,0.64,49.17,-3.64,1.94,,,,1.231,,,Oberbachern,Transformer,DE,SGM
+TR Ottenhofen T426,11TD2T000000146M,TENNETGMBH,,,917.0,380.0,220.0,0.67,49.46,-4.93,1.8,,,,1.231,,,Ottenhofen,Transformer,DE,SGM
+TR Ottenhofen T427,11TD2T000000147K,TENNETGMBH,,,952.0,380.0,220.0,0.67,49.2,-6.83,2.03,,,,1.231,,,Ottenhofen,Transformer,DE,SGM
+TR Pleinting T421,11TD2T000000155L,TENNETGMBH,,,952.0,380.0,220.0,0.59,47.84,-5.67,1.97,,,,1.25,,,Pleinting,Transformer,DE,SGM
+TR Pleinting T422,11TD2T000000156J,TENNETGMBH,,,952.0,380.0,220.0,0.66,48.85,-6.47,1.93,,,,1.231,,,Pleinting,Transformer,DE,SGM
+TR Raitersaich T421,11TD2T000000160S,TENNETGMBH,,,926.0,380.0,220.0,0.68,50.37,-2.14,1.52,,,,1.245,,,Raitersaich,Transformer,DE,SGM
+TR Siems T421,11TD2T000000172L,TENNETGMBH,,,631.0,380.0,220.0,1.07,86.44,-0.74,0.65,,,,1.231,,,Siems,Transformer,DE,SGM
+TR Sottrum T421,11TD2T000000180M,TENNETGMBH,,,811.0,380.0,220.0,0.49,46.82,-0.57,0.5,,,,1.111,,,Sottrum,Transformer,DE,SGM
+TR Stade/W T421,11T0-0000-1686-G,TENNETGMBH,,,811.0,380.0,220.0,0.42,45.76,-8.68,0.49,,,,1.111,,,Stade/W,Transformer,DE,SGM
+TR Stade/W T422,11T0-0000-1687-D,TENNETGMBH,,,811.0,380.0,220.0,0.42,45.87,-7.16,0.46,,,,1.111,,,Stade/W,Transformer,DE,SGM
+TR Unterweser T421,11TD2T000000206U,TENNETGMBH,,,1122.0,380.0,220.0,0.51,24.0,-3.84,1.5,,,,1.385,,,Unterweser,Transformer,DE,SGM
+TR Wahle T421,11TD2T000000191H,TENNETGMBH,,,1082.0,380.0,220.0,0.71,49.86,-3.9,1.75,,,,1.385,,,Wahle,Transformer,DE,SGM
+TR Wahle T422,11TD2T000000192F,TENNETGMBH,,,1082.0,380.0,220.0,0.62,52.26,-4.92,1.84,,,,1.4,,,Wahle,Transformer,DE,SGM
+TR Wuergassen T421,11TD2T0000001975,TENNETGMBH,,,509.0,380.0,220.0,1.32,60.59,-12.82,1.82,,,,2.011,,,Wuergassen,Transformer,DE,SGM
+TR Wuergassen T423,11T0-0000-2102-5,TENNETGMBH,,,405.0,380.0,220.0,1.19,101.01,-0.47,0.54,,,,1.231,,,Wuergassen,Transformer,DE,SGM
+PST / 380-220kV / Buers / Trafo 37,11T0-0000-0082-R,TRANSNETBW,,,634.0,380.0,220.0,0.21,19.32,-11.21,3.45,-17;17,90.0,Asymmetrical,1.14,1.794,,Buers,PST,DE,SGM
+TR / 380-220kV / Buers / Trafo 31,11T0-0000-0091-Q,TRANSNETBW,,,499.0,380.0,220.0,0.99,83.23,-3.04,0.76,,0.0,Symmetrical,1.154,,,Buers,PST,DE,SGM
+TR / 380-220kV / Buers / Trafo 32,11T0-0000-0092-N,TRANSNETBW,,,499.0,380.0,220.0,0.98,83.41,-3.51,0.75,,0.0,Symmetrical,1.154,,,Buers,PST,DE,SGM
+TR / 380-220kV / Buers / Trafo 33,11T0-0000-0093-K,TRANSNETBW,,,499.0,380.0,220.0,1.15,81.54,-2.25,0.74,,0.0,Symmetrical,1.154,,,Buers,PST,DE,SGM
+TR / 380-220kV / Buers / Trafo 34,11T0-0000-0094-H,TRANSNETBW,,,499.0,380.0,220.0,1.19,81.21,-2.5,0.63,,0.0,Symmetrical,1.154,,,Buers,PST,DE,SGM
+TR / 380-220kV / Daxlanden / Trafo 401,11TD400000023-T9,TRANSNETBW,,,1443.0,380.0,220.0,0.25,24.64,-2.27,1.06,,0.0,Symmetrical,1.389,,,Daxlanden,PST,DE,SGM
+TR / 380-220kV / Daxlanden / Trafo 402,11TD400000028-TQ,TRANSNETBW,,,1443.0,380.0,220.0,0.34,24.16,-7.58,1.61,,0.0,Symmetrical,1.444,,,Daxlanden,PST,DE,SGM
+TR / 380-220kV / Eichstetten / Trafo 401,11TD400000041-T7,TRANSNETBW,,,1443.0,380.0,220.0,0.24,24.37,-2.05,1.07,,0.0,Symmetrical,1.389,,,Eichstetten,PST,DE,SGM
+TR / 380-220kV / Kuehmoos Trafo 401,12T-0000000591-H,TRANSNETBW,,,953.0,380.0,220.0,0.4,24.48,-10.64,1.32,-4;6,-120.0,Asymmetrical,1.385,,,Kuehmoos,PST,DE,SGM
+TR / 380-220kV / Neurott / Trafo 402,11TD400000127-TO,TRANSNETBW,,,953.0,380.0,220.0,0.71,24.24,-3.23,1.47,,0.0,Symmetrical,1.385,,,Neurott,PST,DE,SGM
+TR / 380-220kV / Neurott / Trafo 401,11TD400000125-TW,TRANSNETBW,,,1506.0,220.0,380.0,0.19,8.13,-7.91,3.52,,0.0,Symmetrical,1.231,,,Neurott,PST,DE,SGM
+TR / 380-220kV / Pulverdingen / Trafo 323,11TD400000144-TQ,TRANSNETBW,,,1506.0,220.0,380.0,0.18,10.23,-2.09,1.92,,0.0,Symmetrical,1.231,,,Pulverdingen,PST,DE,SGM
+TR Arefu 400/220 kV 3,30TAREFU300AT3-N,TRANSELECTRICA,,,577.0,400.0,231.0,0.49,47.04,-0.58,0.39,,,,1.25,,,Arefu,Transformer,RO,SGM
+TR Bucuresti Sud 400/110 3,30T-BUCU400TR3-6,TRANSELECTRICA,,,1192.0,400.0,121.0,0.109,9.8499,-3.97892,5.7603,,,,1.56,,,Bucuresti Sud,Transformer,RO,SGM
+TR Bucuresti Sud 400/110 4,30T-BUCU400TR4-3,TRANSELECTRICA,,,,,,,,,,,,,,,,Bucuresti Sud,Transformer,RO,SGM

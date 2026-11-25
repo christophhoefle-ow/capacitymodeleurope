@@ -1,0 +1,109 @@
+substation,finding
+Chevalet,Ambiguous name: probably joins different sites (same name at several operators?)
+Creney,Ambiguous name: probably joins different sites (same name at several operators?)
+Ernestinovo,Ambiguous name: probably joins different sites (same name at several operators?)
+Podlog,Ambiguous name: probably joins different sites (same name at several operators?)
+Skawina,Ambiguous name: probably joins different sites (same name at several operators?)
+Klixbuell/S,"Check: position from a TSO file, but the connected lines do not fit one site (same name for two sites, or a wrong coordinate)"
+Hradec,TSO file differs from OpenStreetMap by 81 km: OpenStreetMap position used
+Stalldorf,TSO file differs from OpenStreetMap by 50 km: OpenStreetMap position used
+Meissen,TSO file differs from OpenStreetMap by 46 km: OpenStreetMap position used
+Wehrendorf,TSO file differs from OpenStreetMap by 43 km: OpenStreetMap position used
+Hoepfingen,TSO file differs from OpenStreetMap by 37 km: OpenStreetMap position used
+Veltheim,TSO file differs from OpenStreetMap by 28 km: OpenStreetMap position used
+Lage,TSO file differs from OpenStreetMap by 24 km: OpenStreetMap position used
+Remptendorf,TSO file differs from OpenStreetMap by 23 km: OpenStreetMap position used
+Meitingen,TSO file differs from OpenStreetMap by 23 km: OpenStreetMap position used
+Altenfeld,TSO file differs from OpenStreetMap by 22 km: OpenStreetMap position used
+Wolmirstedt,TSO file differs from OpenStreetMap by 20 km: OpenStreetMap position used
+Buettel,TSO file differs from OpenStreetMap by 19 km: OpenStreetMap position used
+Grosskrotzenburg,TSO file differs from OpenStreetMap by 18 km: OpenStreetMap position used
+Urberach,TSO file differs from OpenStreetMap by 17 km: OpenStreetMap position used
+Bergrheinfeld/W,TSO file differs from OpenStreetMap by 17 km: OpenStreetMap position used
+Karben,TSO file differs from OpenStreetMap by 16 km: OpenStreetMap position used
+Guetersloh,TSO file differs from OpenStreetMap by 15 km: OpenStreetMap position used
+Ganderkesee,TSO file differs from OpenStreetMap by 15 km: OpenStreetMap position used
+Asslar,TSO file differs from OpenStreetMap by 15 km: OpenStreetMap position used
+Doernigheim,TSO file differs from OpenStreetMap by 14 km: OpenStreetMap position used
+Y-Doernigheim,TSO file differs from OpenStreetMap by 14 km: OpenStreetMap position used
+Alfstedt,TSO file differs from OpenStreetMap by 14 km: OpenStreetMap position used
+Aschaffenburg,TSO file differs from OpenStreetMap by 14 km: OpenStreetMap position used
+Hamburg/N,TSO file differs from OpenStreetMap by 14 km: OpenStreetMap position used
+Nehden,TSO file differs from OpenStreetMap by 14 km: OpenStreetMap position used
+Frankfurt/N,TSO file differs from OpenStreetMap by 13 km: OpenStreetMap position used
+Ohlensehlen,TSO file differs from OpenStreetMap by 12 km: OpenStreetMap position used
+Dauersberg,TSO file differs from OpenStreetMap by 11 km: OpenStreetMap position used
+Bechterdissen,TSO file differs from OpenStreetMap by 11 km: OpenStreetMap position used
+Dillenburg,TSO file differs from OpenStreetMap by 10 km: OpenStreetMap position used
+Niedervieland,TSO file differs from OpenStreetMap by 10 km: OpenStreetMap position used
+Y-Frankfurt/SW,TSO file differs from OpenStreetMap by 10 km: OpenStreetMap position used
+Farge,TSO file differs from OpenStreetMap by 9 km: OpenStreetMap position used
+Dipperz,TSO file differs from OpenStreetMap by 9 km: OpenStreetMap position used
+Plattling,TSO file differs from OpenStreetMap by 9 km: OpenStreetMap position used
+Y-Plattling,TSO file differs from OpenStreetMap by 9 km: OpenStreetMap position used
+Frankfurt/SW,TSO file differs from OpenStreetMap by 9 km: OpenStreetMap position used
+Emden/O,TSO file differs from OpenStreetMap by 8 km: OpenStreetMap position used
+Dettingen,TSO file differs from OpenStreetMap by 8 km: OpenStreetMap position used
+Doerpen/W,TSO file differs from OpenStreetMap by 8 km: OpenStreetMap position used
+Oberhaid,TSO file differs from OpenStreetMap by 8 km: OpenStreetMap position used
+Brokdorf,TSO file differs from OpenStreetMap by 7 km: OpenStreetMap position used
+Y-Niederlangen,TSO file differs from OpenStreetMap by 6 km: OpenStreetMap position used
+Y-Erzhausen,TSO file differs from OpenStreetMap by 6 km: OpenStreetMap position used
+Niederlangen,TSO file differs from OpenStreetMap by 6 km: OpenStreetMap position used
+Y-Dauersberg,TSO file differs from OpenStreetMap by 6 km: OpenStreetMap position used
+Neufinsing,TSO file differs from OpenStreetMap by 6 km: OpenStreetMap position used
+Isar,TSO file differs from OpenStreetMap by 6 km: OpenStreetMap position used
+Mechlenreuth,TSO file differs from OpenStreetMap by 5 km: OpenStreetMap position used
+Maade,TSO file differs from OpenStreetMap by 5 km: OpenStreetMap position used
+Wahle,TSO file differs from OpenStreetMap by 5 km: OpenStreetMap position used
+Zolling,TSO file differs from OpenStreetMap by 5 km: OpenStreetMap position used
+Meppen,TSO file differs from OpenStreetMap by 5 km: OpenStreetMap position used
+St. Peter (DE),Anchor removed: does not fit the line lengths (162 violations); check coordinate or name mix-up
+Meissen,Anchor removed: does not fit the line lengths (120 violations); check coordinate or name mix-up
+Vyskov,Anchor removed: does not fit the line lengths (80 violations); check coordinate or name mix-up
+Dettingen,Anchor removed: does not fit the line lengths (75 violations); check coordinate or name mix-up
+Erzhausen,Anchor removed: does not fit the line lengths (38 violations); check coordinate or name mix-up
+Voerden,Anchor removed: does not fit the line lengths (19 violations); check coordinate or name mix-up
+Marienberg,Anchor removed: does not fit the line lengths (17 violations); check coordinate or name mix-up
+Schmölln,Anchor removed: does not fit the line lengths (12 violations); check coordinate or name mix-up
+Gabcikovo,Anchor removed: does not fit the line lengths (5 violations); check coordinate or name mix-up
+Arad,Anchor removed: does not fit the line lengths (4 violations); check coordinate or name mix-up
+Byczyna,Anchor removed: does not fit the line lengths (4 violations); check coordinate or name mix-up
+Gleidingen,Anchor removed: does not fit the line lengths (3 violations); check coordinate or name mix-up
+Gonyu,Anchor removed: does not fit the line lengths (3 violations); check coordinate or name mix-up
+Kassoe,Anchor removed: does not fit the line lengths (3 violations); check coordinate or name mix-up
+Leupolz,Anchor removed: does not fit the line lengths (3 violations); check coordinate or name mix-up
+Malchow,Anchor removed: does not fit the line lengths (3 violations); check coordinate or name mix-up
+Cirkovce,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Divaca,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Gyor,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Maasbracht,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Matrei,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Mukachevo,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Redwitz,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Subotica,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Zaya,Anchor removed: does not fit the line lengths (2 violations); check coordinate or name mix-up
+Babylon,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Calea Aradului,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Dasny,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Dauersberg,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Diele,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Duernrohr,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Eisenach,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Kainachtal,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Liskovec,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Meitingen,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Mostar,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Mutterstadt,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Nosovice,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Oberhaid,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Oberzier,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Pancevo,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Silz,Anchor removed: does not fit the line lengths (1 violations); check coordinate or name mix-up
+Subotica,"Position rejected: (46.51, 20.08) is outside RS; check the anchor"
+Wagenham,"Position rejected: (46.12, 13.51) is outside AT; check the anchor"
+Wien,"Position rejected: (47.89, 17.66) is outside AT; check the anchor"
+Y-Tiengen,"Position rejected: (47.01, 6.96) is outside DE; check the anchor"
+Zahidno Ukrainska,"Position rejected: (48.38, 21.35) is outside UA; check the anchor"
+Meiningen,"Position rejected: (50.57, 10.42) is outside CH; check the anchor"
+Werben,"Position rejected: (52.88, 11.75) is outside AT; check the anchor"

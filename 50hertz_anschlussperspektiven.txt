@@ -1,0 +1,43 @@
+Umspannwerk
+Indikation zur
+derzeit
+verfügbaren
+Rückspeisekapazität am
+Standort*
+Indikation zur
+derzeit
+verfügbaren
+Lastkapazität
+am Standort*
+Indikation zur
+Verfügbarkeit von
+Schaltfeldern bei
+Berücksichtigung
+der Antragslage*
+UW Altdöbern nicht überbucht UW Klostermansfeld belegt
+UW Altentreptow/Süd nicht überbucht UW Marke belegt
+UW Bentwisch überbucht UW Neuenhagen belegt
+UW Eisenhüttenstadt überbucht UW Parchim/Süd überbucht
+UW Eula überbucht UW Pasewalk belegt
+UW Förderstedt belegt UW Preilack belegt
+UW Görries belegt UW Putlitz/Süd überbucht
+UW Gransee überbucht UW Ragow überbucht
+UW Graustein nicht überbucht UW Schönewalde überbucht
+UW Heinersdorf überbucht UW Siedenbrünzow belegt
+UW Jessen/Nord nicht überbucht UW Wolmirstedt belegt
+
+(*) Wichtige Hinweise zur Einordnung der Angaben:
+Bestandsumspannwerke, die hier nicht ausgewiesen sind, bieten nach derzeitigem Stand keine Anschlussmöglichkeit.
+Derzeit verfügbare Kapazitäten am Bestandsumspannwerk
+> 2.000 MW
+1.500 – 2.000 MW
+1.000 – 1.500 MW
+500 – 1.000 MW
+< 500 MW
+Vorläufige Antragslage lässt Überbuchung erwarten
+Schaltfeldverfügbarkeit an Bestandsumspannwerken
+(unter Berücksichtigung der aktuellen Antragslage)
+nicht
+überbucht:
+überbucht:
+belegt:

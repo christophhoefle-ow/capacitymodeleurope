@@ -1,0 +1,31 @@
+key,value
+created_utc,2026-11-25 20:36
+pipeline_version,0.2.0
+git_commit,local
+region,Core CCR
+scenario,base_case
+tsos_configured,16
+countries_configured,13
+countries_in_data,"AT, BE, CZ, DE, FR, HR, HU, NL, PL, RO, SI, SK"
+data_from_day,2026-11-16
+data_to_day,2026-11-16
+days_with_data,1
+days_complete,0
+sgm_release,"202603, release 9"
+util_high,0.8
+util_overload,1.0
+jao_dataset,finalComputation
+schema_version,1
+expansion_projects,20
+expansion_as_of,2026-11-25
+match_alias,0
+match_eic,747
+match_name,21
+match_substations,10
+match_unmatched,87
+connection_sources,50HERTZ: 22 substations as of 2025-08-24 (ok); AMPRION: 10 substations as of 2026-04-01 (ok); TENNETGMBH: 0 substations as of  (not read yet); TRANSNETBW: 52 substations as of 2026-04-01 (ok)
+connection_rows,83
+connection_findings,10
+homonyms_split,2
+substation_aliases_applied,9
+note,"Example data: only one hour (16.11.2026, 00:00 to 01:00 UTC, test file of the project team), no live run of the pipeline yet"

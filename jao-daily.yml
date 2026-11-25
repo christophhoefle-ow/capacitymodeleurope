@@ -1,0 +1,90 @@
+name: Fetch JAO utilization
+
+# Daily in the evening (UTC), deliberately NOT in the publication window in the morning (JAO API guide, ch. 4.1).
+# Can be started by hand with dates to catch up a period:
+#   Actions -> "Fetch JAO utilization" -> Run workflow -> fill the fields.
+# Region: all 16 Core TSOs (13 countries); scenario and thresholds: config/config.yml.
+on:
+  schedule:
+    - cron: "15 20 * * *"
+  workflow_dispatch:
+    inputs:
+      from_date:
+        description: "Catch up from (YYYY-MM-DD). Empty = missing days of the last 7 days, automatically"
+        required: false
+        type: string
+      to_date:
+        description: "Catch up to (YYYY-MM-DD). Empty = today"
+        required: false
+        type: string
+      force:
+        description: "Fetch complete days again"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-writes             # one group for every workflow that writes into the repository: never two at the same time
+  cancel-in-progress: false      # (JAO also asks for one request after the other)
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m pytest -q
+
+      - name: Fetch JAO
+        id: fetch
+        continue-on-error: true          # days already fetched should still be saved
+        env:
+          JAO_API_TOKEN: ${{ secrets.JAO_API_TOKEN }}      # optional
+          FROM_DATE: ${{ inputs.from_date }}
+          TO_DATE: ${{ inputs.to_date }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          ARGS=""
+          if [ -n "$FROM_DATE" ]; then ARGS="--from $FROM_DATE"; fi
+          if [ -n "$TO_DATE" ];   then ARGS="$ARGS --to $TO_DATE"; fi
+          if [ "$FORCE" = "true" ]; then ARGS="$ARGS --force"; fi
+          python scripts/fetch_jao.py $ARGS
+
+      - name: Build delivery files for Excel
+        run: python scripts/build_processed.py
+      - name: Update map locations of new substations
+        run: python scripts/estimate_coordinates.py --if-needed
+      - name: Map for GitHub (a .geojson file is shown as an interactive map in the repository)
+        run: python scripts/build_map.py --geojson data/processed/network_map.geojson
+
+      - name: Save changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/interim data/processed
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Data: JAO utilization updated ($(date -u +%F))"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Make errors visible
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "::error::At least one day could not be fetched - read the log of the step 'Fetch JAO'"
+          exit 1

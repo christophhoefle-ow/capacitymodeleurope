@@ -1,0 +1,57 @@
+name: Build Excel model
+# Builds the finished workbook (with calculated values) and the browser map from the current data files and publishes them:
+#   Capacity_Model_Core_refreshable.xlsx   with built-in data connections (address = this repository; must be publicly readable)
+#   Capacity_Model_Core.xlsx               without connections (snapshot)
+#   network_map.html                       the network on a real map background for the browser
+# Download: page Releases, release 'model-latest' (stable links), or Actions > run > artifact 'Capacity_Model'.
+# Runs every Monday, after a new network model or new map geodata, and on demand. Nobody has to start it.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 5 * * 1"           # Monday 05:30 UTC, after the weekly fetch of the connection capacity (04:00)
+  workflow_run:
+    workflows: ["Update network model", "Update map geodata"]
+    types: [completed]
+permissions:
+  contents: write
+jobs:
+  build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Tests
+        run: python -m pytest -q
+      - name: Install LibreOffice (calculates the stored values)
+        run: sudo apt-get update -y && sudo apt-get install -y --no-install-recommends libreoffice-calc
+      - name: Build model (with and without data connections) and the browser map
+        run: |
+          BASE="https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.repository.default_branch }}/data/processed/"
+          python scripts/build_excel_model.py --out build/Capacity_Model_Core_refreshable.xlsx --base-url "$BASE"
+          python scripts/build_excel_model.py --out build/Capacity_Model_Core.xlsx --no-connections
+          python scripts/build_map.py --html build/network_map.html
+      - name: Calculate and store the values (about 5 to 10 minutes each)
+        run: |
+          python scripts/calc_workbook.py build/Capacity_Model_Core.xlsx
+          python scripts/calc_workbook.py build/Capacity_Model_Core_refreshable.xlsx
+      - name: Check the model independently
+        run: python scripts/check_model.py build/Capacity_Model_Core.xlsx
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Capacity_Model
+          path: |
+            build/*.xlsx
+            build/network_map.html
+          retention-days: 30
+      - name: Publish as release (stable download links)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view model-latest >/dev/null 2>&1 || gh release create model-latest --title "Capacity model (latest)" --notes "Built automatically from the current data files."
+          gh release upload model-latest build/*.xlsx build/network_map.html --clobber

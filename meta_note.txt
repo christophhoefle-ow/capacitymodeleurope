@@ -1,0 +1,1 @@
+Example data: only one hour (16.11.2026, 00:00 to 01:00 UTC, test file of the project team), no live run of the pipeline yet

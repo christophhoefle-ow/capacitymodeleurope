@@ -1,0 +1,7 @@
+alias,substation,note
+Saint Peter,St. Peter,APG writes two lines with 'Saint Peter' (St. Peter - Salzburg 456A and St. Peter - Wagenham 455A): same site as St. Peter
+Hankenfaehr,Hanekenfaehr,typing variant in the JAO data (element Hanekenfaehr - Merzen FREREN N)
+Hanekenfaher E,Hanekenfaehr,typing variant in the transformer names of the Static Grid Model
+Herbentingen,Herbertingen,typing variant in the Static Grid Model (Y-Metzingen (-Herbertingen - Hoheneck))
+Kostermansfeld,Klostermansfeld,typing variant in the JAO data (Kostermansfeld - Lauchstaedt 538)
+Rohrsdorf,Röhrsdorf,CEPS spelling of the German end of the tie-line Hradec - Röhrsdorf (V445 and V446)
